@@ -1,0 +1,469 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for January, 2015, generated on 2015/02/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 421
+Number of records retrieved in searches: 3092
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Belgium ; Times: 1
+	Country: Benin ; Times: 3
+	Country: Brazil ; Times: 50
+	Country: Canada ; Times: 4
+	Country: Chile ; Times: 6
+	Country: Colombia ; Times: 6
+	Country: Cyprus ; Times: 2
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 1
+	Country: Germany ; Times: 7
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 39
+	Country: Netherlands ; Times: 3
+	Country: Poland ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: South Africa ; Times: 1
+	Country: Sweden ; Times: 15
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 225
+	Country: Unknown ; Times: 50
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-01 ; Times: 3
+	Date: 2015-01-03 ; Times: 1
+	Date: 2015-01-04 ; Times: 1
+	Date: 2015-01-05 ; Times: 17
+	Date: 2015-01-06 ; Times: 15
+	Date: 2015-01-07 ; Times: 24
+	Date: 2015-01-08 ; Times: 8
+	Date: 2015-01-09 ; Times: 7
+	Date: 2015-01-10 ; Times: 3
+	Date: 2015-01-11 ; Times: 14
+	Date: 2015-01-12 ; Times: 44
+	Date: 2015-01-13 ; Times: 37
+	Date: 2015-01-14 ; Times: 16
+	Date: 2015-01-15 ; Times: 18
+	Date: 2015-01-16 ; Times: 12
+	Date: 2015-01-17 ; Times: 11
+	Date: 2015-01-18 ; Times: 12
+	Date: 2015-01-19 ; Times: 18
+	Date: 2015-01-20 ; Times: 5
+	Date: 2015-01-21 ; Times: 19
+	Date: 2015-01-22 ; Times: 17
+	Date: 2015-01-23 ; Times: 8
+	Date: 2015-01-24 ; Times: 7
+	Date: 2015-01-25 ; Times: 6
+	Date: 2015-01-26 ; Times: 8
+	Date: 2015-01-27 ; Times: 8
+	Date: 2015-01-28 ; Times: 20
+	Date: 2015-01-29 ; Times: 16
+	Date: 2015-01-30 ; Times: 37
+	Date: 2015-01-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "cinclodes excelsior" ; Times: 3
+	Query: "lipaugus fuscocinereus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna" ; Times: 2
+	Query: "Megascops minnesota" ; Times: 2
+	Query: "Leucosticte Peavine Nevada" ; Times: 3
+	Query: "aves "university of oklahoma" AND (NOT OMNH)" ; Times: 1
+	Query: "ochraceus (alophoixus OR criniger)" ; Times: 1
+	Query: "Liocichla mappable:1" ; Times: 1
+	Query: "Glaucis hirsutus" ; Times: 1
+	Query: "Anthracothorax viridigula year >= 1800 year <= 2015" ; Times: 1
+	Query: "pyrrogenys (pellorneum)" ; Times: 1
+	Query: "inaccessible island rail" ; Times: 2
+	Query: "topaza pella" ; Times: 3
+	Query: "Chordeiles nacunda" ; Times: 1
+	Query: "lophorina tissue:1" ; Times: 2
+	Query: "Antrostomus arizonae Antrostomus arizonae type:specimen" ; Times: 1
+	Query: "Cercomacra manu" ; Times: 1
+	Query: "nesillas type:specimen" ; Times: 1
+	Query: "phylloscartes flavovirens" ; Times: 1
+	Query: "stateprovince:"Virginia" genus:sterna" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 2
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film)" ; Times: 2
+	Query: "type:specimen genus:Chamaeza" ; Times: 1
+	Query: "specificepithet:edithae genus:corvus" ; Times: 3
+	Query: "type:specimen stateprovince:"Kansas" specificepithet:verticalis genus:Tyrannus year >= 1800 year <= 1930" ; Times: 1
+	Query: "neopelma tissue:1" ; Times: 2
+	Query: "Catherpes mexicanus (nest)" ; Times: 1
+	Query: "coccyzus minor" ; Times: 1
+	Query: "coeligena wilsoni" ; Times: 3
+	Query: "campephilus robustus" ; Times: 1
+	Query: "Mitu" ; Times: 2
+	Query: "Myrmochanes hemileucus" ; Times: 2
+	Query: "fringilloides tissue:1" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna year >= 1920 year <= 1920" ; Times: 2
+	Query: "YPM 12858" ; Times: 1
+	Query: "tinamou tissue:1" ; Times: 2
+	Query: "spixii class:aves" ; Times: 5
+	Query: "eremophila alpestris actia county:"kern" year >= 1900 year <= 2015" ; Times: 2
+	Query: "Dendronanthus" ; Times: 1
+	Query: "crypturellus bartletti" ; Times: 1
+	Query: "Pipilo maculatus Santa Cruz" ; Times: 1
+	Query: "Pycnonotus taivanus" ; Times: 1
+	Query: "specificepithet:edithae genus:corvus AND (NOT film)" ; Times: 2
+	Query: "county:"catron" stateprovince:"new mexico" genus:contopus" ; Times: 1
+	Query: "country:"mexico" genus:rostrhamus" ; Times: 1
+	Query: "myrmotherula assimilis" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus" ; Times: 5
+	Query: "stateprovince:"alaska" class:aves recordedby:harlow" ; Times: 1
+	Query: "Corapipo altera" ; Times: 1
+	Query: "musophaga violacea" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film) year >= 1950 year <= 2015" ; Times: 1
+	Query: "cichlopsis" ; Times: 1
+	Query: "Heliothryx auritus year >= 1800 year <= 2015" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus NOT sinaloe NOT splendens NOT frugilagus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "Colaptes rubiginosus tissue:1" ; Times: 1
+	Query: "Pteroglossus bitorquatus" ; Times: 1
+	Query: "Estrilda melpoda" ; Times: 4
+	Query: "chetumal" ; Times: 2
+	Query: "Eupsittula pertinax" ; Times: 1
+	Query: "branta ruficollis" ; Times: 3
+	Query: "Coeligena wilsoni" ; Times: 2
+	Query: "nothocrax" ; Times: 1
+	Query: "Mulleripicus funebris" ; Times: 1
+	Query: "Thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "malacocincla abbotti" ; Times: 1
+	Query: "Heliactin bilophus" ; Times: 2
+	Query: "specificepithet:superciliosus genus:Accipiter tissue:1" ; Times: 1
+	Query: "Myiarchus stolidus dominicensis" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT sound) year >= 1950 year <= 2014" ; Times: 1
+	Query: "Piaya cayana tissue:1" ; Times: 2
+	Query: "oreophasis" ; Times: 1
+	Query: "cygnus stateprovince:"California" country:"USA"" ; Times: 1
+	Query: "otis tarda" ; Times: 3
+	Query: "Sublegatus arenarum" ; Times: 1
+	Query: "Turdus albicollis phaeopygus" ; Times: 1
+	Query: "Oxyruncus tissue:1" ; Times: 2
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "campylorhynchus yucatanicus" ; Times: 2
+	Query: "Entomodestes coracinus" ; Times: 2
+	Query: "glaucis hirsutus country:"brazil"" ; Times: 1
+	Query: "type:specimen stateprovince:"Oregon" specificepithet:traillii genus:Empidonax" ; Times: 1
+	Query: "aburria aburri" ; Times: 1
+	Query: "eremophila alpestris actia county:"kern" stateprovince:"california" year >= 1900 year <= 2015" ; Times: 1
+	Query: "Falco cherrug" ; Times: 1
+	Query: "specificepithet:ruficollis genus:Corvus" ; Times: 1
+	Query: "florisuga" ; Times: 1
+	Query: "Polytmus guainumbi year >= 1800 year <= 2015" ; Times: 1
+	Query: "Curassow" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 5
+	Query: "Haematortyx sanguiniceps" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "conopophaga peruviana" ; Times: 1
+	Query: "(ciccaba virgata) tissue:1" ; Times: 1
+	Query: "jacana tissue:1" ; Times: 2
+	Query: "specificepithet:albus genus:corvus year >= 1970 year <= 2014" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 4
+	Query: "Tityridae" ; Times: 1
+	Query: "country:"grenada" catalognumber:034047 institutioncode:ypm" ; Times: 1
+	Query: "family:Phaenicophilidae type:specimen mappable:1" ; Times: 1
+	Query: "Anser albifrons tissue:1" ; Times: 1
+	Query: "jacana peruviana" ; Times: 1
+	Query: "stateprovince:"Illinois" institutioncode:YPM" ; Times: 1
+	Query: "Ciccaba virgata tissue:1" ; Times: 1
+	Query: "owl minnesota" ; Times: 1
+	Query: "Garrulax rufogularis" ; Times: 1
+	Query: "Garrulax calvus" ; Times: 1
+	Query: "kimball specificepithet:pertinax genus:contopus" ; Times: 1
+	Query: "emigrans" ; Times: 2
+	Query: "spizaetus ornatus country:"Mexico"" ; Times: 1
+	Query: "Garrulax gularis" ; Times: 1
+	Query: "Spizaetus isidori" ; Times: 1
+	Query: "Mulleripicus pulverulentus" ; Times: 1
+	Query: "ciccaba virgata tissue:1" ; Times: 1
+	Query: "myrmornis torquata" ; Times: 1
+	Query: "Xiphorhynchus flavigaster year >= 1980 year <= 2014 tissue:1" ; Times: 2
+	Query: "jacana jacana tissue:1" ; Times: 2
+	Query: "Cyanocitta cristata semplei year <= 1928" ; Times: 1
+	Query: "mollen" ; Times: 2
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film) year >= 1960 year <= 1980" ; Times: 1
+	Query: "Washington King Renton" ; Times: 1
+	Query: "casmerodius tissue:1" ; Times: 1
+	Query: "Nyctiprogne leucopyga" ; Times: 1
+	Query: "Polytmus theresiae year >= 1800 year <= 2015" ; Times: 1
+	Query: "Pyrrhura frontalis" ; Times: 1
+	Query: "florisuga type:specimen tissue:1" ; Times: 1
+	Query: "Chrysolampis mosquitus year >= 1800 year <= 2015" ; Times: 1
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "ara ambiguus" ; Times: 1
+	Query: "smithornis" ; Times: 2
+	Query: "Tauraco persa" ; Times: 1
+	Query: "dicrurus leucophaeus type:specimen AND (NOT film NOT egg)" ; Times: 1
+	Query: "Pteroglossus frantzii" ; Times: 2
+	Query: ""monachus monachus"" ; Times: 2
+	Query: "genus:veniliornis tissue:1" ; Times: 2
+	Query: "Myiobius sulphureipygius" ; Times: 2
+	Query: "grinnell alaska year >= 1935 year <= 1959" ; Times: 1
+	Query: "jacana melanopygia" ; Times: 1
+	Query: "country:"saint vincent" class:aves" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "Liocichla phoenicea mappable:1" ; Times: 1
+	Query: "turdus rufitorques" ; Times: 1
+	Query: "sturnella militaris" ; Times: 4
+	Query: "virgata tissue:1" ; Times: 1
+	Query: "megalaima monticola" ; Times: 1
+	Query: "country:"grenadines" genus:crotophaga class:aves institutioncode:ypm" ; Times: 1
+	Query: "Antrostomus rufus" ; Times: 1
+	Query: "Cardinalis cardinalis phillipsi" ; Times: 1
+	Query: "lucidus year >= 1938 year <= 1938" ; Times: 1
+	Query: "Spheniscus mendiculus" ; Times: 2
+	Query: "stateprovince:"New Mexico" genus:catherpes" ; Times: 1
+	Query: "Hemixos" ; Times: 1
+	Query: "Glaucis hirsutus country:"brazil"" ; Times: 2
+	Query: "Cyornis tickelliae" ; Times: 2
+	Query: "Tinamus osgoodi" ; Times: 1
+	Query: "Piprites tissue:1" ; Times: 5
+	Query: ""Todus todus"" ; Times: 14
+	Query: "grinnell alaska bird year >= 1935 year <= 1959" ; Times: 1
+	Query: "glaucis hirsutus brazil" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "Leucosticte tephrocotis dawsoni" ; Times: 1
+	Query: "Cyanocitta cristata cyanotephra" ; Times: 1
+	Query: "Myiobius atricaudus" ; Times: 1
+	Query: "genus:Ciccaba AND (NOT "United States" NOT "USA") tissue:1" ; Times: 1
+	Query: "Heliactin year >= 1800 year <= 2015" ; Times: 1
+	Query: "Pteroglossus torquatus torquatus" ; Times: 1
+	Query: "pulsatrix" ; Times: 2
+	Query: "garrulax type:specimen country:"malaysia"" ; Times: 1
+	Query: "psalidoprocne" ; Times: 1
+	Query: "alophoixus ochraceus" ; Times: 1
+	Query: "Nyctidromus albicollis tissue:1" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "Tanygnathus sumatranus" ; Times: 1
+	Query: "Ara Macao" ; Times: 1
+	Query: "bird alaska hanna" ; Times: 2
+	Query: "Colinus virginianus ridgwayi" ; Times: 1
+	Query: "foudia sechellarum" ; Times: 1
+	Query: "Gallinula comeri" ; Times: 1
+	Query: "Leiothrix lutea hawaii" ; Times: 1
+	Query: "Hemixos flavala" ; Times: 1
+	Query: "ectopistes migratorius" ; Times: 2
+	Query: "Sittasomus griseicapillus tissue:1" ; Times: 1
+	Query: "Myadestes obscurus hawaii" ; Times: 2
+	Query: "San Pablo Villa de Mitla" ; Times: 1
+	Query: "xenops tenuirostris" ; Times: 1
+	Query: "Jalisco Rio verde" ; Times: 2
+	Query: "specificepithet:rhipidurus genus:corvus AND (NOT film) mappable:1" ; Times: 1
+	Query: "Hyacinth Macaw" ; Times: 2
+	Query: "country:"grenadines" class:aves" ; Times: 1
+	Query: "Xenops rutilans" ; Times: 3
+	Query: "type:specimen stateprovince:"Florida" specificepithet:carolinensis genus:Sitta class:Aves" ; Times: 1
+	Query: "Grallariidae" ; Times: 2
+	Query: "harpactes oreskios" ; Times: 1
+	Query: "gubernetes" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "specificepithet:albus genus:corvus tissue:1" ; Times: 1
+	Query: "Myiobius villosus" ; Times: 7
+	Query: "chlorothraupis stolzmanni" ; Times: 5
+	Query: "Cmn" ; Times: 1
+	Query: "Cnemophilus" ; Times: 1
+	Query: "country:"grenada" class:aves" ; Times: 2
+	Query: ""Falco sparverius" stateprovince:"Oregon"" ; Times: 1
+	Query: "cypseloides senex" ; Times: 1
+	Query: "spizaetus tyrannus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Todus multicolor" ; Times: 1
+	Query: "falco femoralis" ; Times: 2
+	Query: "6725 class:aves tissue:1" ; Times: 1
+	Query: "spizaetus ornatus country:"Mexico" mappable:1" ; Times: 1
+	Query: "Heliactin bilophus year >= 1800 year <= 2015" ; Times: 1
+	Query: "dicrurus leucophaeus type:specimen AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "genus:corvus AND (NOT corax NOT brachyrhynchos NOT corone NOT macrorhynchos NOT caurinus NOT cryptoleucus NOT ossifragus NOT sinaloae NOT splendens NOT frugilegus) year >= 1950 year <= 2014 tissue:1" ; Times: 1
+	Query: "Rheinardia ocellata" ; Times: 2
+	Query: "class:aves catalognumber:134405" ; Times: 2
+	Query: "paradisaeidae tissue:1" ; Times: 1
+	Query: "Piprites" ; Times: 1
+	Query: "country:"Mexico" (cactus wren)" ; Times: 1
+	Query: "country:"vincent" genus:mimus institutioncode:ypm" ; Times: 1
+	Query: "specificepithet:rhipidurus genus:corvus mappable:1" ; Times: 1
+	Query: "genus:Strix AND (NOT United NOT States) tissue:1" ; Times: 1
+	Query: "phylloscopus type:specimen (trivirgatus) AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "phylloscartes sylviolus" ; Times: 3
+	Query: "beauharnaesii" ; Times: 10
+	Query: "salmoni" ; Times: 1
+	Query: "Oreotrochilus leucopleurus" ; Times: 1
+	Query: "turdus assimilis country:"Costa Rica"" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 3
+	Query: "country:"mexico" genus:spizaetus" ; Times: 1
+	Query: "accipiter bicolor country:"Mexico"" ; Times: 1
+	Query: "lanio leucothorax" ; Times: 1
+	Query: "Chlorospingus semifuscus" ; Times: 2
+	Query: "Ixos mcclellandii" ; Times: 1
+	Query: "yuhina type:specimen (everetti) AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "stachyris type:specimen (nigriceps) AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "Garrulax ocellatus" ; Times: 1
+	Query: "Odontophorus stellatus" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 3
+	Query: "Morphnus guianensis" ; Times: 1
+	Query: "gecinulus" ; Times: 1
+	Query: "jacana intermedia" ; Times: 1
+	Query: "family:Rhodinocichlidae type:specimen mappable:1" ; Times: 1
+	Query: "Rhodopis vesper" ; Times: 1
+	Query: "Vireolanius leucotis" ; Times: 2
+	Query: "genus:Strix AND (NOT "United States") tissue:1" ; Times: 2
+	Query: "Kakapo" ; Times: 1
+	Query: "ara macao" ; Times: 6
+	Query: "family:Mitrospingidae type:specimen mappable:1" ; Times: 1
+	Query: "Frederickena viridis" ; Times: 1
+	Query: "Crinifer piscator" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna institutioncode:ypm" ; Times: 1
+	Query: "Pipilo maculatus type:specimen year >= 1800 year <= 1900" ; Times: 1
+	Query: "Chlorothraupis stolzmanni" ; Times: 21
+	Query: "eurasian collared dove (tissue) tissue:1" ; Times: 1
+	Query: "sitta leucopsis" ; Times: 1
+	Query: "Oxyruncidae" ; Times: 1
+	Query: "dicaeum monticolum type:specimen country:"malaysia"" ; Times: 1
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "barranca de oblatos" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "Iole propinqua" ; Times: 1
+	Query: "nesillas" ; Times: 2
+	Query: "Aburria aburri" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:hanna year >= 1919 year <= 1919" ; Times: 1
+	Query: "YPM 016970" ; Times: 2
+	Query: "country:"Grenadines" class:Aves" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "country:"grenadines" genus:elaenia class:aves institutioncode:ypm" ; Times: 1
+	Query: "Hemixos castanonotus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 445 download events in this period)
+Total number of records downloaded: 22705 (out of 2849158 records downloaded for all resources in this period)
+Total number of unique records downloaded: 21840
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Benin ; Times: 2
+	Country: Brazil ; Times: 2
+	Country: Canada ; Times: 1
+	Country: Chile ; Times: 8
+	Country: Germany ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: Sweden ; Times: 2
+	Country: Thailand ; Times: 1
+	Country: United States ; Times: 46
+	Country: Unknown ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-01-05 ; Times: 1
+	Date: 2015-01-06 ; Times: 3
+	Date: 2015-01-07 ; Times: 7
+	Date: 2015-01-08 ; Times: 6
+	Date: 2015-01-09 ; Times: 2
+	Date: 2015-01-12 ; Times: 6
+	Date: 2015-01-13 ; Times: 11
+	Date: 2015-01-14 ; Times: 10
+	Date: 2015-01-15 ; Times: 1
+	Date: 2015-01-16 ; Times: 1
+	Date: 2015-01-17 ; Times: 1
+	Date: 2015-01-19 ; Times: 1
+	Date: 2015-01-20 ; Times: 4
+	Date: 2015-01-21 ; Times: 1
+	Date: 2015-01-22 ; Times: 7
+	Date: 2015-01-23 ; Times: 1
+	Date: 2015-01-24 ; Times: 1
+	Date: 2015-01-26 ; Times: 1
+	Date: 2015-01-29 ; Times: 4
+	Date: 2015-01-30 ; Times: 12
+
+List of queries that retrieved data from the resource: 
+	Query: "cardellina canadensis" ; Times: 1
+	Query: "Furnariidae" ; Times: 1
+	Query: "family:Thraupidae type:specimen mappable:1" ; Times: 1
+	Query: "family:Cardinalidae type:specimen mappable:1" ; Times: 1
+	Query: "country:"mexico" genus:buteogallus" ; Times: 1
+	Query: "Garrulax pectoralis" ; Times: 1
+	Query: "ochraceus (alophoixus OR criniger)" ; Times: 1
+	Query: "musophaga violacea" ; Times: 1
+	Query: "Thamnophilidae" ; Times: 1
+	Query: "country:"saint vincent" class:aves" ; Times: 1
+	Query: "amazona autumnalis" ; Times: 1
+	Query: "dicrurus leucophaeus type:specimen AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "stateprovince:"nunavut" class:aves year >= 1850 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"california" genus:aquila" ; Times: 1
+	Query: "Andaman Aves" ; Times: 1
+	Query: "Rhinocryptidae" ; Times: 1
+	Query: "paradisaeidae tissue:1" ; Times: 2
+	Query: "quiscalus mexicanus country:"Mexico"" ; Times: 1
+	Query: "type:specimen genus:Chamaeza" ; Times: 1
+	Query: "family:Emberizidae type:specimen mappable:1" ; Times: 1
+	Query: "amazona viridigenalis" ; Times: 1
+	Query: "Pycnonotus jocosus" ; Times: 2
+	Query: "family:Mitrospingidae type:specimen mappable:1" ; Times: 1
+	Query: "Pipridae" ; Times: 1
+	Query: "phylloscopus type:specimen (trivirgatus) AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "Formicariidae" ; Times: 1
+	Query: "family:Calcariidae type:specimen mappable:1" ; Times: 1
+	Query: "calyptomena viridis" ; Times: 1
+	Query: "Bucorvus abyssinicus" ; Times: 1
+	Query: "downy woodpecker" ; Times: 1
+	Query: "country:"grenada" class:aves" ; Times: 1
+	Query: "stachyris type:specimen (nigriceps) AND (NOT film NOT egg NOT ontario)" ; Times: 1
+	Query: "Tityridae" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "amazona ochrocephala" ; Times: 2
+	Query: "Ixos mcclellandii" ; Times: 1
+	Query: "country:"mexico" genus:pandion" ; Times: 1
+	Query: "amazona auropalliata" ; Times: 1
+	Query: "leptotila rufaxilla" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 1
+	Query: "Garrulax monileger" ; Times: 1
+	Query: "amazona albifrons" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "country:"Grenadines" class:Aves" ; Times: 1
+	Query: "country:"mexico" genus:elanus" ; Times: 1
+	Query: "bubo virginianus country:"Mexico"" ; Times: 2
+	Query: "Nicobar Aves" ; Times: 1
+	Query: "jalpa zacatecas" ; Times: 1
+	Query: "type:specimen stateprovince:"Washington" specificepithet:traillii genus:Empidonax" ; Times: 2
+	Query: "type:specimen stateprovince:"Virginia" class:aves" ; Times: 1
+	Query: "Estrilda melpoda" ; Times: 1
+	Query: "type:specimen stateprovince:"Virginia" class:Aves" ; Times: 1
+	Query: "Hypsipetes leucocephalus" ; Times: 1
+	Query: "aquila chrysaetos" ; Times: 1
+	Query: "Pipilo maculatus type:specimen year >= 1800 year <= 1900" ; Times: 1
+	Query: "type:specimen stateprovince:"virginia" class:aves" ; Times: 1
+	Query: "distance(location,geopoint(40.60387435807246,-73.85421752929688))<9650.626978131286" ; Times: 1
+	Query: ""passer domesticus" type:specimen" ; Times: 1
+	Query: "country:"mexico" genus:parabuteo" ; Times: 1
+	Query: "Hemixos flavala" ; Times: 1
+	Query: "gubernetes" ; Times: 1
+	Query: "aves "university of oklahoma" AND (NOT OMNH)" ; Times: 1
+	Query: "accipitridae country:"Mexico"" ; Times: 1
+	Query: "belted kingfisher type:specimen" ; Times: 1
+	Query: "Conopophagidae" ; Times: 1
+	Query: "psittacidae country:"Mexico"" ; Times: 1
+	Query: "Dendrocygna bicolor" ; Times: 1
+	Query: "distance(location,geopoint(36.12012758978149,-109.57763671875))<88224" ; Times: 1
+	Query: "Pycnonotidae" ; Times: 1
+	Query: "jacana hypomelaena" ; Times: 1
+	Query: "country:"grenadines" class:aves" ; Times: 1
+	Query: "Cotingidae" ; Times: 1
+	Query: "colinus nigrogularis type:specimen" ; Times: 1
+	Query: "harpactes oreskios" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 1
+	Query: "Northern Saw-whet Owl" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 162
+Total number of records retrieved from searches: 1402
+Number of download events that retrieved data from the resource: 81
+Total number of records downloaded: 22705
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 583
+Total number of records retrieved from searches: 4494
+Number of download events that retrieved data from the resource: 125
+Total number of records downloaded: 27588
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
