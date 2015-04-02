@@ -1,0 +1,414 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for March, 2015, generated on 2015/04/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 365
+Number of records retrieved in searches: 3487
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 2
+	Country: Austria ; Times: 7
+	Country: Brazil ; Times: 79
+	Country: Canada ; Times: 11
+	Country: Cyprus ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: France ; Times: 9
+	Country: Germany ; Times: 32
+	Country: India ; Times: 9
+	Country: Israel ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Mexico ; Times: 2
+	Country: Panama ; Times: 1
+	Country: South Korea ; Times: 1
+	Country: Sweden ; Times: 1
+	Country: Thailand ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 200
+	Country: Unknown ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 8
+	Date: 2015-03-02 ; Times: 11
+	Date: 2015-03-03 ; Times: 13
+	Date: 2015-03-04 ; Times: 26
+	Date: 2015-03-05 ; Times: 16
+	Date: 2015-03-06 ; Times: 15
+	Date: 2015-03-07 ; Times: 21
+	Date: 2015-03-08 ; Times: 7
+	Date: 2015-03-09 ; Times: 10
+	Date: 2015-03-10 ; Times: 14
+	Date: 2015-03-11 ; Times: 23
+	Date: 2015-03-12 ; Times: 18
+	Date: 2015-03-13 ; Times: 30
+	Date: 2015-03-15 ; Times: 11
+	Date: 2015-03-16 ; Times: 27
+	Date: 2015-03-17 ; Times: 6
+	Date: 2015-03-18 ; Times: 10
+	Date: 2015-03-19 ; Times: 5
+	Date: 2015-03-20 ; Times: 6
+	Date: 2015-03-21 ; Times: 3
+	Date: 2015-03-22 ; Times: 7
+	Date: 2015-03-23 ; Times: 8
+	Date: 2015-03-24 ; Times: 6
+	Date: 2015-03-25 ; Times: 6
+	Date: 2015-03-26 ; Times: 8
+	Date: 2015-03-27 ; Times: 20
+	Date: 2015-03-28 ; Times: 14
+	Date: 2015-03-29 ; Times: 7
+	Date: 2015-03-30 ; Times: 8
+	Date: 2015-03-31 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cyanea genus:Pitta" ; Times: 1
+	Query: "Dinemelli" ; Times: 1
+	Query: "Lanius excubitor tissue:1" ; Times: 1
+	Query: "xolmis cinereus tissue" ; Times: 2
+	Query: "ramphastos vitellinus ariel" ; Times: 1
+	Query: "colinus ridgwayi year >= 1950 year <= 2015" ; Times: 1
+	Query: "peucaea ruficauda" ; Times: 1
+	Query: "type:specimen specificepithet:sumatranus genus:corydon" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"Bangladesh"" ; Times: 1
+	Query: "stactolaema olivacea" ; Times: 2
+	Query: ""Ficedula narcissina"" ; Times: 2
+	Query: "Nectarinia brasiliana type:specimen country:"India"" ; Times: 1
+	Query: "Arborophila atrogularis" ; Times: 1
+	Query: "Montezuma quail year >= 1888 year <= 2014 mappable:1" ; Times: 1
+	Query: "stateprovince:"West Irian" country:"indonesia" genus:accipiter institutioncode:ypm" ; Times: 1
+	Query: "Pulsatrix institutioncode:YPM" ; Times: 4
+	Query: "amazonetta brasiliensis" ; Times: 2
+	Query: "colinus nigrogularis" ; Times: 1
+	Query: "type:specimen specificepithet:albicauda genus:agriornis" ; Times: 1
+	Query: "Sclerurus mexicanus brazil" ; Times: 1
+	Query: "Conopophaga lineata" ; Times: 1
+	Query: "irena puella type:specimen country:"bangladesh"" ; Times: 1
+	Query: "Anthus spinoletta tissue:1" ; Times: 1
+	Query: "Callipepla squamata year >= 1990 year <= 2015" ; Times: 1
+	Query: "Myrmochanes hemileucus" ; Times: 1
+	Query: "Buru" ; Times: 1
+	Query: "vidua macroura specificepithet:macroura genus:vidua tissue:1" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"India"" ; Times: 7
+	Query: "gallus lafayetii" ; Times: 3
+	Query: "stateprovince:"West Irian" country:"indonesia" specificepithet:tenebricosa genus:tyto institutioncode:ypm" ; Times: 1
+	Query: "Megalaima faiostricta Thailand" ; Times: 2
+	Query: "Pallid Harrier" ; Times: 1
+	Query: "dactylortyx" ; Times: 1
+	Query: "Sclerurus rufigularis brazil" ; Times: 1
+	Query: "conopophaga lineata" ; Times: 1
+	Query: "tricholaema ruahae" ; Times: 1
+	Query: "Myiothlypis fulvicauda type:specimen" ; Times: 1
+	Query: "deli" ; Times: 1
+	Query: "type:specimen specificepithet:nobilis genus:chamaeza" ; Times: 1
+	Query: "Formicarius colma" ; Times: 1
+	Query: "type:specimen specificepithet:ridgwayi genus:cotinga" ; Times: 1
+	Query: "type:specimen specificepithet:moluccensis genus:pitta" ; Times: 1
+	Query: "rynchops albicollis institutioncode:YPM" ; Times: 1
+	Query: "sporophila leucoptera" ; Times: 1
+	Query: "type:specimen specificepithet:amabilis genus:cotinga" ; Times: 1
+	Query: "Pipra filicauda" ; Times: 1
+	Query: "Odontophorus melanotis" ; Times: 2
+	Query: "formicivora grisea tissue" ; Times: 1
+	Query: "type:specimen specificepithet:cubensis genus:Tyrannus" ; Times: 1
+	Query: "schistochlamys melanopis tissue" ; Times: 1
+	Query: "sturnella militaris ypm" ; Times: 1
+	Query: "trogon tenellus" ; Times: 1
+	Query: "hylopezus macularius brazil" ; Times: 1
+	Query: "type:specimen specificepithet:caribaeus genus:Contopus" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 1
+	Query: "Pitta granatina" ; Times: 1
+	Query: "tricholestes" ; Times: 1
+	Query: "poeoptera lugubris" ; Times: 1
+	Query: "Pipraeidea bonariensis tissue:1" ; Times: 1
+	Query: "dendrortyx leucophrys" ; Times: 2
+	Query: "Sclerurus caudacutus brazil" ; Times: 2
+	Query: "lepidothrix coronata country:"ecuador"" ; Times: 1
+	Query: "Cercomacra manu" ; Times: 1
+	Query: "francolinus psilolaemus" ; Times: 1
+	Query: "Koriabo River mappable:1" ; Times: 1
+	Query: "sharpii" ; Times: 2
+	Query: "lamprotornis caudatus" ; Times: 1
+	Query: "Myrmoborus myotherinus brazil" ; Times: 1
+	Query: "myrmoborus lugubris" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "Pygiptila stellaris" ; Times: 1
+	Query: "type:specimen specificepithet:vilissimus genus:zimmerius" ; Times: 1
+	Query: "Conopophaga melanogaster" ; Times: 1
+	Query: "Pternistis squamatus" ; Times: 1
+	Query: "Penelope ortoni" ; Times: 2
+	Query: "Piping Plover" ; Times: 2
+	Query: "type:specimen specificepithet:oberi genus:myiarchus" ; Times: 2
+	Query: "Cantorchilus leucotis tissue:1" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua (Tissue) tissue:1" ; Times: 1
+	Query: "cinnyricinclus leucogaster" ; Times: 3
+	Query: "pauxi unicornis" ; Times: 2
+	Query: "Poicephalus kenya" ; Times: 2
+	Query: "Psilorhamphus guttatus" ; Times: 2
+	Query: "Cercomacra laeta brazil" ; Times: 1
+	Query: "Pyrrhocorax graculus tissue:1" ; Times: 1
+	Query: "Rhodinocichla rosea" ; Times: 1
+	Query: "zantholeuca Thailand" ; Times: 1
+	Query: "Stigmatura" ; Times: 1
+	Query: "streaked shearwater" ; Times: 1
+	Query: "Myrmorchilus" ; Times: 2
+	Query: "cyanopica tissue:1" ; Times: 2
+	Query: "odontophorus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Rhegmatorhina melanosticta" ; Times: 1
+	Query: "Drymophila rubricollis" ; Times: 1
+	Query: "Cercomacra nigrescens brazil" ; Times: 1
+	Query: "manacus manacus abditivus" ; Times: 1
+	Query: "naxos" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Butorides sundevalli" ; Times: 2
+	Query: "stateprovince:"alaska" specificepithet:acuminata class:aves" ; Times: 2
+	Query: "myrmornis brazil" ; Times: 2
+	Query: "irena puella type:specimen country:"india"" ; Times: 1
+	Query: "10-7-1853" ; Times: 1
+	Query: "lophozosterops malindangensis" ; Times: 1
+	Query: "gallus sonneratii" ; Times: 3
+	Query: "camptostoma obsoletum tissue:1" ; Times: 1
+	Query: "specificepithet:chrysops genus:cyanocorax tissue:1" ; Times: 1
+	Query: "pauxi" ; Times: 1
+	Query: "Psittacula longicauda" ; Times: 8
+	Query: "lepidothrix coronata" ; Times: 2
+	Query: "stactolaema rungweensis" ; Times: 1
+	Query: "Pycnonotus aurigaster Thailand" ; Times: 2
+	Query: "syria" ; Times: 1
+	Query: "suthora beaulieui" ; Times: 1
+	Query: "Nectarinia brasiliana type:specimen country:"Bangladesh"" ; Times: 1
+	Query: "cyanouroptera Thailand" ; Times: 1
+	Query: "Pycnonotus flaviventris Thailand" ; Times: 1
+	Query: "dactylortyx thoracicus paynteri" ; Times: 1
+	Query: "Pyrrhocorax tissue:1" ; Times: 2
+	Query: "euscarthmus rufomarginatus tissue" ; Times: 1
+	Query: "pyriglena leuconota" ; Times: 1
+	Query: "specificepithet:guajana genus:Pitta" ; Times: 3
+	Query: "athene cunicularia tissue:1" ; Times: 1
+	Query: "specificepithet:granatina genus:Pitta" ; Times: 1
+	Query: "pipra pipra anthracina country:"costa rica"" ; Times: 1
+	Query: "Ortalis brazil" ; Times: 1
+	Query: "bird skin sarawak" ; Times: 1
+	Query: "genus:Cotinga tissue:1" ; Times: 6
+	Query: "Pulsatrix" ; Times: 1
+	Query: "culicicapa ceylonensis type:specimen country:"Nepal"" ; Times: 1
+	Query: "Poicephalus Uganda" ; Times: 3
+	Query: "Hylophylax naevius brazil" ; Times: 1
+	Query: "lamprotornis splendidus" ; Times: 3
+	Query: "genus:Xipholena tissue:1" ; Times: 1
+	Query: "Myrmeciza hemimelaena" ; Times: 1
+	Query: "furnarius minor" ; Times: 2
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "whales" ; Times: 1
+	Query: "lamprotornis nitens" ; Times: 2
+	Query: "Arborophila hyperythra" ; Times: 1
+	Query: "polystictus pectoralis tissue" ; Times: 3
+	Query: "pternistis" ; Times: 1
+	Query: "type:specimen specificepithet:sagrae genus:Myiarchus" ; Times: 1
+	Query: "Arborophila rubrirostris" ; Times: 1
+	Query: "macgregoria" ; Times: 1
+	Query: "Paradisaeidae year >= 1990 year <= 2015 tissue:1" ; Times: 1
+	Query: "pulsatrix" ; Times: 4
+	Query: "brown-headed nuthatch" ; Times: 1
+	Query: "type:specimen specificepithet:lividus genus:Agriornis" ; Times: 1
+	Query: "stateprovince:"West Irian" country:"indonesia" genus:tachybaptus institutioncode:ypm" ; Times: 1
+	Query: "Cercomacra cinerascens brazil" ; Times: 2
+	Query: "machaeropterus deliciosus" ; Times: 1
+	Query: "colinus cristatus badius year >= 1950 year <= 2015" ; Times: 1
+	Query: "gyps" ; Times: 1
+	Query: "zombensis AND (NOT AM NOT ANWC NOT QM NOT WAM NOT SAMA NOT NT)" ; Times: 1
+	Query: "Knipolegus tissue:1" ; Times: 1
+	Query: "rufipes" ; Times: 1
+	Query: "Conopophaga roberti" ; Times: 3
+	Query: "Trogon rufus type:specimen" ; Times: 1
+	Query: "salpornis" ; Times: 1
+	Query: "Myrmoborus leucophrys brazil" ; Times: 1
+	Query: "brotogeris institutioncode:YPM" ; Times: 2
+	Query: "Conopophaga peruviana brazil" ; Times: 1
+	Query: "Myrmochanes type:specimen" ; Times: 3
+	Query: "Formicarius colma brazil" ; Times: 2
+	Query: "hypocnemoides" ; Times: 2
+	Query: "colinus dickeyi" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 6
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "catalognumber:000250" ; Times: 1
+	Query: "Lanius bucephalus" ; Times: 1
+	Query: "rhodopechys" ; Times: 1
+	Query: ""Falco deiroleucus" type:specimen" ; Times: 1
+	Query: "reiseri" ; Times: 1
+	Query: "Sternula antillarum athalassos" ; Times: 1
+	Query: "meiglyptes" ; Times: 2
+	Query: "anthus spinoletta year >= 2000 tissue:1" ; Times: 1
+	Query: "Ortalis ruficeps" ; Times: 2
+	Query: "institutioncode:ypm Poicephalus" ; Times: 4
+	Query: "Trogon melanocephalus" ; Times: 2
+	Query: "odontophorus melanotis" ; Times: 2
+	Query: "cyanocorax violaceus" ; Times: 1
+	Query: "Percnostola rufifrons" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "specificepithet:tenebricosa genus:tyto institutioncode:ypm" ; Times: 1
+	Query: "Myrmothera campanisona" ; Times: 1
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose" ; Times: 1
+	Query: "Myrmeciza berlepschi" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "stateprovince:"West Irian" country:"indonesia" genus:scolopax institutioncode:ypm" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"bangladesh"" ; Times: 1
+	Query: "Eudynamys Bangkok" ; Times: 1
+	Query: "lamprotornis australis" ; Times: 1
+	Query: "Ortalis superciliaris" ; Times: 1
+	Query: "stateprovince:"West Irian" country:"indonesia" genus:motacilla institutioncode:ypm" ; Times: 1
+	Query: "specificepithet:fossii genus:caprimulgus" ; Times: 1
+	Query: "specificepithet:brachyura genus:Chaetura" ; Times: 5
+	Query: "onychognathus morio" ; Times: 1
+	Query: "toucan type:specimen tissue:1" ; Times: 1
+	Query: "chloropsis aurifrons type:specimen country:"India"" ; Times: 3
+	Query: "Hypocnemoides melanopogon brazil" ; Times: 1
+	Query: "leptoptilos dubius" ; Times: 5
+	Query: "type:specimen specificepithet:ridleyana genus:elaenia" ; Times: 1
+	Query: "Oxyruncus cristatus" ; Times: 1
+	Query: "type:specimen specificepithet:superbus genus:Lamprotornis" ; Times: 1
+	Query: "Picumnus tissue:1" ; Times: 1
+	Query: "type:specimen country:"bangladesh" recordedby:Primrose year >= 1902 year <= 1902" ; Times: 1
+	Query: "pipra pipra anthracina" ; Times: 1
+	Query: "erythrinus Thailand" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "leptoptilos javanicus" ; Times: 1
+	Query: "Chamaeza nobilis" ; Times: 1
+	Query: "myiopsitta" ; Times: 1
+	Query: "type:specimen stateprovince:"Para" country:"Brazil" specificepithet:fasciicauda genus:Pipra" ; Times: 1
+	Query: "specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "Formicarius analis brazil" ; Times: 1
+	Query: "type:specimen country:"Brazil" specificepithet:fasciicauda genus:Pipra" ; Times: 1
+	Query: "type:specimen specificepithet:leucorrhoa genus:corapipo" ; Times: 1
+	Query: "Cardinalis cardinalis year >= 2011 year <= 2015" ; Times: 1
+	Query: "colinus insignis year >= 1950 year <= 2015" ; Times: 1
+	Query: "genus:chamaeza tissue:1" ; Times: 1
+	Query: "Odontophorus gujanensis" ; Times: 1
+	Query: "Odontophorus balliviani" ; Times: 1
+	Query: "Phegornis mitchellii" ; Times: 1
+	Query: "Xenops tenuirostris" ; Times: 1
+	Query: "LEPIDOTHRIX CORONATA country:"costa rica"" ; Times: 1
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "Myiopsitta institutioncode:YPM" ; Times: 1
+	Query: "Hylophylax naevius" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Pyriglena leucoptera brazil" ; Times: 1
+	Query: "LEPIDOTHRIX CORONATA country:"panama"" ; Times: 1
+	Query: "Drymophila squamata" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: ""grus grus"" ; Times: 1
+	Query: "Thlypopsis ornata" ; Times: 2
+	Query: "Lanius cristatus Thailand" ; Times: 1
+	Query: "catalognumber:090827" ; Times: 1
+	Query: "Cecropis Thailand" ; Times: 3
+	Query: "Nectarinia brasiliana" ; Times: 6
+	Query: "schiffornis major brazil" ; Times: 1
+	Query: "accipiter poliogaster" ; Times: 8
+	Query: "type:specimen recordedby:Primrose" ; Times: 2
+	Query: "Eleoscytalopus indigoticus" ; Times: 1
+	Query: "Odontophorus speciosus" ; Times: 1
+	Query: "ramphastos ariel" ; Times: 2
+	Query: "scrippsi" ; Times: 1
+	Query: "type:specimen specificepithet:curtata genus:cranioleuca" ; Times: 1
+	Query: "stateprovince:"West Irian" country:"indonesia" genus:chlidonias institutioncode:ypm" ; Times: 1
+	Query: "nectarinia zeylonica" ; Times: 1
+	Query: "specificepithet:caeruleus genus:cyanocorax" ; Times: 2
+	Query: "type:specimen specificepithet:sibilator genus:Sirystes" ; Times: 1
+	Query: "Conopophaga peruviana" ; Times: 1
+	Query: "brachygalba lugubris" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 42 (out of 298 download events in this period)
+Total number of records downloaded: 14632 (out of 2382149 records downloaded for all resources in this period)
+Total number of unique records downloaded: 8954
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 7
+	Country: Canada ; Times: 3
+	Country: Cyprus ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 8
+	Country: United States ; Times: 20
+	Country: Venezuela ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-03-01 ; Times: 1
+	Date: 2015-03-02 ; Times: 6
+	Date: 2015-03-03 ; Times: 2
+	Date: 2015-03-04 ; Times: 1
+	Date: 2015-03-06 ; Times: 4
+	Date: 2015-03-08 ; Times: 1
+	Date: 2015-03-09 ; Times: 1
+	Date: 2015-03-11 ; Times: 2
+	Date: 2015-03-12 ; Times: 1
+	Date: 2015-03-16 ; Times: 2
+	Date: 2015-03-18 ; Times: 4
+	Date: 2015-03-22 ; Times: 2
+	Date: 2015-03-24 ; Times: 1
+	Date: 2015-03-25 ; Times: 1
+	Date: 2015-03-26 ; Times: 6
+	Date: 2015-03-27 ; Times: 2
+	Date: 2015-03-28 ; Times: 1
+	Date: 2015-03-30 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "country:"Nicaragua" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "HYLOPHILUS FLAVIPES" ; Times: 1
+	Query: "passerina amoena" ; Times: 1
+	Query: "Aves country:"Argentina" year >= 1960 year <= 2014" ; Times: 2
+	Query: "Cacicus" ; Times: 1
+	Query: "Psarocolius" ; Times: 1
+	Query: "momotidae type:specimen" ; Times: 1
+	Query: "thamnophilus doliatus tissue:1" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "type:specimen specificepithet:fuscescens genus:catharus year >= 1980 year <= 2015" ; Times: 1
+	Query: "Melanerpes chrysogenys" ; Times: 1
+	Query: "amazonetta brasiliensis" ; Times: 1
+	Query: "Vireo olivaceus" ; Times: 1
+	Query: "Synthliboramphus scrippsi" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 1
+	Query: "myiopsitta institutioncode:YPM" ; Times: 1
+	Query: "asio flammeus" ; Times: 1
+	Query: "Ara militaris" ; Times: 1
+	Query: "country:"Costa Rica" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "scrippsi" ; Times: 1
+	Query: "Calothorax lucifer" ; Times: 1
+	Query: "stateprovince:"Alberta" country:"Canada" mappable:1" ; Times: 1
+	Query: "Philortyx fasciatus" ; Times: 1
+	Query: "Ptilinopus superbus" ; Times: 1
+	Query: "class:Aves (Cuyamaca)" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(41.36526606011106,-75.65460205078125))<17395" ; Times: 1
+	Query: "Anthus hodgsoni Thailand" ; Times: 1
+	Query: "Acridotheres tristis" ; Times: 1
+	Query: "pogoniulus bilineatus" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "type:specimen country:"El Salvador" (passeriformes OR picidae OR cuculiformes)" ; Times: 1
+	Query: "passerina versicolor" ; Times: 1
+	Query: "Centrocercus urophasianus" ; Times: 1
+	Query: "laysan albatross" ; Times: 2
+	Query: "passerina ciris" ; Times: 1
+	Query: "Colinus virginianus" ; Times: 1
+	Query: "Eremophila alpestris insularis type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:guttatus genus:catharus year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "passerina caerulea" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 1203
+Total number of records retrieved from searches: 9562
+Number of download events that retrieved data from the resource: 169
+Total number of records downloaded: 47041
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 1624
+Total number of records retrieved from searches: 12654
+Number of download events that retrieved data from the resource: 213
+Total number of records downloaded: 51924
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
