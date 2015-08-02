@@ -1,0 +1,684 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for July, 2015, generated on 2015/08/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 780
+Number of records retrieved in searches: 5857
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Austria ; Times: 22
+	Country: Brazil ; Times: 103
+	Country: Denmark ; Times: 2
+	Country: France ; Times: 2
+	Country: Germany ; Times: 16
+	Country: Guatemala ; Times: 1
+	Country: India ; Times: 27
+	Country: Jamaica ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: Netherlands ; Times: 12
+	Country: Panama ; Times: 8
+	Country: Peru ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Sweden ; Times: 4
+	Country: Switzerland ; Times: 18
+	Country: United Kingdom ; Times: 70
+	Country: United States ; Times: 459
+	Country: Venezuela ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 27
+	Date: 2015-07-02 ; Times: 20
+	Date: 2015-07-03 ; Times: 36
+	Date: 2015-07-04 ; Times: 13
+	Date: 2015-07-05 ; Times: 9
+	Date: 2015-07-06 ; Times: 16
+	Date: 2015-07-07 ; Times: 46
+	Date: 2015-07-08 ; Times: 5
+	Date: 2015-07-09 ; Times: 22
+	Date: 2015-07-10 ; Times: 24
+	Date: 2015-07-11 ; Times: 22
+	Date: 2015-07-12 ; Times: 13
+	Date: 2015-07-13 ; Times: 15
+	Date: 2015-07-14 ; Times: 22
+	Date: 2015-07-15 ; Times: 11
+	Date: 2015-07-16 ; Times: 27
+	Date: 2015-07-17 ; Times: 22
+	Date: 2015-07-18 ; Times: 7
+	Date: 2015-07-20 ; Times: 18
+	Date: 2015-07-21 ; Times: 23
+	Date: 2015-07-22 ; Times: 44
+	Date: 2015-07-23 ; Times: 10
+	Date: 2015-07-24 ; Times: 13
+	Date: 2015-07-25 ; Times: 46
+	Date: 2015-07-26 ; Times: 20
+	Date: 2015-07-27 ; Times: 41
+	Date: 2015-07-28 ; Times: 23
+	Date: 2015-07-29 ; Times: 94
+	Date: 2015-07-30 ; Times: 40
+	Date: 2015-07-31 ; Times: 51
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cucullata genus:Tangara" ; Times: 1
+	Query: "broad-tailed hummingbird" ; Times: 1
+	Query: "specificepithet:nitidissima genus:Chlorochrysa" ; Times: 1
+	Query: "Chlamydotis macqueenii type:specimen" ; Times: 1
+	Query: "arachnothera longirostra" ; Times: 1
+	Query: "seiurus motacilla egg" ; Times: 2
+	Query: "Phapitreron brunneiceps type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "celaenops" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1909" ; Times: 1
+	Query: "specificepithet:pallidus genus:Camarhynchus" ; Times: 1
+	Query: "Hemitriccus margaritaceiventer" ; Times: 1
+	Query: "Nesospingus speculiferus" ; Times: 1
+	Query: "Amazilia viridifrons type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "stigmatura" ; Times: 1
+	Query: "c livia" ; Times: 1
+	Query: "campylorhynchus megalopterus" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104719" ; Times: 1
+	Query: "pionus maximiliani" ; Times: 3
+	Query: "Sasia tissue:1" ; Times: 1
+	Query: "5851" ; Times: 1
+	Query: ""Tympanuchus cupido cupido"" ; Times: 1
+	Query: "PEABODY BIRDS" ; Times: 1
+	Query: "sporophila americana" ; Times: 18
+	Query: "specificepithet:cyanoventris genus:Tangara" ; Times: 5
+	Query: "Dixiphia pipra media:1" ; Times: 1
+	Query: "Ninox superciliaris" ; Times: 3
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: ""Balaeniceps rex" institutioncode:YPM" ; Times: 1
+	Query: "Momotus country:"Panama"" ; Times: 7
+	Query: "Nystalus chacuru" ; Times: 1
+	Query: "Crypturellus tataupa" ; Times: 1
+	Query: "Crypturellus parvirostris" ; Times: 1
+	Query: "specificepithet:fuliginosus genus:Saltator" ; Times: 1
+	Query: "genus:Stephanophorus tissue:1" ; Times: 1
+	Query: "skeleton Phoebastria immutabilis" ; Times: 1
+	Query: "Pipile pipile type:specimen" ; Times: 5
+	Query: "Mniotilta varia type:specimen country:"Colombia"" ; Times: 1
+	Query: "Pterodroma sandwichensis type:specimen" ; Times: 2
+	Query: "Pinguinus impennis" ; Times: 9
+	Query: "arachnothera everetti" ; Times: 1
+	Query: "Tympanuchus pallidicinctus type:specimen" ; Times: 1
+	Query: ""criniger ndussumensis" tissue:1" ; Times: 1
+	Query: "Selasphorus rufus stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "Nonnula institutioncode:YPM" ; Times: 2
+	Query: "aythya nyroca" ; Times: 4
+	Query: "histurgops" ; Times: 2
+	Query: "asthenes patagonica" ; Times: 2
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Micrastur institutioncode:YPM" ; Times: 1
+	Query: "Celeus tissue:1" ; Times: 1
+	Query: "pteruthius aenobarbus" ; Times: 1
+	Query: "Pharomachrus mocinno type:specimen" ; Times: 5
+	Query: "Empidonax virescens egg" ; Times: 1
+	Query: "Pterocles senegallus" ; Times: 1
+	Query: "catalognumber:022215" ; Times: 1
+	Query: "Nothura boraquira" ; Times: 1
+	Query: "Montezuma Quail" ; Times: 1
+	Query: "Micrastur institutioncode:YPM tissue:1" ; Times: 1
+	Query: "Fulica cornuta type:specimen" ; Times: 1
+	Query: "spartonoica" ; Times: 1
+	Query: "Hemixos cinereus" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 2
+	Query: "country:"argentina" recordedby:humphrey year >= 1960 year <= 1962" ; Times: 1
+	Query: "specificepithet:eximia genus:Cnemathraupis" ; Times: 1
+	Query: "catalognumber:137244 institutioncode:YPM" ; Times: 1
+	Query: "Carduelis country:"India"" ; Times: 1
+	Query: "batrachostomus hodgsoni" ; Times: 2
+	Query: "palmarum minnesota" ; Times: 1
+	Query: "Inglis stateprovince:"Sikkim"" ; Times: 1
+	Query: "crypturellus bartletti" ; Times: 1
+	Query: "Nesillas typica" ; Times: 1
+	Query: "Nonnula institutioncode:YPM tissue:1" ; Times: 1
+	Query: "campephilus tissue:1" ; Times: 2
+	Query: "year <= 2015 distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "Neopsittacus pullicauda type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Tinamotis ingoufi" ; Times: 1
+	Query: "catalognumber:139186 institutioncode:YPM" ; Times: 1
+	Query: "Chloropsis cochinchinensis" ; Times: 1
+	Query: "glaucidium cuculoides" ; Times: 6
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "macrocephala institutioncode:YPM" ; Times: 1
+	Query: "Poospiza lateralis tissue:1" ; Times: 1
+	Query: "Vanellus chilensis" ; Times: 4
+	Query: "asthenes humicola" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBMNOT YPM NOT SBMNH NOT ANSP NOT NYSM)" ; Times: 1
+	Query: "Melanerpes formicivorus tissue:1" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 2
+	Query: "distance(location,geopoint(40.31446719283562,-113.411865234375))<30246.971978908655" ; Times: 1
+	Query: "strix nebulosa lapland" ; Times: 1
+	Query: "stateprovince:"Texas" genus:Coccyzus institutioncode:YPM" ; Times: 1
+	Query: ""crypturellus cinnamomeus"" ; Times: 1
+	Query: "country:"argentina" recordedby:humphreys year >= 1960 year <= 1962" ; Times: 1
+	Query: ""Menura novaehollandiae" institutioncode:YPM" ; Times: 1
+	Query: "25578" ; Times: 1
+	Query: ""buteo albonotatus" egg" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Honduras"" ; Times: 1
+	Query: "Myrmorchilus strigilatus" ; Times: 1
+	Query: "127639 type:specimen" ; Times: 2
+	Query: ""criniger calurus" tissue:1" ; Times: 1
+	Query: "Certhiaxis mustelinus type:specimen" ; Times: 1
+	Query: "county:"Greenwood" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "marmaronetta angustirostris" ; Times: 1
+	Query: "Ptilinopus arcanus type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "8767" ; Times: 1
+	Query: "Falco sparverius tropicalis type:specimen" ; Times: 2
+	Query: "specificepithet:preciosa genus:Tangara tissue:1" ; Times: 1
+	Query: "Ceyx rufidorsa" ; Times: 1
+	Query: "otis tarda" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Parkesia tissue:1" ; Times: 1
+	Query: "rhopocichla atriceps" ; Times: 1
+	Query: "muscicapa ferruginea" ; Times: 1
+	Query: "specificepithet:barbadensis genus:Loxigilla" ; Times: 2
+	Query: "selasphorus flammula" ; Times: 3
+	Query: "51472" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662.06742785237" ; Times: 1
+	Query: "Cyornis herioti" ; Times: 1
+	Query: "specificepithet:auriventris genus:Sicalis" ; Times: 1
+	Query: "specificepithet:bouvronides genus:sporophila" ; Times: 1
+	Query: "albitarsis" ; Times: 1
+	Query: "Copsychus luzoniensis" ; Times: 1
+	Query: "Poospiza cabanisi tissue:1" ; Times: 1
+	Query: "Megapodius decollatus type:specimen" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Schetba rufa occidentalis" ; Times: 2
+	Query: "Poecilotriccus" ; Times: 1
+	Query: "Merganetta armata colombiana" ; Times: 1
+	Query: "Anisognathus notabilis" ; Times: 2
+	Query: ""cygnus buccinator" year <= 1892" ; Times: 1
+	Query: "Megapodius geelvinkianus type:specimen" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:tyto institutioncode:ypm" ; Times: 1
+	Query: "sterna dougallii" ; Times: 5
+	Query: "Egretta thula type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 1
+	Query: "buteo albonotatus" ; Times: 1
+	Query: "Eriocnemis sapphiropygia type:specimen" ; Times: 1
+	Query: "Chaetorhynchus papuensis" ; Times: 1
+	Query: "Dryocopus tissue:1" ; Times: 1
+	Query: "seicercus poliogenys" ; Times: 2
+	Query: "specificepithet:caeruleus genus:Elanus year >= 1910" ; Times: 1
+	Query: "geositta punensis" ; Times: 1
+	Query: "selasphorus flammula tissue:1" ; Times: 1
+	Query: "egg lapland" ; Times: 2
+	Query: "Picoides tissue:1" ; Times: 1
+	Query: "pulsatrix country:"paraguay"" ; Times: 2
+	Query: "Neopsittacus pullicauda type:specimen AND (NOT eggs NOT AMNH)" ; Times: 1
+	Query: "Tachyeres leucocephalus type:specimen" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "criniger chloronotus" ; Times: 1
+	Query: "Cypsnagra hirundinacea" ; Times: 1
+	Query: "colaptes auratus tissue:1" ; Times: 2
+	Query: ""Cephalopterus ornatus" institutioncode:YPM" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 2
+	Query: "auricollis year >= 1886" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<141013" ; Times: 1
+	Query: "Chimney Swift" ; Times: 3
+	Query: "paradisaea rudolphi" ; Times: 2
+	Query: ""Oxyura vittata" institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ)" ; Times: 1
+	Query: "Brachyramphus marmoratus stateprovince:"California"" ; Times: 3
+	Query: "specificepithet:caeruleus genus:elanus" ; Times: 1
+	Query: "Streptoprocne" ; Times: 4
+	Query: "Campethera tissue:1" ; Times: 1
+	Query: "egg specificepithet:motacilla genus:parkesia" ; Times: 1
+	Query: "Blue Tit" ; Times: 1
+	Query: "country:"china" recordedby:rock" ; Times: 1
+	Query: "Afropavo congensis type:specimen" ; Times: 1
+	Query: "Cass Nebraska" ; Times: 1
+	Query: "Luscinia calliope country:"India"" ; Times: 2
+	Query: "catalognumber:137543 institutioncode:YPM" ; Times: 1
+	Query: "hellmayri brasilianus" ; Times: 1
+	Query: "Moho nobilis" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<100000" ; Times: 1
+	Query: "country:"Suriname" genus:Pipra" ; Times: 1
+	Query: "Kakapo" ; Times: 2
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<100000" ; Times: 1
+	Query: "habia peruviana" ; Times: 1
+	Query: "specificepithet:lebruni genus:Sicalis" ; Times: 8
+	Query: "colibri thalassinus" ; Times: 14
+	Query: "Leptodon" ; Times: 1
+	Query: "Pauxi unicornis type:specimen" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "megalaima haemacephala" ; Times: 3
+	Query: ""criniger chloronotus"" ; Times: 1
+	Query: "accipiter gularis" ; Times: 5
+	Query: "country:"new guinea" specificepithet:gurneyi genus:aquila" ; Times: 1
+	Query: "specificepithet:heliobates genus:Camarhynchus" ; Times: 8
+	Query: "stateprovince:"west irian" country:"indonesia" genus:egretta institutioncode:ypm" ; Times: 1
+	Query: "14280 type:specimen" ; Times: 1
+	Query: "chrysomma sinense" ; Times: 2
+	Query: "stateprovince:"west irian" country:"indonesia" genus:tachybaptus institutioncode:ypm" ; Times: 1
+	Query: "Pseudibis" ; Times: 1
+	Query: "phaenicophaeus pyrrhocephalus" ; Times: 1
+	Query: "Gypohierax angolensis" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ NOT MVZ NOT MCZ NOT OMNH NOT UWBM)" ; Times: 1
+	Query: "country:"china" specificepithet:internigrans genus:perisoreus" ; Times: 1
+	Query: "dam country:"zimbabwe"" ; Times: 1
+	Query: "dendrocopos tissue:1" ; Times: 1
+	Query: "specificepithet:bouvreuil genus:Sporophila tissue:1" ; Times: 1
+	Query: "Basileuterus tristriatus" ; Times: 1
+	Query: "genus:Tauraco institutioncode:ypm" ; Times: 1
+	Query: "catalognumber:127640" ; Times: 2
+	Query: "lineola" ; Times: 1
+	Query: "genus:Tauraco tissue:1" ; Times: 7
+	Query: "phylloscopus subaffinis" ; Times: 1
+	Query: "picus tissue:1" ; Times: 1
+	Query: "year <= 2015 distance(location,geopoint(40.31446719283562,-113.411865234375))<39805" ; Times: 1
+	Query: "anthracothorax veraguensis" ; Times: 1
+	Query: "Harpy Eagle" ; Times: 1
+	Query: "Brachyramphus brevirostris egg" ; Times: 1
+	Query: "ichthyophaga humilis" ; Times: 2
+	Query: "Emberizoides herbicola" ; Times: 1
+	Query: "Picumnus tissue:1" ; Times: 2
+	Query: "Coccothraustes coccothraustes country:"Pakistan"" ; Times: 1
+	Query: "coracina atriceps" ; Times: 9
+	Query: "Spelaeornis" ; Times: 1
+	Query: "Xenopsaris albinucha" ; Times: 1
+	Query: "phylloscopus borealis" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" institutioncode:ypm" ; Times: 1
+	Query: "distance(location,geopoint(40.27256855319715,-113.258056640625))<30247" ; Times: 1
+	Query: "Passer moabiticus" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 8
+	Query: "specificepithet:goughensis genus:Rowettia" ; Times: 2
+	Query: "Phapitreron cinereiceps type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Porphyrio hochstetteri type:specimen" ; Times: 1
+	Query: "Melanerpes carolinus tissue:1" ; Times: 1
+	Query: "genus:irediparra institutioncode:ypm" ; Times: 1
+	Query: "142880 type:specimen" ; Times: 1
+	Query: "Inglis year >= 1870 year <= 1947" ; Times: 1
+	Query: "muscisaxicola fluviatilis" ; Times: 2
+	Query: "anthus hellmayri" ; Times: 2
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "parkesia motacilla egg" ; Times: 1
+	Query: "acanthis flammea (egg)" ; Times: 1
+	Query: "catalognumber:137593 institutioncode:YPM" ; Times: 1
+	Query: "falco laggar" ; Times: 2
+	Query: "Parkesia noveboracensis" ; Times: 1
+	Query: "paradisaea tissue:1" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS)" ; Times: 1
+	Query: "specificepithet:caeruleus genus:elanus year >= 1970" ; Times: 3
+	Query: "county:"Richland" stateprovince:"South Carolina" class:Aves" ; Times: 1
+	Query: "chrysocolaptes festivus" ; Times: 2
+	Query: ""Bonasa umbellus" tissue:1" ; Times: 1
+	Query: "Picoides tridactylus tissue:1" ; Times: 1
+	Query: "Prunella montanella" ; Times: 1
+	Query: "gauhati" ; Times: 1
+	Query: "zosterops everetti type:specimen" ; Times: 2
+	Query: "Ypm stateprovince:"Vermont"" ; Times: 1
+	Query: "Chloropsis flavocincta" ; Times: 3
+	Query: "harpactes fasciatus type:specimen" ; Times: 1
+	Query: "specificepithet:ruticilla genus:setophaga year >= 1990 year <= 2015 distance(location,geopoint(45.583289756006316,-71.3671875))<743606" ; Times: 1
+	Query: "33125" ; Times: 1
+	Query: "Tanysiptera ellioti" ; Times: 2
+	Query: "phylloscopus reguloides" ; Times: 3
+	Query: "Tinamotis ingoufi type:specimen" ; Times: 1
+	Query: "Hemixos flavala" ; Times: 1
+	Query: "Pipraeidea bonariensis tissue:1" ; Times: 1
+	Query: "tangara inornata" ; Times: 4
+	Query: "Phoenicopterus roseus type:specimen" ; Times: 2
+	Query: ""Falcipennis canadensis" stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "100263" ; Times: 1
+	Query: "catalognumber:139465 institutioncode:YPM" ; Times: 1
+	Query: "phylloscopus maculipennis" ; Times: 3
+	Query: "oreornis" ; Times: 1
+	Query: "coracina caledonica" ; Times: 5
+	Query: "Pterocles orientalis India skin" ; Times: 5
+	Query: "mammoth cave" ; Times: 1
+	Query: "podiceps cristatus" ; Times: 3
+	Query: "genus:goura institutioncode:ypm" ; Times: 1
+	Query: "Spelaeornis oatesi" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:hirundo institutioncode:ypm" ; Times: 1
+	Query: "ypm vz ypm orn 031499" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Panama"" ; Times: 1
+	Query: "ypm vz ypm orn 031498" ; Times: 3
+	Query: "picoides albolarvatus" ; Times: 1
+	Query: "Picumnus subtilis type:specimen" ; Times: 1
+	Query: "Aulacorhynchus griseigularis type:specimen" ; Times: 1
+	Query: "Otus ireneae" ; Times: 1
+	Query: "Siphonorhis" ; Times: 1
+	Query: ""Anser albifrons" stateprovince:"Alaska"" ; Times: 2
+	Query: "Neochen jubata" ; Times: 1
+	Query: "specificepithet:psittacula genus:Camarhynchus" ; Times: 3
+	Query: "florisuga fusca" ; Times: 20
+	Query: "Syrmaticus ellioti type:specimen" ; Times: 1
+	Query: "specificepithet:pauper genus:Camarhynchus" ; Times: 1
+	Query: "catalognumber:139468 institutioncode:YPM" ; Times: 1
+	Query: "pseudoseisura" ; Times: 4
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB NOT ROM NOT QM NOT UMMZ)" ; Times: 1
+	Query: "Robsonius" ; Times: 1
+	Query: "passenger pigeon" ; Times: 3
+	Query: "palmarum egg" ; Times: 1
+	Query: "ducula badia type:specimen" ; Times: 1
+	Query: "Emberiza hortulana" ; Times: 1
+	Query: "cuculus poliocephalus" ; Times: 3
+	Query: "stateprovince:"west irian" country:"indonesia" genus:motacilla institutioncode:ypm" ; Times: 1
+	Query: "Anthus bogotensis country:"Colombia"" ; Times: 3
+	Query: "stateprovince:"west irian" country:"indonesia" specificepithet:ruficollis tricolor genus:tachybaptus" ; Times: 1
+	Query: "paradisaea year >= 1980 year <= 2015 tissue:1" ; Times: 1
+	Query: "Puffinus newelli type:specimen" ; Times: 1
+	Query: "Nyctidromus veracruz" ; Times: 1
+	Query: "sporophila torqueola mutanda" ; Times: 1
+	Query: "specificepithet:violaceus genus:cyanocorax" ; Times: 1
+	Query: "ochthoeca leucophrys" ; Times: 2
+	Query: "colaptes melanochloros tissue:1" ; Times: 1
+	Query: "CAPERCAILLIE" ; Times: 3
+	Query: "Ploceus cucullatus" ; Times: 1
+	Query: "stateprovince:"alaska" class:aves recordedby:schmidt" ; Times: 1
+	Query: "Branta hutchinsii type:specimen" ; Times: 4
+	Query: "psittacula columboides" ; Times: 1
+	Query: "graminicola bengalensis" ; Times: 4
+	Query: "genus:euphonia (tissue) tissue:1" ; Times: 1
+	Query: "zosterops everetti" ; Times: 1
+	Query: "phylloscopus subviridis" ; Times: 3
+	Query: ""Bonasa umbellus" stateprovince:"Alaska" tissue:1" ; Times: 1
+	Query: "greater yellowlegs" ; Times: 1
+	Query: "Ptilinopus merrilli" ; Times: 1
+	Query: "megalurus palustris" ; Times: 1
+	Query: "type:specimen genus:chlorophonia (tissue)" ; Times: 1
+	Query: "Egretta thula type:specimen" ; Times: 1
+	Query: "enicurus borneensis" ; Times: 3
+	Query: "melidectes nouhuysi" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "50293" ; Times: 1
+	Query: "specificepithet:migratorius genus:Ectopistes" ; Times: 2
+	Query: "cannabina type:specimen (egg)" ; Times: 1
+	Query: "catalognumber:101565" ; Times: 1
+	Query: "brown nuthatch" ; Times: 1
+	Query: "Peucaea ruficauda" ; Times: 2
+	Query: "stateprovince:"west irian" country:"indonesia" genus:accipiter institutioncode:ypm" ; Times: 2
+	Query: "Veniliornis tissue:1" ; Times: 1
+	Query: "stateprovince:"papua" country:"indonesia" genus:irediparra institutioncode:ypm" ; Times: 1
+	Query: "Hemixos castanonotus" ; Times: 1
+	Query: "22774" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 2
+	Query: "Raphus cucullatus" ; Times: 8
+	Query: "phylloscopus fuscatus" ; Times: 4
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 4
+	Query: "stateprovince:"west irian" country:"indonesia" genus:sterna institutioncode:ypm" ; Times: 2
+	Query: "turdoides malcolmi" ; Times: 3
+	Query: "Pilherodius pileatus type:specimen" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "pulsatrix perspicillata" ; Times: 1
+	Query: "Cranioleuca gutturata" ; Times: 1
+	Query: "type:specimen catalognumber:110263" ; Times: 1
+	Query: "pin-tailed whydah" ; Times: 1
+	Query: "Apus pallidus" ; Times: 2
+	Query: "calliope hummingbird" ; Times: 4
+	Query: "dendrocopos medius tissue:1" ; Times: 2
+	Query: "81805" ; Times: 1
+	Query: "Strix aluco" ; Times: 1
+	Query: "distance(location,geopoint(40.33381556989261,-113.3294677734375))<32712.805901669977" ; Times: 1
+	Query: "greater yellowlegs eggs type:specimen" ; Times: 1
+	Query: "oreophasis" ; Times: 1
+	Query: "xanthogonys" ; Times: 7
+	Query: "specificepithet:crassirostris genus:Platyspiza" ; Times: 1
+	Query: "Garritornis isidorei" ; Times: 2
+	Query: "type:specimen genus:euphonia (tissue)" ; Times: 1
+	Query: ""criniger chloronotus" tissue:1" ; Times: 3
+	Query: "cygnus buccinator" ; Times: 1
+	Query: "catalognumber:137001 institutioncode:YPM" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:anas institutioncode:ypm" ; Times: 2
+	Query: "Mesitornithidae" ; Times: 1
+	Query: "Phylloscopus cebuensis" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 5
+	Query: "Buteo jamaicensis kemsiesi" ; Times: 1
+	Query: "myrmochanes" ; Times: 1
+	Query: "athene noctua" ; Times: 2
+	Query: "country:"kenya" specificepithet:caeruleus genus:Elanus" ; Times: 1
+	Query: "Myiarchus nuttingi type:specimen" ; Times: 3
+	Query: "blue-necked jacamar" ; Times: 1
+	Query: "antrostomus veracruz" ; Times: 1
+	Query: "Brachyramphus egg" ; Times: 2
+	Query: "stateprovince:"west irian" country:"indonesia" genus:merops institutioncode:ypm" ; Times: 2
+	Query: "Colaptes campestris tissue:1" ; Times: 1
+	Query: "egg "buteo lagopus"" ; Times: 1
+	Query: "Nemosia tissue:1" ; Times: 1
+	Query: "greater yellowlegs type:specimen" ; Times: 3
+	Query: "muscicapa ruficauda" ; Times: 8
+	Query: "Sporophila americana" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<104718.90122498687" ; Times: 1
+	Query: "Monasa institutioncode:YPM" ; Times: 2
+	Query: "Tinamus osgoodi type:specimen" ; Times: 1
+	Query: "cuculus saturatus" ; Times: 4
+	Query: "catalognumber:139181 institutioncode:YPM" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM NOT MLZ NOT MSB)" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "Colaptes campestris" ; Times: 1
+	Query: "rhodonessa caryophyllacea" ; Times: 1
+	Query: "catalognumber:100917" ; Times: 2
+	Query: "specificepithet:diadematus genus:Stephanophorus tissue:1" ; Times: 1
+	Query: "basileuterus tristriatus" ; Times: 5
+	Query: "specificepithet:richardsoni genus:melanospiza" ; Times: 3
+	Query: "Amazona aestiva" ; Times: 1
+	Query: "Jynx tissue:1" ; Times: 1
+	Query: "scopus umbretta" ; Times: 1
+	Query: "pulsatrix" ; Times: 6
+	Query: "Monasa institutioncode:YPM tissue:1" ; Times: 1
+	Query: "Chloropsis flavocincta sarawak" ; Times: 1
+	Query: "stateprovince:"north dakota" genus:molothrus" ; Times: 2
+	Query: "Otus scops country:"India"" ; Times: 1
+	Query: "catalognumber:137597 institutioncode:YPM" ; Times: 2
+	Query: "xanthogonys 2014" ; Times: 1
+	Query: "Certhiaxis mustelinus" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 6
+	Query: ""Buphagus africanus" institutioncode:YPM" ; Times: 1
+	Query: "Todirostrum" ; Times: 2
+	Query: "skeleton type:specimen specificepithet:migratorius genus:Ectopistes" ; Times: 1
+	Query: ""Casuarius casuarius" institutioncode:YPM" ; Times: 1
+	Query: "cypseloides niger" ; Times: 4
+	Query: "Gallicolumba keayi type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "colaptes rubiginosus tissue:1" ; Times: 1
+	Query: "Aegithalos concinnus" ; Times: 2
+	Query: "country:"India" specificepithet:calliope year <= 2015" ; Times: 4
+	Query: "Buteogallus gundlachii type:specimen" ; Times: 1
+	Query: "ypm orn 015699" ; Times: 1
+	Query: "Goldmania violiceps type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "Red-winged Blackbird stateprovince:"Connecticut"" ; Times: 1
+	Query: ""Petronia petronia"" ; Times: 1
+	Query: "36084" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 16
+	Query: "Montifringilla nivalis" ; Times: 2
+	Query: "specificepithet:melanodera genus:melanodera" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "Mystacornis crossleyi" ; Times: 1
+	Query: "country:"argentina" recordedby:humphrey year >= 1961 year <= 1961" ; Times: 1
+	Query: "Podiceps occipitalis" ; Times: 3
+	Query: "acanthis flammea" ; Times: 1
+	Query: "Cypseloides" ; Times: 3
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Monasa tissue:1" ; Times: 1
+	Query: "Peale Museum year >= 1700 year <= 1880" ; Times: 1
+	Query: "country:"china" genus:ficedula recordedby:rock" ; Times: 1
+	Query: "catalognumber:137569 institutioncode:YPM" ; Times: 1
+	Query: "Pelecanoides garnotii" ; Times: 1
+	Query: "Egretta thula type:specimen AND (NOT eggs NOT CRCM NOT DMNH NOT DMNS NOT KU NOT LACM)" ; Times: 1
+	Query: "catalognumber:137067 institutioncode:YPM" ; Times: 1
+	Query: "Pipraeidea tissue:1" ; Times: 1
+	Query: "Ptilinopus bernsteinii type:specimen AND (NOT eggs)" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<96662" ; Times: 1
+	Query: "Ochthoeca leucophrys leucophrys" ; Times: 1
+	Query: "specificepithet:acunhae genus:Nesospiza" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 112 (out of 1084 download events in this period)
+Total number of records downloaded: 8265 (out of 4365690 records downloaded for all resources in this period)
+Total number of unique records downloaded: 7415
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Argentina ; Times: 1
+	Country: Austria ; Times: 17
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Germany ; Times: 1
+	Country: India ; Times: 1
+	Country: Mexico ; Times: 23
+	Country: Netherlands ; Times: 1
+	Country: Puerto Rico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: United States ; Times: 59
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2015-07-01 ; Times: 2
+	Date: 2015-07-02 ; Times: 1
+	Date: 2015-07-03 ; Times: 7
+	Date: 2015-07-04 ; Times: 1
+	Date: 2015-07-06 ; Times: 13
+	Date: 2015-07-07 ; Times: 12
+	Date: 2015-07-08 ; Times: 1
+	Date: 2015-07-09 ; Times: 9
+	Date: 2015-07-11 ; Times: 6
+	Date: 2015-07-12 ; Times: 2
+	Date: 2015-07-14 ; Times: 4
+	Date: 2015-07-15 ; Times: 5
+	Date: 2015-07-16 ; Times: 4
+	Date: 2015-07-17 ; Times: 5
+	Date: 2015-07-18 ; Times: 1
+	Date: 2015-07-19 ; Times: 1
+	Date: 2015-07-20 ; Times: 8
+	Date: 2015-07-21 ; Times: 1
+	Date: 2015-07-22 ; Times: 4
+	Date: 2015-07-23 ; Times: 2
+	Date: 2015-07-24 ; Times: 3
+	Date: 2015-07-27 ; Times: 2
+	Date: 2015-07-28 ; Times: 5
+	Date: 2015-07-29 ; Times: 1
+	Date: 2015-07-30 ; Times: 3
+	Date: 2015-07-31 ; Times: 9
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cucullata genus:Tangara" ; Times: 1
+	Query: "county:"sonoma" year >= 1930 year <= 1975" ; Times: 1
+	Query: "specificepithet:nitidissima genus:Chlorochrysa" ; Times: 1
+	Query: "Cyanocorax yncas" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Colombia"" ; Times: 1
+	Query: "Geospiza fortis" ; Times: 1
+	Query: "Cyornis herioti" ; Times: 1
+	Query: "specificepithet:notabilis genus:Anisognathus" ; Times: 1
+	Query: "specificepithet:auriventris genus:Sicalis" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:sterna institutioncode:ypm" ; Times: 1
+	Query: "specificepithet:pallidus genus:Camarhynchus" ; Times: 1
+	Query: "utah" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:tyto institutioncode:ypm" ; Times: 1
+	Query: "county:"Wasatch" stateprovince:"Utah"" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 2
+	Query: "specificepithet:crassirostris genus:Platyspiza" ; Times: 1
+	Query: "type:specimen genus:euphonia (tissue)" ; Times: 1
+	Query: "Cardinalis cardinalis" ; Times: 1
+	Query: "specificepithet:conirostris genus:Geospiza" ; Times: 1
+	Query: "Oceanodroma homochroa" ; Times: 1
+	Query: "jalisco" ; Times: 1
+	Query: "AGUASCALIENTES" ; Times: 1
+	Query: "county:"Duchesne" stateprovince:"Utah"" ; Times: 1
+	Query: "specificepithet:ruficapillus genus:Schistochlamys" ; Times: 1
+	Query: "Arkansas" ; Times: 2
+	Query: "sporophila americana" ; Times: 1
+	Query: "Rhipidura cyaniceps" ; Times: 1
+	Query: "aves distance(location,geopoint(53.1072166918934,-171.2603759765625))<119084" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:anas institutioncode:ypm" ; Times: 1
+	Query: "Phylloscopus cebuensis" ; Times: 1
+	Query: "country:"Mexico" class:Aves" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "specificepithet:olivacea genus:Certhidea" ; Times: 1
+	Query: "Cardinalis cardinalis specificepithet:cardinalis genus:Cardinalis class:Aves" ; Times: 1
+	Query: "namibia" ; Times: 1
+	Query: "c livia" ; Times: 1
+	Query: "ruffed grouse" ; Times: 1
+	Query: "zacatecas" ; Times: 1
+	Query: "genus:goura institutioncode:ypm" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:merops institutioncode:ypm" ; Times: 2
+	Query: ""Tympanuchus cupido cupido"" ; Times: 2
+	Query: "type:specimen hastypestatus:1" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:hirundo institutioncode:ypm" ; Times: 1
+	Query: "Geospiza magnirostris" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 1
+	Query: "macroscelides" ; Times: 1
+	Query: "Streptoprocne" ; Times: 1
+	Query: "Falco femoralis" ; Times: 1
+	Query: "geositta punensis" ; Times: 1
+	Query: "Cyanocompsa parellina" ; Times: 2
+	Query: "Copsychus luzoniensis" ; Times: 1
+	Query: "agelaius tricolor" ; Times: 1
+	Query: "specificepithet:psittacula genus:Camarhynchus" ; Times: 1
+	Query: "county:"Emery" stateprovince:"Utah"" ; Times: 1
+	Query: "specificepithet:parvulus genus:Camarhynchus" ; Times: 1
+	Query: "florisuga fusca" ; Times: 1
+	Query: "guanajuato" ; Times: 1
+	Query: "specificepithet:pauper genus:Camarhynchus" ; Times: 1
+	Query: "colibri thalassinus" ; Times: 2
+	Query: "Hemixos cinereus" ; Times: 1
+	Query: "Saltator coerulescens" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Panama"" ; Times: 1
+	Query: "chordata country:"dominican Republic"" ; Times: 1
+	Query: "country:"new guinea" specificepithet:gurneyi genus:aquila" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:egretta institutioncode:ypm" ; Times: 1
+	Query: "coracina atriceps" ; Times: 1
+	Query: "palmarum minnesota" ; Times: 1
+	Query: "san luis potosi" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:motacilla institutioncode:ypm" ; Times: 1
+	Query: "specificepithet:inornata genus:Pinaroloxias" ; Times: 1
+	Query: "stateprovince:"arizona" specificepithet:stelleri genus:cyanocitta" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" specificepithet:ruficollis tricolor genus:tachybaptus" ; Times: 1
+	Query: "Hemixos flavala" ; Times: 1
+	Query: "specificepithet:luteocephala genus:Sicalis" ; Times: 1
+	Query: "Campylorhynchus rufinucha" ; Times: 1
+	Query: "specificepithet:abbas genus:Thraupis" ; Times: 1
+	Query: "country:"India" specificepithet:calliope year <= 2015" ; Times: 1
+	Query: "Guanajuato" ; Times: 1
+	Query: "Poicephalus" ; Times: 1
+	Query: "specificepithet:melanodera genus:melanodera" ; Times: 1
+	Query: "genus:euphonia (tissue) tissue:1" ; Times: 1
+	Query: ""Anser albifrons" country:"Canada"" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:tachybaptus institutioncode:ypm" ; Times: 2
+	Query: "Ptilinopus merrilli" ; Times: 1
+	Query: "specificepithet:macroura genus:Vidua mappable:1" ; Times: 1
+	Query: "Selasphorus platycercus" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "country:"china" genus:ficedula recordedby:rock" ; Times: 1
+	Query: "country:"Puerto Rico"" ; Times: 1
+	Query: "specificepithet:peruviana genus:Tangara" ; Times: 1
+	Query: "Mniotilta varia type:specimen country:"Honduras"" ; Times: 1
+	Query: "county:"Sonoma" stateprovince:"California" specificepithet:alpestris genus:eremophila" ; Times: 1
+	Query: "Ochthoeca leucophrys" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Parkesia tissue:1" ; Times: 1
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "muscisaxicola fluviatilis" ; Times: 1
+	Query: "stateprovince:"west irian" country:"indonesia" genus:accipiter institutioncode:ypm" ; Times: 2
+	Query: "Loggerhead Shrike" ; Times: 1
+	Query: "county:"Utah" stateprovince:"Utah"" ; Times: 1
+	Query: "aves distance(location,geopoint(53.199451902831555,-170.68359375))<129296" ; Times: 1
+	Query: "Geospiza fuliginosa" ; Times: 1
+	Query: "stateprovince:"papua" country:"indonesia" genus:irediparra institutioncode:ypm" ; Times: 1
+	Query: "Hemixos castanonotus" ; Times: 1
+
+CUMULATIVE VALUES FOR THIS YEAR:
+
+Number of search events that retrieved data from the resource: 4172
+Total number of records retrieved from searches: 30855
+Number of download events that retrieved data from the resource: 621
+Total number of records downloaded: 99147
+
+CUMULATIVE VALUES SINCE THE BEGINNING:
+
+Number of search events that retrieved data from the resource: 4593
+Total number of records retrieved from searches: 33947
+Number of download events that retrieved data from the resource: 665
+Total number of records downloaded: 104030
+
+
+End of report.
+
+
+Please visit http://www.vertnet.org/resources/usagereportingguide.html to see a complete list, with explanations, of these metrics.
