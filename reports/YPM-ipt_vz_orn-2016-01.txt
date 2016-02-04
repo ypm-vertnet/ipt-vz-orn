@@ -1,0 +1,430 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for January 2016, generated on 2016/02/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 382
+Number of records retrieved in searches: 3027
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 40
+	Country: Canada ; Times: 10
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 3
+	Country: Venezuela ; Times: 1
+	Country: United Arab Emirates ; Times: 1
+	Country: Panama ; Times: 5
+	Country: India ; Times: 10
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 4
+	Country: United Kingdom ; Times: 7
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 9
+	Country: Colombia ; Times: 3
+	Country: Unknown ; Times: 20
+	Country: Switzerland ; Times: 10
+	Country: Thailand ; Times: 7
+	Country: United States ; Times: 215
+	Country: Russia ; Times: 25
+	Country: Denmark ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-04 ; Times: 14
+	Date: 2016-01-05 ; Times: 7
+	Date: 2016-01-20 ; Times: 14
+	Date: 2016-01-07 ; Times: 14
+	Date: 2016-01-26 ; Times: 15
+	Date: 2016-01-27 ; Times: 14
+	Date: 2016-01-02 ; Times: 15
+	Date: 2016-01-25 ; Times: 18
+	Date: 2016-01-28 ; Times: 25
+	Date: 2016-01-29 ; Times: 10
+	Date: 2016-01-08 ; Times: 29
+	Date: 2016-01-09 ; Times: 9
+	Date: 2016-01-22 ; Times: 21
+	Date: 2016-01-23 ; Times: 2
+	Date: 2016-01-06 ; Times: 24
+	Date: 2016-01-19 ; Times: 8
+	Date: 2016-01-21 ; Times: 6
+	Date: 2016-01-13 ; Times: 4
+	Date: 2016-01-12 ; Times: 17
+	Date: 2016-01-11 ; Times: 7
+	Date: 2016-01-10 ; Times: 10
+	Date: 2016-01-17 ; Times: 11
+	Date: 2016-01-16 ; Times: 6
+	Date: 2016-01-15 ; Times: 17
+	Date: 2016-01-14 ; Times: 10
+	Date: 2016-01-31 ; Times: 7
+	Date: 2016-01-30 ; Times: 17
+	Date: 2016-01-24 ; Times: 6
+	Date: 2016-01-03 ; Times: 2
+	Date: 2016-01-18 ; Times: 10
+	Date: 2016-01-01 ; Times: 13
+
+List of queries that retrieved data from the resource: 
+	Query: "&#34;Passerina versicolor&#34; type:specimen tissue:1" ; Times: 1
+	Query: "Anas superciliosa tissue:1" ; Times: 1
+	Query: "MEXICAN DUCK" ; Times: 1
+	Query: "Tadorna ferruginea" ; Times: 3
+	Query: "cissa thalassina" ; Times: 1
+	Query: "yuhina castaniceps castaniceps" ; Times: 1
+	Query: "long eared owl" ; Times: 2
+	Query: "(YPM-ORN-024633)" ; Times: 1
+	Query: "paradisaea tissue:1" ; Times: 1
+	Query: "Bubo scandiacus wing" ; Times: 1
+	Query: "palau (hill) year &gt;= 1900 year &lt;= 1955" ; Times: 6
+	Query: "pitiayumi brazil" ; Times: 2
+	Query: "Geothlypis aequinoctialis brazil" ; Times: 1
+	Query: "gorsachius" ; Times: 1
+	Query: "Pheucticus tibialis type:specimen" ; Times: 1
+	Query: "Tetrax tetrax" ; Times: 2
+	Query: "syndactyla subalaris" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "paradisaea year &gt;= 1980 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Sayornis saya quiescens" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 2
+	Query: "&#34;Pyriglena leuconota&#34;" ; Times: 1
+	Query: "leucistic" ; Times: 1
+	Query: "halcyon chelicuti" ; Times: 2
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett institutioncode:YPM" ; Times: 2
+	Query: "Perdicula" ; Times: 2
+	Query: "Pterocles alchata mappable:1" ; Times: 1
+	Query: "country:&#34;Brazil&#34; recordedby:Klages year &gt;= 1919 year &lt;= 1919" ; Times: 1
+	Query: "euryceros prevostii" ; Times: 2
+	Query: "specificepithet:castaneus genus:Pachyramphus class:Aves stateprovince:&#34;AMAZONAS&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Least Storm-Petrel" ; Times: 1
+	Query: "specificepithet:carolinus genus:melanerpes class:Aves stateprovince:&#34;oklahoma&#34;" ; Times: 2
+	Query: "WFVZ media:1" ; Times: 1
+	Query: "Boreal Owl" ; Times: 1
+	Query: "oriolus kundoo india" ; Times: 1
+	Query: "&#34;Hemispingus atropileus&#34;" ; Times: 1
+	Query: "Psittacula roseata" ; Times: 3
+	Query: "Cissa thalassina" ; Times: 5
+	Query: "pseudibis" ; Times: 1
+	Query: "Platylophus" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:havemeyer year &gt;= 1937 year &lt;= 1938" ; Times: 1
+	Query: "lophotibis cristata" ; Times: 1
+	Query: "Ptilorrhoa leucosticta" ; Times: 1
+	Query: "Indicator archipelagicus" ; Times: 1
+	Query: "specificepithet:marginatus genus:Pachyramphus class:Aves stateprovince:&#34;para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cinclosoma ajax" ; Times: 2
+	Query: "anas formosa tissue:1" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "syma megarhyncha" ; Times: 4
+	Query: "33490" ; Times: 1
+	Query: "Bubo nipalensis" ; Times: 1
+	Query: "priotelus temnurus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Herpsilochmus stictocephalus type:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:havemeyer year &gt;= 1936 year &lt;= 1936" ; Times: 1
+	Query: "ardea insignis" ; Times: 1
+	Query: "Urocynchramus" ; Times: 1
+	Query: "manacus vitellinus" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ NOT CUMV NOT OMNH NOT ROM NOT UCLA NOT SDNHM NOT CAS NOT CM NOT USNM NOT CHAS NOT DMNH) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "(aureola aurantiicollis)" ; Times: 1
+	Query: "skin genus: Eucometis sex:male" ; Times: 1
+	Query: "dendrocitta occipitalis" ; Times: 8
+	Query: "Megascops kennicottii cardonensis" ; Times: 1
+	Query: "116021" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett year &gt;= 1920 year &lt;= 1920 institutioncode:YPM" ; Times: 1
+	Query: "transandinus" ; Times: 1
+	Query: "Anthus spragueii minnesota" ; Times: 2
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "mummy" ; Times: 11
+	Query: "type:specimen (tinamus)" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "Cantorchilus leucotis tissue:1" ; Times: 3
+	Query: "Serpophaga subcristata argentina" ; Times: 1
+	Query: "rhipidura brachyrhyncha" ; Times: 2
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "motacilla grandis" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "euchrepomis spodioptila type:specimen" ; Times: 1
+	Query: "Lacedo" ; Times: 2
+	Query: "Pillai stateprovince:&#34;Kerala&#34; country:&#34;India&#34; institutioncode:YPM" ; Times: 1
+	Query: "Tangara cayana type:specimen tissue:1" ; Times: 1
+	Query: "yuhina castaniceps" ; Times: 1
+	Query: "Cistothorus palustris waynei" ; Times: 1
+	Query: "myrmotherula surinamensis type:specimen sex:male year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "Falco naumanni" ; Times: 3
+	Query: "monster" ; Times: 11
+	Query: "Peucaea aestivalis type:specimen" ; Times: 1
+	Query: "Spotted Owl" ; Times: 1
+	Query: "Maximilian" ; Times: 1
+	Query: "witch" ; Times: 8
+	Query: "euplectes jacksoni" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "schistocichla leucostigma type:specimen year &gt;= 1965 year &lt;= 2016" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "icterus pectoralis" ; Times: 1
+	Query: "Pitangus sulphuratus argentina" ; Times: 1
+	Query: "Syma megarhyncha" ; Times: 1
+	Query: "euchrepomis spodioptila" ; Times: 3
+	Query: "Batrachostomus auritus" ; Times: 3
+	Query: "Tangara cayana" ; Times: 5
+	Query: "distance(location,geopoint(23.819036,-110.127516))&lt;15000" ; Times: 1
+	Query: "spotted owl" ; Times: 4
+	Query: "&#34;Elaenia chiriquensis&#34;" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "Cyphorhinus tissue:1" ; Times: 1
+	Query: "Cyphorhinus arada tissue:1" ; Times: 1
+	Query: "black rail" ; Times: 2
+	Query: "pica preparations:wing institutioncode:YPM" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940" ; Times: 1
+	Query: "long-eared owl" ; Times: 2
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:willett AND (NOT lacm NOT dmns NOT mvz NOT psm NOT ummz NOT WFVZ NOT CUMV NOT OMNH NOT ROM NOT UCLA NOT SDNHM NOT CAS) year &gt;= 1920 year &lt;= 1920" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "type:specimen genus:phoenicircus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Picumnus minutissimus" ; Times: 8
+	Query: "croconotus brazil" ; Times: 1
+	Query: "aves (costa rica) institutioncode:YPM hastypestatus:1" ; Times: 1
+	Query: "Carolina parakeet" ; Times: 1
+	Query: "dicrurus leucophaeus india" ; Times: 2
+	Query: "Pterocles exustus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "egg Falcipennis" ; Times: 2
+	Query: "116441" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "trogon ambiguus type:specimen" ; Times: 2
+	Query: "palau (hill) year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "genus:Amazonetta preparations:wing institutioncode:YPM" ; Times: 1
+	Query: "bears" ; Times: 1
+	Query: "genus:Anas preparations:wing institutioncode:YPM" ; Times: 1
+	Query: "apapane" ; Times: 2
+	Query: "Henicorhina leucophrys hilaris" ; Times: 1
+	Query: "skin male type:specimen genus:Rowettia order:Passeriformes class:Aves" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:havemeyer" ; Times: 2
+	Query: "oseryi" ; Times: 1
+	Query: "Chlorornis riefferii" ; Times: 1
+	Query: "genus:Tinamus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:mollissima genus:zoothera" ; Times: 2
+	Query: "skin genus: Gubernatrix sex:male" ; Times: 1
+	Query: "Columbiformes &#34;costa rica&#34; mappable:1" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+	Query: "saltator mutus" ; Times: 2
+	Query: "thamnophilus melanonotus type:specimen" ; Times: 2
+	Query: "anas falcata tissue:1" ; Times: 1
+	Query: "125417" ; Times: 1
+	Query: "genus:Pachyramphus class:Aves stateprovince:&#34;sao paulo&#34; country:&#34;Brazil&#34;" ; Times: 2
+	Query: "pavo cristatus" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "myrmeciza immaculata" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:havemeyer year &gt;= 1900 year &lt;= 1935" ; Times: 1
+	Query: "Yellow-crowned Barbet type:specimen" ; Times: 1
+	Query: "Pycnonotus atriceps" ; Times: 1
+	Query: "aves saussure" ; Times: 1
+	Query: "108529" ; Times: 1
+	Query: "Henicorhina leucophrys" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "casiornis" ; Times: 1
+	Query: "Henicorhina leucosticta pittieri" ; Times: 1
+	Query: "specificepithet:hirundinacea genus:Sterna" ; Times: 1
+	Query: "Rainbow Snake" ; Times: 3
+	Query: "Poecile gambeli atratus" ; Times: 1
+	Query: "wilson hawaii" ; Times: 1
+	Query: "bubo sumatranus" ; Times: 1
+	Query: "Henicorhina leucosticta leucosticta" ; Times: 1
+	Query: "specificepithet:minor genus:Coccyzus" ; Times: 1
+	Query: "anas sparsa" ; Times: 1
+	Query: "cardellina pusilla month &gt;= 12 month &lt;= 12" ; Times: 1
+	Query: "Ammodramus humeralis mappable:1 tissue:1" ; Times: 2
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "type:specimen order:psittaciformes (Amazona barbadensis) institutioncode:YPM" ; Times: 1
+	Query: "phacellodomus ruber ypm" ; Times: 1
+	Query: "Perdicula asiatica vidali stateprovince:&#34;Kerala&#34; country:&#34;India&#34; institutioncode:YPM" ; Times: 1
+	Query: "BMNH" ; Times: 2
+	Query: "Yellow-crowned Barbet" ; Times: 1
+	Query: "USNM 4393" ; Times: 1
+	Query: "macaw" ; Times: 1
+	Query: "egg country:&#34;Colombia&#34;" ; Times: 2
+	Query: "Nonnula rubecula type:specimen" ; Times: 1
+	Query: "terpsiphone paradisi india" ; Times: 2
+	Query: "juneae" ; Times: 1
+	Query: "skin genus: Hemispingus sex:male" ; Times: 1
+	Query: "ferrugineifrons" ; Times: 1
+	Query: "skin male type:specimen specificepithet:somptuosus genus:Anisognathus order:Passeriformes class:Aves" ; Times: 1
+	Query: "class:aves locality:chipp stateprovince:&#34;alaska&#34; year &gt;= 1940 year &lt;= 1940 month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "Psaltriparus minimus melanurus" ; Times: 2
+	Query: "anthracothorax veraguensis" ; Times: 5
+	Query: "polioptila plumbea" ; Times: 1
+	Query: "Colombia (Egg)" ; Times: 1
+	Query: "genus:Carpornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 9
+	Query: "geotrygon" ; Times: 1
+	Query: "specificepithet:minor genus:Pachyramphus class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Perdicula stateprovince:&#34;Kerala&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "habia alfaroana" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "Pterocles year &gt;= 1970 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "specificepithet:minor genus:Pachyramphus class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "Pterocles year &gt;= 1980 year &lt;= 2015 mappable:1" ; Times: 1
+	Query: "Aglaeactis cupripennis" ; Times: 1
+	Query: "specificepithet:rufus genus:Pachyramphus class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Basileuterus culicivorus brazil" ; Times: 2
+	Query: "Ptilorrhoa castanonota" ; Times: 2
+	Query: "Oceanodroma homochroa 1913" ; Times: 1
+	Query: "rivularis brazil" ; Times: 1
+	Query: "Tangara cayana tissue:1" ; Times: 3
+	Query: "Ammodramus humeralis tissue:1" ; Times: 1
+	Query: "muscicapa muttui" ; Times: 4
+	Query: "specificepithet:polychopterus genus:Pachyramphus class:Aves stateprovince:&#34;amazonas&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Perdicula asiatica" ; Times: 1
+	Query: "platysmurus leucopterus" ; Times: 1
+	Query: "nothocercus type:specimen" ; Times: 1
+	Query: "porzana cinerea" ; Times: 1
+	Query: "Perdicula asiatica stateprovince:&#34;Kerala&#34; country:&#34;India&#34;" ; Times: 1
+	Query: "Granatellus pelzelni brazil" ; Times: 1
+	Query: "oriolus chinensis india" ; Times: 1
+	Query: "Thamnophilus melanonotus" ; Times: 1
+	Query: "Juniperus" ; Times: 1
+	Query: "Brachypteryx montana type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:carnifex genus:phoenicircus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "impennis stateprovince:&#34;newfoundland&#34;" ; Times: 2
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Ixoreus naevius month &gt;= 6 month &lt;= 6" ; Times: 1
+	Query: "bubo nipalensis type:specimen" ; Times: 1
+	Query: "edwards stateprovince:&#34;baja california&#34; country:&#34;mexico&#34; year &gt;= 1916" ; Times: 1
+	Query: "Laterallus leucopyrrhus ypm" ; Times: 1
+	Query: "&#34;Veniliornis nigriceps&#34;" ; Times: 1
+	Query: "Gypaetus" ; Times: 3
+	Query: "eastern screech owl" ; Times: 1
+	Query: "Sittasomus griseicapillus jaliscensis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; year &gt;= 1927 year &lt;= 1927" ; Times: 2
+	Query: "Accipiter Arizona" ; Times: 2
+	Query: "Empidonax occidentalis" ; Times: 1
+	Query: "Psarocolius angustifrons brazil" ; Times: 1
+	Query: "Anisognathus somptuosus" ; Times: 1
+	Query: "zonotrichia atricapilla pasadena" ; Times: 1
+	Query: "type:specimen genus:Atrichornis" ; Times: 1
+	Query: "specificepithet:rufus genus:Pachyramphus class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "oriolus kundoo" ; Times: 1
+	Query: "skin genus: Lamprospiza sex:male" ; Times: 1
+	Query: "genus:Rhynchospiza class:Aves" ; Times: 1
+	Query: "specificepithet:osgoodi" ; Times: 1
+	Query: "euplectes jacksoni (gonads)" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 81 (out of 507 download events in this period)
+Total number of records downloaded: 2194
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 71
+	Country: Thailand ; Times: 3
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-01-22 ; Times: 4
+	Date: 2016-01-04 ; Times: 2
+	Date: 2016-01-20 ; Times: 2
+	Date: 2016-01-21 ; Times: 2
+	Date: 2016-01-26 ; Times: 4
+	Date: 2016-01-01 ; Times: 16
+	Date: 2016-01-02 ; Times: 25
+	Date: 2016-01-25 ; Times: 11
+	Date: 2016-01-28 ; Times: 4
+	Date: 2016-01-29 ; Times: 2
+	Date: 2016-01-19 ; Times: 2
+	Date: 2016-01-13 ; Times: 1
+	Date: 2016-01-12 ; Times: 1
+	Date: 2016-01-14 ; Times: 2
+	Date: 2016-01-05 ; Times: 1
+	Date: 2016-01-15 ; Times: 1
+	Date: 2016-01-03 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Temnurus temnurus" ; Times: 1
+	Query: "ramphastos toco" ; Times: 2
+	Query: "Anabacerthia striaticollis" ; Times: 1
+	Query: "&#34;Diglossa cyanea&#34;" ; Times: 1
+	Query: "himatione" ; Times: 1
+	Query: "&#34;Pseudocolaptes boissonneautii&#34;" ; Times: 1
+	Query: "&#34;Zonotrichia capensis&#34;" ; Times: 1
+	Query: "skin genus: Chlorophanes sex:male" ; Times: 1
+	Query: "skin genus: Haplospiza sex:male" ; Times: 1
+	Query: "&#34;Hemispingus frontalis&#34;" ; Times: 1
+	Query: "&#34;Picoides fumigatus&#34;" ; Times: 1
+	Query: "&#34;Thraupis cyanocephala&#34;" ; Times: 1
+	Query: "california condor" ; Times: 1
+	Query: "&#34;aves&#34; and &#34;Michoacan&#34;" ; Times: 1
+	Query: "Alberta" ; Times: 1
+	Query: "phalacrocorax atriceps" ; Times: 1
+	Query: "Cantorchilus leucotis tissue:1" ; Times: 1
+	Query: "&#34;Contopus fumigatus&#34;" ; Times: 1
+	Query: "skin genus: Saltatricula sex:male" ; Times: 1
+	Query: "type:specimen (crypturellus)" ; Times: 1
+	Query: "skin genus: Mitrospingus sex:male" ; Times: 1
+	Query: "&#34;Tangara vassorii&#34;" ; Times: 1
+	Query: "&#34;Haplophaedia aureliae&#34;" ; Times: 1
+	Query: "aechmophorus" ; Times: 1
+	Query: "skin genus: Paroaria sex:male" ; Times: 1
+	Query: "&#34;Pachyramphus versicolor&#34;" ; Times: 1
+	Query: "Setophaga discolor type:specimen" ; Times: 1
+	Query: "Lynx lynx" ; Times: 1
+	Query: "&#34;Myiarchus cephalotes&#34;" ; Times: 1
+	Query: "skin genus: Lanio sex:male" ; Times: 1
+	Query: "&#34;Lepidocolaptes lacrymiger&#34;" ; Times: 1
+	Query: "&#34;Margarornis squamiger&#34;" ; Times: 1
+	Query: "&#34;Hemispingus superciliaris&#34;" ; Times: 1
+	Query: "&#34;Euphonia xanthogaster&#34;" ; Times: 1
+	Query: "&#34;Phaethornis syrmatophorus&#34;" ; Times: 1
+	Query: "&#34;Coeligena torquata&#34;" ; Times: 1
+	Query: "&#34;Heliangelus amethysticollis&#34;" ; Times: 1
+	Query: "skin genus: Melanodera sex:male" ; Times: 1
+	Query: "&#34;Myioborus miniatus&#34;" ; Times: 1
+	Query: "skin genus: Sporophila sex:male" ; Times: 1
+	Query: "wilsonia pusilla month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "&#34;Trogon personatus&#34;" ; Times: 1
+	Query: "&#34;Syndactyla rufosuperciliata&#34;" ; Times: 1
+	Query: "&#34;Doryfera ludovicae&#34;" ; Times: 1
+	Query: "&#34;Xenops rutilans&#34;" ; Times: 1
+	Query: "Dendrocitta formosae" ; Times: 1
+	Query: "skin genus: Tersina sex:male" ; Times: 1
+	Query: "distance(location,geopoint(32.66250035467835,-119.99542236328125))&lt;87926.45562583183" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Conuropsis carolinensis" ; Times: 1
+	Query: "charadrius nivosus" ; Times: 1
+	Query: "distance(location,geopoint(18.187606552494625,-66.58538818359375))&lt;78505" ; Times: 1
+	Query: "&#34;Lophotriccus pileatus&#34;" ; Times: 1
+	Query: "Catamblyrhynchus diadema" ; Times: 1
+	Query: "Hawaii Wilson class:Aves" ; Times: 1
+	Query: "skin genus: Ramphocelus sex:male" ; Times: 1
+	Query: "skin genus: Sicalis sex:male" ; Times: 1
+	Query: "skin genus: Iridosornis sex:male" ; Times: 1
+	Query: "&#34;Veniliornis nigriceps&#34;" ; Times: 1
+	Query: "&#34;Platyrinchus mystaceus&#34;" ; Times: 1
+	Query: "Coeligena coeligena" ; Times: 1
+	Query: "skin genus: Coryphospingus sex:male" ; Times: 1
+	Query: "Treron sieboldii" ; Times: 1
+	Query: "Adelomyia melanogenys" ; Times: 1
+	Query: "Brachypteryx montana" ; Times: 1
+	Query: "&#34;Santa Cruz Island&#34; class:Aves stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "&#34;Masius chrysopterus&#34;" ; Times: 1
+	Query: "&#34;Elaenia pallatangae&#34;" ; Times: 1
+	Query: "&#34;Cyclarhis gujanensis&#34;" ; Times: 1
+	Query: "&#34;Premnoplex brunnescens&#34;" ; Times: 1
+	Query: "skin genus: Loxigilla sex:male" ; Times: 1
+	Query: "&#34;Pipreola arcuata&#34;" ; Times: 1
+	Query: "&#34;Pachyramphus albogriseus&#34;" ; Times: 1
+	Query: "charadrius alexandrinus" ; Times: 1
+	Query: "&#34;Myrmotherula schisticolor&#34;" ; Times: 1
+	Query: "&#34;Iridosornis analis&#34;" ; Times: 1
+	Query: "specificepithet:flava genus:piranga stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Turnix" ; Times: 1
+	Query: "&#34;Tangara xanthocephala&#34;" ; Times: 1
+	Query: "&#34;Lafresnaya lafresnayi&#34;" ; Times: 1
+
+
+End of report.
