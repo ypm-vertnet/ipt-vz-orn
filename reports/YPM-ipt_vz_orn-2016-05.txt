@@ -1,0 +1,285 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 263
+Number of records retrieved in searches: 1899
+Number of different countries where searches have been originated: 18
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 3
+	Country: Russia ; Times: 18
+	Country: Colombia ; Times: 9
+	Country: Portugal ; Times: 7
+	Country: Mexico ; Times: 29
+	Country: Unknown ; Times: 6
+	Country: India ; Times: 4
+	Country: France ; Times: 1
+	Country: United States ; Times: 138
+	Country: Malaysia ; Times: 2
+	Country: China ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: Germany ; Times: 12
+	Country: Thailand ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 10
+	Date: 2016-05-18 ; Times: 8
+	Date: 2016-05-17 ; Times: 10
+	Date: 2016-05-16 ; Times: 10
+	Date: 2016-05-15 ; Times: 11
+	Date: 2016-05-14 ; Times: 4
+	Date: 2016-05-13 ; Times: 7
+	Date: 2016-05-12 ; Times: 8
+	Date: 2016-05-11 ; Times: 13
+	Date: 2016-05-10 ; Times: 5
+	Date: 2016-05-31 ; Times: 13
+	Date: 2016-05-30 ; Times: 11
+	Date: 2016-05-08 ; Times: 8
+	Date: 2016-05-09 ; Times: 5
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-02 ; Times: 3
+	Date: 2016-05-03 ; Times: 1
+	Date: 2016-05-04 ; Times: 11
+	Date: 2016-05-05 ; Times: 6
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 32
+	Date: 2016-05-27 ; Times: 32
+	Date: 2016-05-24 ; Times: 6
+	Date: 2016-05-25 ; Times: 9
+	Date: 2016-05-22 ; Times: 1
+	Date: 2016-05-23 ; Times: 2
+	Date: 2016-05-20 ; Times: 6
+	Date: 2016-05-21 ; Times: 7
+	Date: 2016-05-28 ; Times: 9
+	Date: 2016-05-29 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "Campethera nubica pallida" ; Times: 1
+	Query: "genus:Lipaugus stateprovince:&#34;Valle del Cauca&#34; country:&#34;Colombia&#34;" ; Times: 1
+	Query: "specificepithet:gallopavo genus:meleagris tissue:1" ; Times: 1
+	Query: "tyto detorta" ; Times: 2
+	Query: "Myzomela nigrita" ; Times: 2
+	Query: "genus:Colaptes country:&#34;Mexico&#34; (Guadalupe)" ; Times: 1
+	Query: "Podilymbus podiceps AND Island NOT Canada" ; Times: 1
+	Query: "type:specimen specificepithet:olivaceus genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ivory-billed woodpecker" ; Times: 1
+	Query: "chlorostilbon forficatus" ; Times: 1
+	Query: "Myzomela eques" ; Times: 4
+	Query: "Falco sparverius AND Island" ; Times: 1
+	Query: "TROGON MASSENA" ; Times: 2
+	Query: "Myzomela erythrocephala infuscata" ; Times: 1
+	Query: "Calandrella cinerea Tanzania" ; Times: 1
+	Query: "Gypaetus barbatus" ; Times: 7
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1871 year &lt;= 1880" ; Times: 1
+	Query: "specificepithet:DOMESTICUS genus:PASSER continent:Africa" ; Times: 1
+	Query: "specificepithet:leucura genus:lagopus" ; Times: 1
+	Query: "specificepithet:caerulea stateprovince:&#34;michigan&#34;" ; Times: 1
+	Query: "genus:porzana class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "elf" ; Times: 6
+	Query: "Amazilia beryllina devillei" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 2
+	Query: "Lophura bulweri" ; Times: 2
+	Query: "conuropsis carolinensis" ; Times: 3
+	Query: "Aix sponsa AND Island" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 9
+	Query: "mimizuku gurneyi" ; Times: 3
+	Query: "Illadopsis" ; Times: 1
+	Query: "Dendrocolaptes picumnus" ; Times: 1
+	Query: "Calliphlox mitchellii" ; Times: 1
+	Query: "warbler colorado usa" ; Times: 1
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Pycnonotus layardi Tanzania" ; Times: 1
+	Query: "type:specimen specificepithet:sulphurescens genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Oxyura jamaicensis AND Island" ; Times: 1
+	Query: "110018}" ; Times: 1
+	Query: "genus:cistothorus class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "batrachostomus cornutus" ; Times: 1
+	Query: "genus:lanius class:aves stateprovince:&#34;michigan&#34; year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "Halcyon leucocephala Kenya" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830" ; Times: 1
+	Query: "133942" ; Times: 1
+	Query: "genus:gavia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "genus:ectopistes stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "fieldfare" ; Times: 3
+	Query: "Chlorostilbon forficatus" ; Times: 1
+	Query: "type:specimen genus:Rhynchocyclus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "netta rufina" ; Times: 2
+	Query: "aramus guarauna" ; Times: 1
+	Query: "Chlidonias leucopterus" ; Times: 1
+	Query: "batrachostomus javensis" ; Times: 1
+	Query: "Prinia polychroa" ; Times: 4
+	Query: "gyps" ; Times: 1
+	Query: "Turdoides earlei" ; Times: 2
+	Query: "iceland 1929 egg" ; Times: 1
+	Query: "specificepithet:pusilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Pellorneidae" ; Times: 1
+	Query: "specificepithet:LUDOVICIANUS genus:LANIUS class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-111.127516))&lt;15000" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "otus fuliginosus" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "Myzomela cardinalis sanctaecrucis" ; Times: 1
+	Query: "Myzomela eichhorni" ; Times: 10
+	Query: "aegotheles insignis" ; Times: 1
+	Query: "Amazona tissue:1" ; Times: 1
+	Query: "calidris pugnax" ; Times: 1
+	Query: "Pycnonotus tricolor Tanzania" ; Times: 1
+	Query: "Ashworth AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:melodia genus:melospiza class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "Podiceps auritus AND Island NOT Canada" ; Times: 2
+	Query: "monster" ; Times: 3
+	Query: "oxyura new mexico" ; Times: 1
+	Query: "caprimulgus concretus" ; Times: 1
+	Query: "distance(location,geopoint(31.659036,-110.027516))&lt;15000" ; Times: 1
+	Query: "witch" ; Times: 4
+	Query: "Myiopsitta monachus" ; Times: 2
+	Query: "yellow bellied warbler" ; Times: 1
+	Query: "Myzomela lafargei" ; Times: 6
+	Query: "Treron Tanzania" ; Times: 1
+	Query: "campephilus principalis" ; Times: 2
+	Query: "otus madagascariensis" ; Times: 1
+	Query: "threskiornis molucca" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-110.247516))&lt;15000" ; Times: 1
+	Query: "Lampornis calolaemus" ; Times: 2
+	Query: "Red Knot" ; Times: 1
+	Query: "black rail" ; Times: 1
+	Query: "ara militaris" ; Times: 1
+	Query: "specificepithet:cerulea genus:setophaga stateprovince:&#34;connecticut&#34;" ; Times: 2
+	Query: "genus:phylloscartes country:&#34;brazil&#34;" ; Times: 1
+	Query: "Lampornis hemileucus" ; Times: 1
+	Query: "Halcyon albiventris Kenya" ; Times: 1
+	Query: "Numida" ; Times: 1
+	Query: "Corvus africa skeleton" ; Times: 1
+	Query: "Ocreatus" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.905516))&lt;15000" ; Times: 1
+	Query: "Henshaw AND Santa Cruz Island" ; Times: 1
+	Query: "specificepithet:elegans genus:rallus stateprovince:&#34;michigan&#34; year &gt;= 1901 year &lt;= 1910" ; Times: 1
+	Query: "crinifer" ; Times: 1
+	Query: "scotland 1921 egg" ; Times: 1
+	Query: "Kenopia" ; Times: 1
+	Query: "genus:quiscalus class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "lerwa" ; Times: 1
+	Query: "setophaga nigrescens" ; Times: 1
+	Query: "myioborus ornatus" ; Times: 1
+	Query: "siphonorhis brewsteri" ; Times: 2
+	Query: "Aves nasutus Kenya" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "saw whet owl" ; Times: 1
+	Query: "galbula tombacea" ; Times: 1
+	Query: "caprimulgus indicus" ; Times: 2
+	Query: "specificepithet:minutilla stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "nesoctites micromegas" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "stigmatura napensis" ; Times: 1
+	Query: "Dendrocincla turdina" ; Times: 1
+	Query: "Synthliboramphus AND Anacapa" ; Times: 1
+	Query: "dodo" ; Times: 4
+	Query: "Parabuteo unicinctus Mexico" ; Times: 3
+	Query: "Pterodroma hypoleuca" ; Times: 1
+	Query: "calliphlox mitchellii" ; Times: 1
+	Query: "sapphire" ; Times: 1
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "gallicolumba keayi" ; Times: 1
+	Query: "Pycnonotus Tanzania" ; Times: 1
+	Query: "32603" ; Times: 1
+	Query: "Cygnus olor tissue:1" ; Times: 1
+	Query: "Oxypogon guerinii" ; Times: 1
+	Query: "genus:sialia class:aves stateprovince:&#34;michigan&#34; (skin) year &gt;= 1850 year &lt;= 1899" ; Times: 1
+	Query: "Empidonax flaviventris egg" ; Times: 1
+	Query: "Myzomela melanocephala" ; Times: 3
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "Lioparus" ; Times: 1
+	Query: "Rallus elegans country:&#34;Cuba&#34;" ; Times: 1
+	Query: "specificepithet:bairdii stateprovince:&#34;michigan&#34; year &gt;= 1830 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(27.223036,-112.295516))&lt;15000" ; Times: 1
+	Query: "Black-headed Bunting" ; Times: 2
+	Query: "104182" ; Times: 1
+	Query: "Megaceryle AND Island" ; Times: 1
+	Query: "Dendrocolaptes" ; Times: 2
+	Query: "francolinus pintadeanus" ; Times: 1
+	Query: "genus:Platysteira tissue:1" ; Times: 1
+	Query: "yale peabody museum catalognumber:111056" ; Times: 1
+	Query: "type:specimen specificepithet:oustaleti genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:oustaleti genus:Phylloscartes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aethopyga blanci" ; Times: 1
+	Query: "numenius borealis" ; Times: 3
+	Query: "cissa chinensis" ; Times: 1
+	Query: "white breasted waterhen" ; Times: 1
+	Query: "francolinus pintadeanus year &gt;= 1950 year &lt;= 2015" ; Times: 1
+	Query: "Picus chlorolophus" ; Times: 1
+	Query: "Passer domesticus" ; Times: 2
+	Query: "Pachyramphus castaneus amazonus" ; Times: 1
+	Query: "fungi" ; Times: 1
+	Query: "specificepithet:cunicularia genus:athene tissue:1" ; Times: 1
+	Query: "genus:certhia class:aves stateprovince:&#34;michigan&#34; year &gt;= 1837 year &lt;= 1900" ; Times: 1
+	Query: "distance(location,geopoint(26.131036,-111.749516))&lt;15000" ; Times: 2
+	Query: "Colius striatus Tanzania" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "Sturnus vulgaris" ; Times: 6
+	Query: "Taiwan Partridge" ; Times: 2
+	Query: "anhima cornuta" ; Times: 4
+	Query: "antrostomus cubanensis" ; Times: 3
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 23 (out of 327 download events in this period)
+Total number of records downloaded: 5314
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 2
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 4
+	Country: Unknown ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: China ; Times: 9
+	Country: Chile ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-17 ; Times: 4
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 4
+	Date: 2016-05-13 ; Times: 1
+	Date: 2016-05-12 ; Times: 1
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-25 ; Times: 2
+	Date: 2016-05-31 ; Times: 2
+	Date: 2016-05-20 ; Times: 1
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "Pomatorhinus" ; Times: 1
+	Query: "Babax" ; Times: 1
+	Query: "myioborus melanocephalus" ; Times: 1
+	Query: "vermivora" ; Times: 1
+	Query: "calypte anna" ; Times: 1
+	Query: "class:aves distance(location,geopoint(21.585935114788498,-106.611328125))&lt;29438.373509106972" ; Times: 1
+	Query: "netta rufina" ; Times: 1
+	Query: "Henicorhina country:&#34;Colombia&#34;" ; Times: 1
+	Query: "Pionus senilis" ; Times: 1
+	Query: "mongolia" ; Times: 1
+	Query: "Timaliidae" ; Times: 1
+	Query: "lerwa lerwa" ; Times: 1
+	Query: "Gampsorhynchus" ; Times: 1
+	Query: "rhinomyias" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "Cinclodes fuscus" ; Times: 1
+	Query: "Malacopteron" ; Times: 1
+	Query: "Chamaea" ; Times: 1
+	Query: "Texas Brewster type:specimen class:Aves" ; Times: 1
+	Query: "Parabuteo unicinctus Mexico" ; Times: 2
+	Query: "Yuhina" ; Times: 1
+	Query: "Zosterops" ; Times: 1
+
+
+End of report.
