@@ -1,0 +1,705 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for June 2016, generated on 2016/07/04
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 836
+Number of records retrieved in searches: 7358
+Number of different countries where searches have been originated: 23
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 82
+	Country: Canada ; Times: 3
+	Country: Unknown ; Times: 11
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 3
+	Country: Argentina ; Times: 2
+	Country: Venezuela ; Times: 2
+	Country: Singapore ; Times: 9
+	Country: Germany ; Times: 28
+	Country: Chile ; Times: 2
+	Country: Hong Kong ; Times: 3
+	Country: Spain ; Times: 3
+	Country: Netherlands ; Times: 1
+	Country: Denmark ; Times: 37
+	Country: United States ; Times: 448
+	Country: Sweden ; Times: 1
+	Country: Russia ; Times: 25
+	Country: Portugal ; Times: 75
+	Country: Mexico ; Times: 67
+	Country: India ; Times: 11
+	Country: United Kingdom ; Times: 13
+	Country: Colombia ; Times: 5
+	Country: South Korea ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-24 ; Times: 36
+	Date: 2016-06-09 ; Times: 42
+	Date: 2016-06-08 ; Times: 40
+	Date: 2016-06-21 ; Times: 34
+	Date: 2016-06-20 ; Times: 45
+	Date: 2016-06-05 ; Times: 26
+	Date: 2016-06-04 ; Times: 37
+	Date: 2016-06-07 ; Times: 33
+	Date: 2016-06-06 ; Times: 7
+	Date: 2016-06-01 ; Times: 25
+	Date: 2016-06-03 ; Times: 34
+	Date: 2016-06-02 ; Times: 59
+	Date: 2016-06-23 ; Times: 44
+	Date: 2016-06-22 ; Times: 25
+	Date: 2016-06-18 ; Times: 14
+	Date: 2016-06-19 ; Times: 9
+	Date: 2016-06-16 ; Times: 47
+	Date: 2016-06-17 ; Times: 44
+	Date: 2016-06-14 ; Times: 83
+	Date: 2016-06-15 ; Times: 41
+	Date: 2016-06-12 ; Times: 12
+	Date: 2016-06-13 ; Times: 29
+	Date: 2016-06-10 ; Times: 29
+	Date: 2016-06-11 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "14852" ; Times: 1
+	Query: "Melanotis hypoleucus" ; Times: 1
+	Query: "wysham" ; Times: 2
+	Query: "Hemitriccus margaritaceiventer tissue:1" ; Times: 2
+	Query: "Pheugopedius maculipectus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:psittacula genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Buphagidae" ; Times: 1
+	Query: "34808" ; Times: 1
+	Query: "trogon rufus brazil" ; Times: 1
+	Query: "genus:Terpsiphone tissue:1" ; Times: 3
+	Query: "Bias Aves tissue:1" ; Times: 2
+	Query: "14352" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "1905 AND Catalina ISland NOT Fish" ; Times: 2
+	Query: "clytomyias insignis oorti" ; Times: 1
+	Query: "18771" ; Times: 1
+	Query: "annamensis" ; Times: 1
+	Query: "Smith AND Catalina" ; Times: 2
+	Query: "podiceps occipitalis" ; Times: 1
+	Query: "type:specimen specificepithet:pallidus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "specificepithet:pictum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "margarobyas" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1932" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1930" ; Times: 1
+	Query: "120059" ; Times: 1
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1892 year &lt;= 1892" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "Numenius tissue:1" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "egg texas 1900" ; Times: 1
+	Query: "Ptyonoprogne obsoleta" ; Times: 3
+	Query: "nucifraga columbiana" ; Times: 1
+	Query: "egg walney island" ; Times: 1
+	Query: "querula purpurata" ; Times: 15
+	Query: "francolinus natalensis" ; Times: 2
+	Query: "Buccanodon tissue:1" ; Times: 2
+	Query: "cracidae mitu mitu" ; Times: 2
+	Query: "Guaruba tissue:1" ; Times: 2
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:xanthogramma genus:Melanodera sex:male" ; Times: 1
+	Query: "Ortalis type:specimen tissue:1" ; Times: 1
+	Query: "jambu fruit dove" ; Times: 2
+	Query: "myzomela eques" ; Times: 2
+	Query: "montifringilla nivalis" ; Times: 1
+	Query: "Dendrocitta vagabunda India" ; Times: 1
+	Query: "type:specimen specificepithet:castaneoventris genus:Dubusia sex:male" ; Times: 1
+	Query: "oreophasis derbianus" ; Times: 1
+	Query: "francolinus gularis" ; Times: 3
+	Query: "Campephilus imperialis" ; Times: 1
+	Query: "witch" ; Times: 6
+	Query: "Aratinga nenday 1" ; Times: 6
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "thraupis palmarum" ; Times: 1
+	Query: "Prunella montanella japan" ; Times: 1
+	Query: "type:specimen specificepithet:goughensis genus:Rowettia sex:male" ; Times: 1
+	Query: "tangara labradorides" ; Times: 1
+	Query: "type:specimen specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "fazenda poco grande" ; Times: 2
+	Query: "catalognumber:013314 institutioncode:YPM" ; Times: 1
+	Query: "Megabyas tissue:1" ; Times: 3
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT mvz)" ; Times: 1
+	Query: "125408" ; Times: 3
+	Query: "neochen tissue:1" ; Times: 1
+	Query: "coscoroba tissue:1" ; Times: 1
+	Query: "YPM 009999" ; Times: 1
+	Query: "Hydrocoloeus tissue:1" ; Times: 1
+	Query: "catalognumber:011890 institutioncode:YPM" ; Times: 2
+	Query: "ortalis ruficauda ruficauda" ; Times: 2
+	Query: "specificepithet:ludovicianus genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1891 year &lt;= 1891" ; Times: 1
+	Query: "119164" ; Times: 1
+	Query: "119165" ; Times: 1
+	Query: "genus:Lampornis class:Aves year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "ammodramus bairdii" ; Times: 1
+	Query: "drepanis" ; Times: 3
+	Query: "type:specimen genus:tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ranigtang ontario" ; Times: 2
+	Query: "rainbow snake" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1931" ; Times: 1
+	Query: "type:specimen genus:Todirostrum class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Serinus mozambicus 1" ; Times: 2
+	Query: "Santa Catalina Island AND 1865" ; Times: 1
+	Query: "Accipiter cooperii AND Island" ; Times: 1
+	Query: "Toxostoma crissale" ; Times: 1
+	Query: "setophaga ruticilla tissue:1" ; Times: 2
+	Query: "red tail hawks" ; Times: 1
+	Query: "oak titmouse" ; Times: 1
+	Query: "ammomanes" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "haliaeetus vocifer skeleton" ; Times: 1
+	Query: "Greater Yellowlegs" ; Times: 2
+	Query: "Pericrocotus roseus" ; Times: 1
+	Query: "type:specimen specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 3
+	Query: "american redstart" ; Times: 1
+	Query: "Isla Margarita AND Mexico NOT Lamb NOT Fish" ; Times: 2
+	Query: "type:specimen specificepithet:somptuosus genus:Anisognathus sex:male" ; Times: 1
+	Query: "grallaricula flavirostris" ; Times: 1
+	Query: "hedydipna type:specimen" ; Times: 1
+	Query: "BMNH" ; Times: 1
+	Query: "cyanocorax yucatanicus" ; Times: 2
+	Query: "calandrella acutirostris" ; Times: 1
+	Query: "lagopus stateprovince:&#34;Wyoming&#34;" ; Times: 5
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "1903 AND Catalina ISland NOT Velero" ; Times: 1
+	Query: "francolinus pictus" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1927" ; Times: 1
+	Query: "setophaga ruticilla type:specimen tissue:1" ; Times: 2
+	Query: "Mimus parvulus" ; Times: 1
+	Query: "Thraupis palmarum" ; Times: 4
+	Query: "Leiothrix lutea 1" ; Times: 4
+	Query: "Vesper Sparrow media:1" ; Times: 1
+	Query: "aythya baeri" ; Times: 1
+	Query: "type:specimen specificepithet:plumbeiceps genus:poecilotriccus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ammomanes tissue:1" ; Times: 3
+	Query: "Numenius phaeopus tissue:1" ; Times: 1
+	Query: "Gambel AND Island NOT Alaska" ; Times: 1
+	Query: "103398" ; Times: 1
+	Query: "Mimus patagonicus" ; Times: 1
+	Query: "Mimus thenca" ; Times: 1
+	Query: "Lagopus leucura type:specimen specificepithet:leucura genus:Lagopus" ; Times: 4
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon (ypm)" ; Times: 1
+	Query: "Louisiana Waterthrush type:specimen" ; Times: 1
+	Query: "type:specimen specificepithet:maculatum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "Toxostoma lecontei" ; Times: 1
+	Query: "catalognumber:109343" ; Times: 1
+	Query: "francolinus bicalcaratus" ; Times: 2
+	Query: "Threskiornis aethiopicus 1" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1886" ; Times: 2
+	Query: "Ixonotus tissue:1" ; Times: 1
+	Query: "109843" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1929" ; Times: 1
+	Query: "Meinertzhagen" ; Times: 1
+	Query: "Myzomela erythrocephala" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Comstock AND Island NOT ALaska" ; Times: 1
+	Query: "genus:certhia year &gt;= 1907 year &lt;= 1907" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "selasphorus flammula" ; Times: 1
+	Query: "Melanitta AND ISland" ; Times: 1
+	Query: "buteo rufinus" ; Times: 1
+	Query: "Picus erythropygius Thailand" ; Times: 1
+	Query: "Momotus lessonii tissue:1" ; Times: 1
+	Query: "oxpecker" ; Times: 6
+	Query: "129246" ; Times: 1
+	Query: "common merganser tissue:1" ; Times: 1
+	Query: "Thraupis melanoptera" ; Times: 2
+	Query: "type:specimen genus:Nesospiza sex:male" ; Times: 2
+	Query: "35018" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "psittacara" ; Times: 1
+	Query: "county:&#34;Wheeler&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "catalognumber:013624 institutioncode:YPM" ; Times: 1
+	Query: "Lonchura punctulata 1" ; Times: 5
+	Query: "type:specimen specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "Picus chlorolophus Thailand" ; Times: 1
+	Query: "Amazona aestiva 1" ; Times: 3
+	Query: "Tilmatura tissue:1" ; Times: 1
+	Query: "Euplectes afer 1" ; Times: 3
+	Query: "Strix occidentalis lucida" ; Times: 1
+	Query: "type:specimen specificepithet:pictum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "anas formosa tissue:1" ; Times: 2
+	Query: "Chlorodrepanis tissue:1" ; Times: 3
+	Query: "specificepithet:aalge genus:Uria class:aves continent:Europe preparations:egg" ; Times: 2
+	Query: "Abdulali" ; Times: 1
+	Query: "ortalis vetula pallidiventris" ; Times: 1
+	Query: "egg gowland" ; Times: 1
+	Query: "egg 1900 suriname" ; Times: 1
+	Query: "145108" ; Times: 1
+	Query: "Foudia omissa" ; Times: 1
+	Query: "montifringilla adamsi" ; Times: 2
+	Query: "Cereopsis tissue:1" ; Times: 1
+	Query: "Lagopus leucura" ; Times: 2
+	Query: "Isla Natividad Mexico AND 1925" ; Times: 1
+	Query: "pseudoscops clamator" ; Times: 1
+	Query: "vultur gryphus" ; Times: 6
+	Query: "monster" ; Times: 7
+	Query: "pauxi unicornis unicornis" ; Times: 2
+	Query: "apus acuticauda" ; Times: 2
+	Query: "type:specimen specificepithet:parvulus genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Phacellodomus rufifrons" ; Times: 1
+	Query: "Oxyura jamaicensis 1" ; Times: 2
+	Query: "catalognumber:013495 institutioncode:YPM" ; Times: 2
+	Query: "Haiti (aves) tissue:1" ; Times: 1
+	Query: "141630" ; Times: 1
+	Query: "wysham year &gt;= 1974 year &lt;= 2000" ; Times: 4
+	Query: "Sporophila lineola" ; Times: 3
+	Query: "haemorhous mexicanus year &gt;= 2011 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Brown-chested Jungle Flycatcher" ; Times: 1
+	Query: "Pachycephala cinerea" ; Times: 1
+	Query: "birds norte de santander" ; Times: 2
+	Query: "type:specimen specificepithet:mesoleuca sex:male" ; Times: 1
+	Query: "Francolinus pintadeanus" ; Times: 3
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "setophaga magnolia month &gt;= 6 month &lt;= 8" ; Times: 2
+	Query: "Carpodacus waltoni" ; Times: 1
+	Query: "francolinus hildebrandti" ; Times: 1
+	Query: "141529" ; Times: 1
+	Query: "Isla Natividad Mexico AND 1897" ; Times: 1
+	Query: "harpagus bidentatus" ; Times: 1
+	Query: "xanthops" ; Times: 2
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Acorn Woodpecker&#34; OR &#34;Melanerpes formicivorus&#34;) mappable:1" ; Times: 1
+	Query: "Bias musicus tissue:1" ; Times: 1
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "catalognumber:013303 institutioncode:YPM" ; Times: 1
+	Query: "Melanotis caerulescens" ; Times: 1
+	Query: "nympha" ; Times: 1
+	Query: "YPM 008002" ; Times: 1
+	Query: "Estrilda troglodytes 1" ; Times: 3
+	Query: "YPM 008000" ; Times: 2
+	Query: "YPM 008001" ; Times: 1
+	Query: "Melanoptila glabrirostris" ; Times: 1
+	Query: "Mimus melanotis" ; Times: 1
+	Query: "Vidua macroura 1" ; Times: 2
+	Query: "Agapornis personatus 1" ; Times: 3
+	Query: "winterbottomi" ; Times: 1
+	Query: "aerodramus infuscatus" ; Times: 2
+	Query: "Breninger AND Aphelocoma" ; Times: 1
+	Query: "Myiopsitta monachus 1" ; Times: 2
+	Query: "scleroptila shelleyi" ; Times: 2
+	Query: "102893" ; Times: 1
+	Query: "Gallirallus philippensis tissue:1" ; Times: 1
+	Query: "francolinus RUFOPICTUS" ; Times: 1
+	Query: "specificepithet:leucosticta genus:Henicorhina class:Aves country:&#34;Honduras&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Poicephalus senegalus 1" ; Times: 2
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "Thryophilus tissue:1" ; Times: 1
+	Query: "spixii" ; Times: 1
+	Query: "specificepithet:fuscipenne genus:Philydor" ; Times: 2
+	Query: "San Miguel Island AND Birds AND 1885" ; Times: 1
+	Query: "egg 1924 england" ; Times: 1
+	Query: "myzomela cardinalis" ; Times: 1
+	Query: "strix occidentalis lucida" ; Times: 1
+	Query: "Isla Margarita AND Mexico" ; Times: 1
+	Query: "colinus type:specimen tissue:1" ; Times: 1
+	Query: "Numenius phaeopus phaeopus tissue:1" ; Times: 2
+	Query: "112237" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 9
+	Query: "hedydipna metallica type:specimen" ; Times: 2
+	Query: "zoonavena grandidieri" ; Times: 6
+	Query: "Mimus triurus" ; Times: 1
+	Query: "124151" ; Times: 1
+	Query: "Toxostoma curvirostre" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "Gujarat" ; Times: 2
+	Query: "Rhodonessa" ; Times: 1
+	Query: "Toxostoma longirostre" ; Times: 1
+	Query: "Comstock AND Island" ; Times: 1
+	Query: "Toxostoma guttatum" ; Times: 1
+	Query: "type:specimen specificepithet:chrysocrotaphum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "neomorphus" ; Times: 2
+	Query: "genus:Salpornis" ; Times: 1
+	Query: "apus leuconyx" ; Times: 2
+	Query: "trogon elegans" ; Times: 1
+	Query: "Cooper AND Catalina" ; Times: 1
+	Query: "127778" ; Times: 1
+	Query: "egg Iceland 1909" ; Times: 1
+	Query: "Rhodinocichla" ; Times: 1
+	Query: "Melanerpes formicivorus county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 2
+	Query: "bison bison   " ; Times: 6
+	Query: "Mimus macdonaldi" ; Times: 1
+	Query: "aythya baeri tissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon" ; Times: 1
+	Query: "francolinus swainsonii" ; Times: 6
+	Query: "Muscicapa thailand" ; Times: 1
+	Query: "doherty africa escarpment" ; Times: 2
+	Query: "1905 AND Catalina ISland NOT Fish NOT Velero" ; Times: 1
+	Query: "goura" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1898" ; Times: 1
+	Query: "46539" ; Times: 1
+	Query: "van fleet" ; Times: 1
+	Query: "specificepithet:flaviventris genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 1
+	Query: "type:specimen genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "schomburgki" ; Times: 1
+	Query: "magnolia warbler" ; Times: 2
+	Query: "catalognumber:017934 institutioncode:YPM" ; Times: 1
+	Query: "127250" ; Times: 2
+	Query: "Estrilda melpoda 1" ; Times: 3
+	Query: "141802" ; Times: 1
+	Query: "chenorhamphus" ; Times: 1
+	Query: "Dixiphia" ; Times: 1
+	Query: "egg 1909 alberta" ; Times: 1
+	Query: "128775" ; Times: 1
+	Query: "128774" ; Times: 1
+	Query: "128776" ; Times: 1
+	Query: "usnm 141503" ; Times: 2
+	Query: "&#34;Thalassarche chlororhynchos&#34;" ; Times: 3
+	Query: "usnm 141504" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1913" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1911" ; Times: 1
+	Query: "egg vancouver 1918" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1915" ; Times: 1
+	Query: "galloperdix spadicea" ; Times: 2
+	Query: "Mimus graysoni" ; Times: 1
+	Query: "Gavia immer AND Island" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 1
+	Query: "trogon preparations:egg" ; Times: 4
+	Query: "thamnophilus juruanus" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 4
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "country:&#34;kyrgyzstan&#34; mappable:1" ; Times: 1
+	Query: "Spizella wortheni" ; Times: 1
+	Query: "oreornis" ; Times: 1
+	Query: "Dendrocitta vagabunda bristoli" ; Times: 1
+	Query: "genus:lanius stateprovince:&#34;michigan&#34; year &gt;= 1879 year &lt;= 1879" ; Times: 1
+	Query: "Miller year &gt;= 1890 year &lt;= 1905 institutioncode:YPM" ; Times: 1
+	Query: "Ortalis vetula type:specimen tissue:1" ; Times: 1
+	Query: "Cistothorus palustris Jalisco" ; Times: 1
+	Query: "Chloroceryle aenea brazil" ; Times: 1
+	Query: "Poicephalus Kenya" ; Times: 7
+	Query: "Nyctibius jamaicensis" ; Times: 3
+	Query: "egg iowa 1891" ; Times: 1
+	Query: "strix aluco" ; Times: 4
+	Query: "118669" ; Times: 1
+	Query: "Rollandia rolland" ; Times: 1
+	Query: "stuttgart" ; Times: 1
+	Query: "137030" ; Times: 1
+	Query: "phacellodomus rufifrons" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1907" ; Times: 1
+	Query: "platyspiza type:specimen" ; Times: 2
+	Query: "aphelocoma wollweberi" ; Times: 1
+	Query: "oreornis chrysogenys" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "genus:semnornis institutioncode:YPM" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "Oreoscoptes montanus" ; Times: 1
+	Query: "lyrurus tissue:1" ; Times: 2
+	Query: "Muscicapa siamensis thailand" ; Times: 1
+	Query: "ramphastos" ; Times: 3
+	Query: "Oxypogon stuebelii" ; Times: 2
+	Query: "1905 AND Catalina ISland NOT Fishes" ; Times: 1
+	Query: "haliaeetus vocifer" ; Times: 2
+	Query: "ortalis vetula type:specimen year &gt;= 1970 year &lt;= 2016" ; Times: 1
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oklahoma&#34; institutioncode:YPM" ; Times: 1
+	Query: "134397" ; Times: 1
+	Query: "pternistis afer" ; Times: 3
+	Query: "specificepithet:cinereum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Carpodacus eos" ; Times: 1
+	Query: "specificepithet:calandra genus:Emberiza" ; Times: 1
+	Query: "pterodroma sandwichensis" ; Times: 3
+	Query: "francolinus adspersus" ; Times: 2
+	Query: "class:Aves country:&#34;Honduras&#34; year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Acridotheres cristatellus 1" ; Times: 3
+	Query: "139591" ; Times: 1
+	Query: "1905 AND Catalina ISland NOT Fishe" ; Times: 1
+	Query: "certhidea type:specimen" ; Times: 1
+	Query: "egg duncan" ; Times: 1
+	Query: "type:specimen genus:todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Contopus caribaeus" ; Times: 1
+	Query: "Urocynchramus pylzowi" ; Times: 2
+	Query: "106011" ; Times: 3
+	Query: "canada goose" ; Times: 1
+	Query: "a.w. anthony" ; Times: 4
+	Query: "Toxostoma cinereum" ; Times: 1
+	Query: "118956" ; Times: 1
+	Query: "specificepithet:augusti genus:phaethornis institutioncode:YPM" ; Times: 1
+	Query: "anhima cornuta" ; Times: 1
+	Query: "thamnophilus huberi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;illinois&#34; preparations:egg" ; Times: 1
+	Query: "7777" ; Times: 1
+	Query: "egg 1904 florida" ; Times: 1
+	Query: "50388" ; Times: 1
+	Query: "Phasianus colchicus 1" ; Times: 2
+	Query: "108985" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon institutioncode:YPM" ; Times: 3
+	Query: "specificepithet:chrysocrotaphum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "aerodramus pelewensis" ; Times: 5
+	Query: "34959" ; Times: 2
+	Query: "cyanistes caeruleus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "catalognumber:017938 institutioncode:YPM" ; Times: 2
+	Query: "Cooper AND Catalina NOT Arizona" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:Buthraupis sex:male" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:ligon AND (ypm)" ; Times: 1
+	Query: "Ploceus melanocephalus 1" ; Times: 2
+	Query: "periparus rufonuchalis" ; Times: 1
+	Query: "Rallus limicola AND Island" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews" ; Times: 1
+	Query: "catalognumber:144961" ; Times: 1
+	Query: "imperial woodpecker" ; Times: 1
+	Query: "Marmaronetta tissue:1" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 2
+	Query: "magnolia warbler egg" ; Times: 1
+	Query: "francolinus hartlaubi" ; Times: 1
+	Query: "Mimus gilvus" ; Times: 1
+	Query: "Gambel AND Island" ; Times: 1
+	Query: "aves (Haiti) tissue:1" ; Times: 1
+	Query: "Icterus continent:South America tissue:1" ; Times: 1
+	Query: "Ashworth AND Santa Cruz Island" ; Times: 1
+	Query: "Cecropia" ; Times: 3
+	Query: "Cursorius" ; Times: 1
+	Query: "locality:Chutihuara country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "elf" ; Times: 8
+	Query: "lanius ludovicianus baja california" ; Times: 1
+	Query: "(margarobyas OR gymnoglaux)" ; Times: 1
+	Query: "147216" ; Times: 1
+	Query: "tadorna tissue:1" ; Times: 1
+	Query: "specificepithet:leucosticta genus:Henicorhina year &gt;= 2000 year &lt;= 2016 tissue:1" ; Times: 1
+	Query: "Amandava amandava 1" ; Times: 3
+	Query: "Campylopterus curvipennis" ; Times: 1
+	Query: "Amandava subflava 1" ; Times: 3
+	Query: "type:specimen specificepithet:assimilis genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "mergellus tissue:1" ; Times: 1
+	Query: "Cairina moschata 1" ; Times: 3
+	Query: "Dixiphia tissue:1" ; Times: 3
+	Query: "Isla Natividad Mexico" ; Times: 2
+	Query: "doherty africa" ; Times: 1
+	Query: "111499" ; Times: 3
+	Query: "131078" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 2
+	Query: "Drepanis" ; Times: 1
+	Query: "Santa Cruz Island AND eggs AND 1898" ; Times: 1
+	Query: "Peucaea cassinii" ; Times: 1
+	Query: "egg siberia" ; Times: 1
+	Query: "specificepithet:calandra genus:Emberiza tissue:1" ; Times: 2
+	Query: "Bubo virginianus AND Island" ; Times: 1
+	Query: "Mimus saturninus" ; Times: 1
+	Query: "egg washington 1919" ; Times: 1
+	Query: "Ramphocinclus brachyurus" ; Times: 1
+	Query: "mummy" ; Times: 5
+	Query: "emerald dove (mass)" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l. AND (NOT cas NOT mvz)" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 3
+	Query: "Alophoixus flaveolus" ; Times: 1
+	Query: "Ifrita" ; Times: 1
+	Query: "type:specimen specificepithet:gilvicollis genus:Micrastur class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Ploceus cucullatus 1" ; Times: 2
+	Query: "amazilia rutila" ; Times: 1
+	Query: "34780" ; Times: 1
+	Query: "type:specimen specificepithet:leucura genus:Lagopus continent:North America" ; Times: 1
+	Query: "acorn woodpecker" ; Times: 4
+	Query: "type:specimen (drepanis)" ; Times: 6
+	Query: "Tangara seledon" ; Times: 1
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "grey wolf" ; Times: 1
+	Query: "Blanford" ; Times: 2
+	Query: "Numenius minutus" ; Times: 1
+	Query: "Asio stygius" ; Times: 2
+	Query: "ypm class:aves stateprovince:&#34;alaska&#34; recordedby:ligon" ; Times: 1
+	Query: "Mimus dorsalis" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1926" ; Times: 1
+	Query: "apus alexandri" ; Times: 1
+	Query: "Allenia fusca" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1929" ; Times: 1
+	Query: "104912" ; Times: 1
+	Query: "YPM 1015" ; Times: 1
+	Query: "aerodramus rogersi" ; Times: 5
+	Query: "monasa morphoeus panama" ; Times: 1
+	Query: "pternistis" ; Times: 2
+	Query: "type:specimen specificepithet:poliocephalum genus:Todirostrum class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Breninger AND 1903" ; Times: 1
+	Query: "Mergellus tissue:1" ; Times: 1
+	Query: "ara macao" ; Times: 6
+	Query: "type:specimen specificepithet:leucura genus:Lagopus" ; Times: 1
+	Query: "egg iceland 1909" ; Times: 1
+	Query: "type:specimen specificepithet:maculatum genus:Todirostrum class:Aves stateprovince:&#34;Para&#34; country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Icterus auratus" ; Times: 2
+	Query: "type:specimen genus:Camarhynchus sex:male (pauper)" ; Times: 1
+	Query: "cyanistes" ; Times: 2
+	Query: "amazilia rutila tissue:1" ; Times: 1
+	Query: "phacellodomus tissue:1" ; Times: 1
+	Query: "Brown-chested Flycatcher" ; Times: 1
+	Query: "class:Aves country:&#34;Honduras&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 3
+	Query: "123899" ; Times: 1
+	Query: "type:specimen specificepithet:acunhae genus:Nesospiza sex:male" ; Times: 1
+	Query: "Oceanodroma homochroa egg" ; Times: 2
+	Query: "catalognumber:013873 institutioncode:YPM" ; Times: 1
+	Query: "class:Aves country:&#34;Costa Rica&#34; year &gt;= 1990 year &lt;= 2016 tissue:1" ; Times: 2
+	Query: "catalognumber:013622 institutioncode:YPM" ; Times: 2
+	Query: "egg missouri 1895" ; Times: 1
+	Query: "specificepithet:poliocephalus genus:Tolmomyias class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Santa Catalina Island AND 1863" ; Times: 2
+	Query: "Estrilda astrild 1" ; Times: 4
+	Query: "Rostrhamus sociabilis" ; Times: 1
+	Query: "catalognumber:019389 institutioncode:YPM" ; Times: 3
+	Query: "type:specimen specificepithet:gularis genus:Paroaria sex:male" ; Times: 1
+	Query: "diuca" ; Times: 2
+	Query: "Streptopelia risoria 1" ; Times: 2
+	Query: "genus:tiaris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Breninger" ; Times: 1
+	Query: "nigrogenis type:specimen genus:Paroaria sex:male" ; Times: 1
+	Query: "class:aves stateprovince:&#34;alaska&#34; recordedby:andrews c.l." ; Times: 2
+	Query: "clytomyias insignis" ; Times: 1
+	Query: "Montifringilla nivalis" ; Times: 4
+	Query: "type:specimen specificepithet:pauper genus:Camarhynchus sex:male" ; Times: 1
+	Query: "Cinclocerthia ruficauda" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1897" ; Times: 1
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Santa Cruz Island AND Birds AND 1890" ; Times: 1
+	Query: "buphagus" ; Times: 1
+	Query: "106853" ; Times: 3
+	Query: "type:specimen specificepithet:leucura genus:Lagopus country:&#34;USA&#34; continent:North America" ; Times: 1
+	Query: "egg 1897 kansas" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "Alopochen aegyptiaca 1" ; Times: 3
+	Query: "glaucidium brodiei" ; Times: 1
+	Query: "Thectocercus acuticaudatus 1" ; Times: 4
+	Query: "Fulica americana AND Island" ; Times: 1
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "Pachycephala cinerea plateni" ; Times: 1
+	Query: "egg florida 1889" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+	Query: "genus:Teretistris" ; Times: 3
+	Query: "genus:barnardius AND (NOT UMMZ) year &gt;= 1967 year &lt;= 1968" ; Times: 1
+	Query: "crax rubra" ; Times: 1
+	Query: "petrochelidon fulva" ; Times: 1
+	Query: "ranigtang" ; Times: 2
+	Query: "Psittacula krameri 1" ; Times: 2
+	Query: "Catalina Island AND 1891" ; Times: 1
+	Query: "type:specimen specificepithet:flammigerus genus:Ramphocelus sex:male (icteronotus)" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "YPM pachyramphus polychopterus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 89 (out of 1052 download events in this period)
+Total number of records downloaded: 2245
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 12
+	Country: Czech Republic ; Times: 1
+	Country: Mexico ; Times: 40
+	Country: Unknown ; Times: 1
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 1
+	Country: France ; Times: 2
+	Country: United States ; Times: 24
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 3
+	Country: Denmark ; Times: 1
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-06-15 ; Times: 8
+	Date: 2016-06-23 ; Times: 2
+	Date: 2016-06-08 ; Times: 7
+	Date: 2016-06-21 ; Times: 8
+	Date: 2016-06-20 ; Times: 8
+	Date: 2016-06-05 ; Times: 6
+	Date: 2016-06-04 ; Times: 2
+	Date: 2016-06-14 ; Times: 10
+	Date: 2016-06-06 ; Times: 2
+	Date: 2016-06-01 ; Times: 7
+	Date: 2016-06-13 ; Times: 3
+	Date: 2016-06-10 ; Times: 1
+	Date: 2016-06-02 ; Times: 5
+	Date: 2016-06-16 ; Times: 10
+	Date: 2016-06-19 ; Times: 1
+	Date: 2016-06-17 ; Times: 1
+	Date: 2016-06-18 ; Times: 1
+	Date: 2016-06-03 ; Times: 1
+	Date: 2016-06-09 ; Times: 1
+	Date: 2016-06-11 ; Times: 2
+	Date: 2016-06-07 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "Falco peregrinus" ; Times: 1
+	Query: "Platysteira tissue:1" ; Times: 1
+	Query: "Pharomachrus antisianus" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 1
+	Query: "Anhima cornuta" ; Times: 1
+	Query: "melanerpes carolinus tissue:1" ; Times: 1
+	Query: "Melanerpes formicivorus county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "grus americana" ; Times: 3
+	Query: "goura" ; Times: 2
+	Query: "ara macao" ; Times: 4
+	Query: "birds norte de santander" ; Times: 1
+	Query: "Tangara seledon" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Western Bluebird&#34; OR &#34;Sialia mexicana&#34;) mappable:1" ; Times: 1
+	Query: "San Miguel Island AND Birds AND 1885" ; Times: 1
+	Query: "Columba livia" ; Times: 1
+	Query: "numenius tissue:1" ; Times: 1
+	Query: "Campylorhynchus yucatanicus" ; Times: 1
+	Query: "Conirostrum speciosum tissue:1" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Scrub Jay&#34; OR &#34;Aphelocoma californica&#34;) mappable:1" ; Times: 1
+	Query: "Prionops tissue:1" ; Times: 1
+	Query: "specificepithet:fuscipenne genus:Philydor" ; Times: 1
+	Query: "Aptenodytes forsteri" ; Times: 3
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; mappable:1" ; Times: 1
+	Query: "Megabyas tissue:1" ; Times: 1
+	Query: "aegolius Acadicus" ; Times: 1
+	Query: "melanerpes pygmaeus" ; Times: 1
+	Query: "lanius ludovicianus baja california" ; Times: 2
+	Query: "Icterus auratus" ; Times: 1
+	Query: "norte de santander" ; Times: 1
+	Query: "Acorn Woodpecker county:&#34;Santa Clara&#34;" ; Times: 2
+	Query: "Thraupis melanoptera" ; Times: 1
+	Query: "aegolius funereus" ; Times: 2
+	Query: "Thraupis palmarum" ; Times: 1
+	Query: "Pharomachrus mocinno" ; Times: 3
+	Query: "Thraupis atripennis" ; Times: 1
+	Query: "Meleagris" ; Times: 1
+	Query: "Aquila chrysaetos" ; Times: 1
+	Query: "Platysteiridae tissue:1" ; Times: 1
+	Query: "Wilsonia citrina" ; Times: 1
+	Query: "Gujarat Aves" ; Times: 1
+	Query: "Colibri thalassinus" ; Times: 2
+	Query: "Euphonia pectoralis" ; Times: 1
+	Query: "aegolius acadicus" ; Times: 1
+	Query: "Bubo virginianus tissue:1" ; Times: 1
+	Query: "Calocitta colliei" ; Times: 1
+	Query: "Aegypius monachus" ; Times: 1
+	Query: "trogon elegans" ; Times: 1
+	Query: "Melanerpes pygmaeus" ; Times: 1
+	Query: "Myiopsitta monachus" ; Times: 1
+	Query: "Syria" ; Times: 1
+	Query: "Meleagris ocellata" ; Times: 1
+	Query: "magnolia warbler" ; Times: 1
+	Query: "Carpodacus eos" ; Times: 1
+	Query: "Euphonia cayennensis" ; Times: 1
+	Query: "Oriolus chinensis" ; Times: 1
+	Query: "Bias musicus tissue:1" ; Times: 1
+	Query: "kyrgyzstan" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;California quail &#34; OR &#34;Callipepla californica&#34;) mappable:1" ; Times: 1
+	Query: "laterallus" ; Times: 1
+	Query: "Pachyramphus albogriseus" ; Times: 1
+	Query: "hemitriccus margaritaceiventer tissue:1" ; Times: 1
+	Query: "niltava grandis" ; Times: 1
+	Query: "columba livia" ; Times: 1
+	Query: "amazilia yucatanensis" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Iowa&#34;" ; Times: 1
+	Query: "aegolius ridgwayi" ; Times: 2
+	Query: "Carpodacus waltoni" ; Times: 1
+	Query: "E. pectoralis" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;Oak Titmouse&#34; OR &#34;Baeolophus inornatus&#34;) mappable:1" ; Times: 1
+	Query: "myiopsitta monachus" ; Times: 1
+	Query: "county:&#34;Santa Clara&#34; stateprovince:&#34;California&#34; (&#34;White-breasted Nuthatch&#34; OR &#34;Sitta carolinensis&#34;) mappable:1" ; Times: 1
+	Query: "Florisuga fusca" ; Times: 1
+	Query: "Anodorhynchus hyacinthinus" ; Times: 1
+	Query: "Momotus momota tissue:1" ; Times: 1
+
+
+End of report.
