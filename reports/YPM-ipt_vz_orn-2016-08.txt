@@ -1,0 +1,634 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for August 2016, generated on 2016/09/05
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 878
+Number of records retrieved in searches: 5938
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 186
+	Country: Canada ; Times: 14
+	Country: Unknown ; Times: 18
+	Country: France ; Times: 7
+	Country: Germany ; Times: 4
+	Country: Chile ; Times: 1
+	Country: Puerto Rico ; Times: 3
+	Country: Belgium ; Times: 4
+	Country: Spain ; Times: 2
+	Country: Ukraine ; Times: 2
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 3
+	Country: United States ; Times: 589
+	Country: Switzerland ; Times: 5
+	Country: New Zealand ; Times: 1
+	Country: Russia ; Times: 4
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 21
+	Country: United Kingdom ; Times: 3
+	Country: Austria ; Times: 1
+	Country: Colombia ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 31
+	Date: 2016-08-11 ; Times: 37
+	Date: 2016-08-12 ; Times: 197
+	Date: 2016-08-13 ; Times: 13
+	Date: 2016-08-14 ; Times: 40
+	Date: 2016-08-15 ; Times: 18
+	Date: 2016-08-16 ; Times: 40
+	Date: 2016-08-17 ; Times: 10
+	Date: 2016-08-18 ; Times: 18
+	Date: 2016-08-19 ; Times: 31
+	Date: 2016-08-30 ; Times: 76
+	Date: 2016-08-31 ; Times: 71
+	Date: 2016-08-29 ; Times: 33
+	Date: 2016-08-28 ; Times: 19
+	Date: 2016-08-25 ; Times: 32
+	Date: 2016-08-24 ; Times: 26
+	Date: 2016-08-27 ; Times: 23
+	Date: 2016-08-26 ; Times: 17
+	Date: 2016-08-21 ; Times: 16
+	Date: 2016-08-20 ; Times: 14
+	Date: 2016-08-23 ; Times: 64
+	Date: 2016-08-22 ; Times: 44
+	Date: 2016-08-09 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "amazilia chionopectus" ; Times: 1
+	Query: "terpsiphone rufiventer tissue:1" ; Times: 1
+	Query: "Catharus fuscescens salicicola month &gt;= 6 month &lt;= 7" ; Times: 3
+	Query: "platyspiza" ; Times: 1
+	Query: "108905" ; Times: 1
+	Query: "blackish nightjar nyctipolus nigrescens egg" ; Times: 3
+	Query: "falco rufigularis" ; Times: 1
+	Query: "specificepithet:guy genus:Phaethornis country:&#34;Colombia&#34; institutioncode:YPM" ; Times: 1
+	Query: "type:specimen genus:guira class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Cistothorus palustris country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Platylophus galericulatus" ; Times: 3
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ruficauda genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:tectus genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops revoilii" ; Times: 1
+	Query: "type:specimen specificepithet:montana genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phyllastrephus xavieri tissue:1" ; Times: 1
+	Query: "Myrmoborus lugubris" ; Times: 2
+	Query: "CORYTHAEOLA CRISTATA tissue:1" ; Times: 1
+	Query: "type:specimen genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "Long-tailed Jaeger type:specimen" ; Times: 1
+	Query: "chlorostilbon alice" ; Times: 4
+	Query: "Merops variegatus tissue:1" ; Times: 1
+	Query: "fraseria cinerascens tissue:1" ; Times: 1
+	Query: "type:specimen genus:Galbalcyrhynchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pitta brachyura india" ; Times: 1
+	Query: "Calandrella brachydactyla country:&#34;India&#34;" ; Times: 1
+	Query: "catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "type:specimen genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:dea genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:ani genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:MAJOR genus:CROTOPHAGA class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Anser brachyrhynchus" ; Times: 2
+	Query: "crypsirina" ; Times: 6
+	Query: "Agelaius humeralis" ; Times: 137
+	Query: "type:specimen genus:Nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "witch" ; Times: 2
+	Query: "type:specimen specificepithet:guainumbi genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Setophaga kirtlandii type:specimen" ; Times: 2
+	Query: "specificepithet:kirtlandii genus:Setophaga" ; Times: 6
+	Query: "type:specimen specificepithet:cayana genus:piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Peucaea aestivalis" ; Times: 3
+	Query: "Saxicola oenanthe" ; Times: 1
+	Query: "bias musicus tissue:1" ; Times: 1
+	Query: "type:specimen genus:Coccycua class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:discosura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "CRYPSIRINA" ; Times: 1
+	Query: "type:specimen specificepithet:acutipennis genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:cora genus:thaumastura tissue:1" ; Times: 1
+	Query: "stictopterus" ; Times: 1
+	Query: "phylloscopus sibilatrix tissue:1" ; Times: 1
+	Query: "Saxicola stejnegeri country:&#34;India&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:minuta genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "camaroptera superciliaris tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:melanurus genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eurystomus glaucurus tissue:1" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "type:specimen specificepithet:glaucopis genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "genus:Atthis tissue:1" ; Times: 2
+	Query: "Furcifer tissue:1" ; Times: 2
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885" ; Times: 1
+	Query: "type:specimen specificepithet:aureoventris genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:GLAUCIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Calothorax" ; Times: 1
+	Query: "114007" ; Times: 1
+	Query: "specificepithet:evelynae genus:Calliphlox tissue:1" ; Times: 1
+	Query: "Saxicola stejnegeri" ; Times: 1
+	Query: "garrulax delesserti" ; Times: 1
+	Query: "type:specimen genus:CHORDEILES class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "tricholaema hirsuta tissue:1" ; Times: 1
+	Query: "Ficedula sapphira" ; Times: 2
+	Query: "gbifdatasetid:854cf79e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "type:specimen specificepithet:maculatus genus:Nystalus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus fuscater" ; Times: 1
+	Query: "atthis ellioti" ; Times: 1
+	Query: "urocissa" ; Times: 1
+	Query: "type:specimen genus:clytolaema class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Merops muelleri" ; Times: 2
+	Query: "egg holland" ; Times: 1
+	Query: "Lophophorus impejanus" ; Times: 2
+	Query: "type:specimen specificepithet:tamatia class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "&#34;Ammodramus henslowii&#34; stateprovince:&#34;virginia&#34;" ; Times: 1
+	Query: "type:specimen genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:athene class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chroicocephalus novaehollandiae" ; Times: 2
+	Query: "type:specimen specificepithet:viridis genus:trogon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:longirostris class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Catharus aurantiirostris tissue:1" ; Times: 4
+	Query: "type:specimen specificepithet:capensis genus:Bucco class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Megascops stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 2
+	Query: "gymnobucco calvus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:swainsoni genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:minor genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:verreauxi genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "bottanensis" ; Times: 2
+	Query: "ardea insignis india" ; Times: 1
+	Query: "Corapipo" ; Times: 1
+	Query: "tauraco macrorhynchus tissue:1" ; Times: 1
+	Query: "zoonavena" ; Times: 1
+	Query: "Paradisaea tissue:1" ; Times: 1
+	Query: "tricholaema flavipunctata tissue:1" ; Times: 1
+	Query: "agelaius humeralis type:specimen sex:male preparations:skin" ; Times: 1
+	Query: "clamator jacobinus india" ; Times: 1
+	Query: "type:specimen specificepithet:serrirostris genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "myrmoborus lugubris stictopterus" ; Times: 1
+	Query: "34126" ; Times: 1
+	Query: "illadopsis rufipennis tissue:1" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "catalognumber:114007" ; Times: 1
+	Query: "Eumomota superciliosa tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:purusianus genus:Galbalcyrhynchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Seaside Sparrow Texas type:specimen" ; Times: 1
+	Query: "Momotus lessonii tissue:1" ; Times: 1
+	Query: "133833" ; Times: 1
+	Query: "otus asio tissue:1" ; Times: 1
+	Query: "sternula antillarum" ; Times: 2
+	Query: "egg scotland 1917" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "type:specimen genus:nyctidromus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:rufaxilla genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "myioparus griseigularis tissue:1" ; Times: 1
+	Query: "Merops persicus tissue:1" ; Times: 1
+	Query: "type:specimen genus:momotus class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "specificepithet:albicapillus genus:lamprotornis" ; Times: 1
+	Query: "type:specimen specificepithet:galbula genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "pogoniulus atroflavus tissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;New Mexico&#34; year &gt;= 1885 year &lt;= 1885 month &gt;= 5 month &lt;= 5" ; Times: 1
+	Query: "Hummingbirds" ; Times: 1
+	Query: "erythrocercus mccallii tissue:1" ; Times: 1
+	Query: "clamator coromandus india" ; Times: 3
+	Query: "pitta brachyura" ; Times: 5
+	Query: "type:specimen specificepithet:squammata genus:columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "agelaius humeralis" ; Times: 6
+	Query: "type:specimen specificepithet:cunicularia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:versicolor genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 2
+	Query: "8974" ; Times: 1
+	Query: "type:specimen genus:calliphlox tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:sapphirina genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Calliphlox class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg lapland" ; Times: 3
+	Query: "blackish nightjar nyctipolus nigrescens" ; Times: 1
+	Query: "pseudalethe poliocephala" ; Times: 2
+	Query: "egg cumberland england" ; Times: 1
+	Query: "type:specimen class:Aves stateprovince:&#34;Maine&#34; month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "type:specimen genus:megaceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chaetocercus heliodor" ; Times: 9
+	Query: "type:specimen specificepithet:fusca genus:malacoptila class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:zonaris class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg ireland 1896" ; Times: 1
+	Query: "type:specimen specificepithet:chalybeus genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:talpacoti class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "ritson england" ; Times: 2
+	Query: "monster" ; Times: 6
+	Query: "sylvietta isabellina" ; Times: 1
+	Query: "egg texas 1913" ; Times: 1
+	Query: "coracina azurea tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus" ; Times: 1
+	Query: "Coracias garrulus" ; Times: 2
+	Query: "type:specimen specificepithet:nigrescens class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "columba punicea" ; Times: 2
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "melanerpes erythrocephalus virginia" ; Times: 1
+	Query: "type:specimen specificepithet:EULERI genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "agelaius humeralis sex:male" ; Times: 1
+	Query: "sheppardia cyornithopsis tissue:1" ; Times: 1
+	Query: "dicrurus coracinus tissue:1" ; Times: 1
+	Query: "phyllastrephus albigularis tissue:1" ; Times: 1
+	Query: "&#34;Rhegmatorhina berlepschi&#34;" ; Times: 1
+	Query: "chlorostilbon stenurus" ; Times: 3
+	Query: "Electron carinatum tissue:1" ; Times: 3
+	Query: "buccanodon duchaillui tissue:1" ; Times: 1
+	Query: "class:aves country:&#34;costa rica&#34; year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "Eremopterix signatus" ; Times: 1
+	Query: "Drymophila" ; Times: 1
+	Query: "type:specimen genus:Tilmatura tissue:1" ; Times: 1
+	Query: "Catharus mexicanus tissue:1" ; Times: 4
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "Nyctyornis athertoni" ; Times: 5
+	Query: "type:specimen specificepithet:nattereri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ara militaris country:&#34;mexico&#34;" ; Times: 1
+	Query: "bird shape" ; Times: 1
+	Query: "phylloscopus borealis indonesia" ; Times: 2
+	Query: "type:specimen specificepithet:mellivora genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bar-headed goose" ; Times: 3
+	Query: "type:specimen specificepithet:hyperrhynchus genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Aegithina lafresnayei" ; Times: 2
+	Query: "anthreptes seimundi tissue:1" ; Times: 1
+	Query: "cardinalis nest" ; Times: 1
+	Query: "Nothura boraquira tissue:1" ; Times: 2
+	Query: "type:specimen genus:tachornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:cyanescens genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg 1890" ; Times: 1
+	Query: "seicercus whistleri" ; Times: 1
+	Query: "clamator coromandus" ; Times: 4
+	Query: "Catharus frantzii tissue:1" ; Times: 2
+	Query: "megascops asio tissue:1" ; Times: 2
+	Query: "type:specimen genus:piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops albicollis" ; Times: 4
+	Query: "veery" ; Times: 1
+	Query: "type:specimen specificepithet:americana genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg county kerry ireland" ; Times: 1
+	Query: "phylloscopus borealis thailand" ; Times: 2
+	Query: "alcedo quadribrachys tissue:1" ; Times: 1
+	Query: "type:specimen genus:glaucis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Rollandia rolland chilensis" ; Times: 1
+	Query: "Turnix sylvaticus sylvaticus" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:perspicillata genus:pulsatrix class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:squalidus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:superciliosus genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Celeus flavus" ; Times: 1
+	Query: "type:specimen specificepithet:nigricollis genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "apalis rufogularis tissue:1" ; Times: 1
+	Query: "schiffornis turdina" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 10
+	Query: "genus:Heteralocha" ; Times: 1
+	Query: "type:specimen genus:chaetura class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "ploceus nicolli type:specimen" ; Times: 2
+	Query: "type:specimen specificepithet:melacoryphus genus:coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phoenicurus leucocephalus" ; Times: 1
+	Query: "type:specimen specificepithet:cyanicollis genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phoenicurus leucocephalus type:specimen" ; Times: 1
+	Query: "chlorocichla simplex tissue:1" ; Times: 1
+	Query: "type:specimen genus:leptotila class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Momotus coeruliceps" ; Times: 6
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "catalognumber:120426" ; Times: 1
+	Query: "phodilus badius" ; Times: 1
+	Query: "thalurania fannyi" ; Times: 9
+	Query: "pycnonotus jocosus india" ; Times: 1
+	Query: "type:specimen genus:Threnetes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Myrmotherula longipennis longipennis" ; Times: 1
+	Query: "Xolmis irupero tissue:1" ; Times: 1
+	Query: "dicrurus atripennis tissue:1" ; Times: 1
+	Query: "cyanomitra cyanolaema tissue:1" ; Times: 1
+	Query: "Pseudoseisura tissue:1" ; Times: 1
+	Query: "egg alaska 1894" ; Times: 1
+	Query: "gracula religiosa" ; Times: 2
+	Query: "Merops gularis tissue:1" ; Times: 1
+	Query: "nicator chloris tissue:1" ; Times: 1
+	Query: "apaloderma aequatoriale tissue:1" ; Times: 1
+	Query: "indicator maculatus tissue:1" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:griseus genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gypohierax" ; Times: 1
+	Query: "Lycocorax pyrrhopterus" ; Times: 1
+	Query: "troglodytes type:specimen country:&#34;russia&#34; tissue:1" ; Times: 1
+	Query: "deleornis fraseri tissue:1" ; Times: 1
+	Query: "type:specimen genus:Polytmus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:purusianus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "VERSICOLOR stateprovince:&#34;Rhode Island&#34;" ; Times: 1
+	Query: "chrysoparia" ; Times: 13
+	Query: "turtur brehmeri tissue:1" ; Times: 1
+	Query: "tissue:1 Eurystomus glaucurus" ; Times: 1
+	Query: "&#34;chrysoparia&#34; month &gt;= 1 month &lt;= 2" ; Times: 1
+	Query: "nightingale" ; Times: 1
+	Query: "megabyas flammulatus tissue:1" ; Times: 1
+	Query: "ixonotus guttatus" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis" ; Times: 1
+	Query: "egg seal island maine" ; Times: 1
+	Query: "Myzomela cardinalis" ; Times: 3
+	Query: "type:specimen specificepithet:notata class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Merops leschenaulti" ; Times: 1
+	Query: "specificepithet:flammula genus:Selasphorus tissue:1" ; Times: 1
+	Query: "Island AND Piranga olivacea" ; Times: 1
+	Query: "Paradisaea rubra tissue:1" ; Times: 1
+	Query: "Myzomela cardinalis sanctaecrucis" ; Times: 1
+	Query: "type:specimen specificepithet:fusca genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:115634" ; Times: 1
+	Query: "specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 2
+	Query: "Malacoptila rufa brazil" ; Times: 1
+	Query: "catalognumber:116487" ; Times: 1
+	Query: "specificepithet:verticalis genus:Tyrannus stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 2
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1900" ; Times: 1
+	Query: "type:specimen genus:Antrostomus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "catalognumber:119809" ; Times: 1
+	Query: "body mass" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "baeopogon indicator tissue:1" ; Times: 2
+	Query: "&#34;chrysoparia&#34; country:&#34;Mexico&#34;" ; Times: 6
+	Query: "type:specimen genus:machaeropterus family:pipridae" ; Times: 1
+	Query: "Montifringilla nivalis turkey" ; Times: 1
+	Query: "type:specimen genus:Heliothryx class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "zavattariornis" ; Times: 1
+	Query: "egg trinidad" ; Times: 1
+	Query: "ploceus tricolor" ; Times: 2
+	Query: "type:specimen specificepithet:tombacea genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg brandenburg germany" ; Times: 1
+	Query: "type:specimen specificepithet:aenea genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "myrmia micrura" ; Times: 25
+	Query: "macrosphenus concolor tissue:1" ; Times: 1
+	Query: "coeligena coeligena cuzco type:specimen" ; Times: 2
+	Query: "macaw" ; Times: 1
+	Query: "Catharus fuscater mappable:1" ; Times: 2
+	Query: "type:specimen specificepithet:melanogaster genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "chiroxiphia boliviana" ; Times: 1
+	Query: "Farallon AND 1895" ; Times: 1
+	Query: "Farallon AND 1894" ; Times: 1
+	Query: "type:specimen specificepithet:thalassinus genus:colibri class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "fraseria ocreata tissue:1" ; Times: 1
+	Query: "passenger pigeon" ; Times: 9
+	Query: "Merops mentalis" ; Times: 2
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus AND (not California)" ; Times: 1
+	Query: "Audubon year &gt;= 1810 year &lt;= 1860" ; Times: 1
+	Query: "type:specimen specificepithet:brasilianum class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Piculus chrysochloros" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "type:specimen genus:Aphantochroa class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Eurystomus gularis" ; Times: 1
+	Query: "illadopsis cleaveri tissue:1" ; Times: 2
+	Query: "parus major &amp; hasmass:1" ; Times: 1
+	Query: "Pnoepyga pusilla india type:specimen" ; Times: 2
+	Query: "tockus hartlaubi tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:furcata genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "pericrocotus leytensis" ; Times: 1
+	Query: "asthenes nest" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7" ; Times: 1
+	Query: "type:specimen specificepithet:largipennis genus:Campylopterus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1940" ; Times: 1
+	Query: "Podicipedidae dominicus" ; Times: 2
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "gbifdatasetid:854cf79e-f762-11e1-a439-00145eb45e9a Mohoua albicilla" ; Times: 1
+	Query: "Melanerpes aurifrons stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:calliope stateprovince:&#34;california&#34;" ; Times: 3
+	Query: "egg mississippi" ; Times: 1
+	Query: "Pnoepyga pusilla type:specimen" ; Times: 2
+	Query: "type:specimen genus:Coccyzus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:eurynome genus:Phaethornis class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "egg 1924 oklahoma" ; Times: 1
+	Query: "type:specimen specificepithet:albirostris genus:Galbula class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phylloscopus occipitalis india" ; Times: 2
+	Query: "type:specimen specificepithet:ruficapillus genus:Baryphthengus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "bhutan phoenicurus" ; Times: 3
+	Query: "Pyroderus scutatus" ; Times: 1
+	Query: "type:specimen specificepithet:passerina genus:Columbina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Catharus minimus month &gt;= 6 month &lt;= 7 tissue:1" ; Times: 1
+	Query: "egg lancaster england" ; Times: 1
+	Query: "type:specimen genus:zenaida class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "gymnobucco bonapartei tissue:1" ; Times: 1
+	Query: "Myophonus" ; Times: 2
+	Query: "phylloscopus occipitalis" ; Times: 1
+	Query: "type:specimen genus:STEPHANOXIS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Brachypteracias leptosomus" ; Times: 2
+	Query: "Catharus aurantiirostris" ; Times: 4
+	Query: "type:specimen specificepithet:zonaris genus:streptoprocne class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:caerulea genus:Passerina stateprovince:&#34;Kansas&#34; year &gt;= 1800 year &lt;= 1920" ; Times: 1
+	Query: "elf" ; Times: 5
+	Query: "fuligula 1907" ; Times: 1
+	Query: "Calandrella brachydactyla" ; Times: 1
+	Query: "type:specimen specificepithet:niger genus:Threnetes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco county:&#34;cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:micrura genus:myrmia tissue:1" ; Times: 1
+	Query: "type:specimen genus:Baryphthengus class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "ispidina lecontei tissue:1" ; Times: 1
+	Query: "type:specimen genus:Notharchus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dendragapus arizona" ; Times: 1
+	Query: "type:specimen genus:Thalurania class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Momotus bahamensis" ; Times: 1
+	Query: "acrocephalus agricola india" ; Times: 1
+	Query: "Merops orientalis" ; Times: 2
+	Query: "Todus todus tissue:1" ; Times: 3
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "turdus obscurus india" ; Times: 1
+	Query: "type:specimen genus:Jacamerops class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg MA 1891" ; Times: 1
+	Query: "Setophaga coronata type:specimen institutioncode:YPM" ; Times: 1
+	Query: "Turnix sylvaticus" ; Times: 1
+	Query: "baeopogon indicator" ; Times: 1
+	Query: "halcyon malimbica tissue:1" ; Times: 1
+	Query: "type:specimen genus:tapera class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:fanny genus:myrtis tissue:1" ; Times: 1
+	Query: "mummy" ; Times: 6
+	Query: "chaetocercus jourdanii" ; Times: 5
+	Query: "tockus camurus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:fimbriata genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "type:specimen specificepithet:scintilla genus:Selasphorus tissue:1" ; Times: 1
+	Query: "Icterus nigrogularis" ; Times: 1
+	Query: "type:specimen genus:Florisuga class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "thescelocichla leucopleura tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:cayana genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Falco peregrinus Texas" ; Times: 1
+	Query: "type:specimen specificepithet:MELANOGASTER genus:Piaya class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "american woodcock" ; Times: 1
+	Query: "Momotus subrufescens" ; Times: 5
+	Query: "birds nilgiri hills" ; Times: 3
+	Query: "Xenopirostris xenopirostris" ; Times: 1
+	Query: "Wood 1923" ; Times: 1
+	Query: "type:specimen genus:streptoprocne class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:macroura genus:eupetomena class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:viridis genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "type:specimen specificepithet:vesper genus:rhodopis tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:plumbea genus:patagioenas class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "eremomela badiceps tissue:1" ; Times: 1
+	Query: "specificepithet:peregrinus genus:falco stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "pogoniulus subsulphureus tissue:1" ; Times: 1
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "ixonotus guttatus tissue:1" ; Times: 2
+	Query: "occidentalis lucida" ; Times: 1
+	Query: "dyaphorophyia castanea tissue:1" ; Times: 1
+	Query: "dryoscopus sabini tissue:1" ; Times: 1
+	Query: "type:specimen genus:ramphodon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "psittacus erithacus" ; Times: 1
+	Query: "type:specimen specificepithet:martii genus:Baryphthengus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "phyllastrephus icterinus tissue:1" ; Times: 1
+	Query: "type:specimen genus:geotrygon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "muscicapa sethsmithi tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:magnificus genus:lophornis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Coracias caudatus" ; Times: 1
+	Query: "Todus mexicanus tissue:1" ; Times: 2
+	Query: "smithornis rufolateralis tissue:1" ; Times: 1
+	Query: "Seaside Sparrow Texas" ; Times: 1
+	Query: "type:specimen specificepithet:spinicaudus class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "genus:goura" ; Times: 1
+	Query: "pogoniulus scolopaceus tissue:1" ; Times: 1
+	Query: "Myioparus griseigularis tissue:1" ; Times: 1
+	Query: "Bergen swamp" ; Times: 1
+	Query: "type:specimen specificepithet:leucogaster genus:Amazilia class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Orthotomus chloronotus" ; Times: 3
+	Query: "type:specimen specificepithet:VIRGATA class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "egg north dakota 1901" ; Times: 1
+	Query: "tissue:1 Coracias cyanogaster" ; Times: 1
+	Query: "anthreptes rectirostris tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:GRISEUS genus:NYCTIBIUS class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "illadopsis fulvescens tissue:1" ; Times: 1
+	Query: "Merops nubicus" ; Times: 2
+	Query: "type:specimen specificepithet:rupestris genus:Chordeiles class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:leucopyga class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:alexandri genus:Archilochus tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:inda genus:chloroceryle class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "chlorospingus" ; Times: 1
+	Query: "Thamnistes" ; Times: 1
+	Query: "sasia africana tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:cyanus genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "dendrocopos medius" ; Times: 1
+	Query: "indicator exilis tissue:1" ; Times: 1
+	Query: "type:specimen genus:Chlorostilbon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen specificepithet:sapphirina genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Phegornis" ; Times: 1
+	Query: "camaroptera chloronota tissue:1" ; Times: 1
+	Query: "type:specimen genus:Chrysolampis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "W. Wood 1923" ; Times: 1
+	Query: "type:specimen specificepithet:nacunda class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "type:specimen specificepithet:chrysura genus:hylocharis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "type:specimen genus:Anthracothorax class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "Ectopistes migratorius" ; Times: 1
+	Query: "egg lake manitoba" ; Times: 3
+	Query: "turdus atrogularis india" ; Times: 1
+	Query: "type:specimen class:Aves country:&#34;Afghanistan&#34;" ; Times: 1
+	Query: "pinarochroa sordida" ; Times: 1
+	Query: "calothorax pulcher" ; Times: 1
+	Query: "egg orkney islands" ; Times: 1
+	Query: "specificepithet:leucorhynchus genus:Laniarius tissue:1" ; Times: 1
+	Query: "apaloderma aequatoriale" ; Times: 2
+	Query: "Elliott AND ISland" ; Times: 1
+	Query: "lampornis cinereicauda" ; Times: 8
+	Query: "type:specimen specificepithet:rufus genus:Trogon class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Merops gularis" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 84 (out of 924 download events in this period)
+Total number of records downloaded: 5208
+Number of different countries: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 5
+	Country: Mexico ; Times: 19
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 3
+	Country: France ; Times: 1
+	Country: United States ; Times: 43
+	Country: Colombia ; Times: 4
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-08-10 ; Times: 2
+	Date: 2016-08-11 ; Times: 4
+	Date: 2016-08-12 ; Times: 5
+	Date: 2016-08-13 ; Times: 1
+	Date: 2016-08-29 ; Times: 5
+	Date: 2016-08-16 ; Times: 8
+	Date: 2016-08-25 ; Times: 5
+	Date: 2016-08-24 ; Times: 2
+	Date: 2016-08-27 ; Times: 1
+	Date: 2016-08-26 ; Times: 13
+	Date: 2016-08-23 ; Times: 11
+	Date: 2016-08-31 ; Times: 8
+	Date: 2016-08-18 ; Times: 3
+	Date: 2016-08-30 ; Times: 4
+	Date: 2016-08-19 ; Times: 2
+	Date: 2016-08-14 ; Times: 1
+	Date: 2016-08-22 ; Times: 8
+	Date: 2016-08-09 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Mecca" ; Times: 1
+	Query: "gavia" ; Times: 1
+	Query: "Clark Mountain" ; Times: 2
+	Query: "Melanerpes tissue:1" ; Times: 1
+	Query: "Empidonax flaviventris year &gt;= 1980" ; Times: 1
+	Query: "stateprovince:&#34;West Virginia&#34;" ; Times: 1
+	Query: "Guanajuato" ; Times: 6
+	Query: "chrysoparia" ; Times: 1
+	Query: "coeligena coeligena cuzco type:specimen" ; Times: 2
+	Query: "cotinga cotinga type:specimen" ; Times: 1
+	Query: "&#34;Ceyx erithacus&#34;" ; Times: 1
+	Query: "Buteo swainsoni" ; Times: 1
+	Query: "Vidua macroura specificepithet:macroura genus:Vidua tissue:1" ; Times: 1
+	Query: "type:specimen specificepithet:jamaicensis genus:laterallus" ; Times: 1
+	Query: "Pseudoseisura lophotes tissue:1" ; Times: 1
+	Query: "Vireo bellii pusillus" ; Times: 1
+	Query: "GUANAJUATO" ; Times: 4
+	Query: "Catharus fuscater mappable:1" ; Times: 1
+	Query: "Colombia Aves Boyaca" ; Times: 1
+	Query: "geospiza" ; Times: 1
+	Query: "platyspiza" ; Times: 1
+	Query: "specificepithet:chrysops genus:zimmerius" ; Times: 2
+	Query: "Phegornis" ; Times: 1
+	Query: "White-crowned Sparrow" ; Times: 1
+	Query: "Pnoepyga pusilla" ; Times: 1
+	Query: "cotinga cayana type:specimen" ; Times: 2
+	Query: "Sphyrapicus varius year &gt;= 1980" ; Times: 1
+	Query: "genus:Xipholena mappable:1" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1880 year &lt;= 1920" ; Times: 1
+	Query: "Granite Mountain" ; Times: 1
+	Query: "Colombia Aves Santander" ; Times: 1
+	Query: "camarhynchus" ; Times: 1
+	Query: "lanius ludovicianus" ; Times: 1
+	Query: "falco rufigularis" ; Times: 1
+	Query: "chlorospingus" ; Times: 2
+	Query: "Furcifer tissue:1" ; Times: 1
+	Query: "phoenicurus leucocephalus type:specimen" ; Times: 1
+	Query: "pinaroloxias" ; Times: 1
+	Query: "Cypseloides" ; Times: 1
+	Query: "Myophonus" ; Times: 1
+	Query: "Coccyzus americanus" ; Times: 1
+	Query: "Agelaius humeralis" ; Times: 1
+	Query: "stateprovince:&#34;choco&#34;" ; Times: 1
+	Query: "Black Rock Spring" ; Times: 1
+	Query: "Mexico" ; Times: 1
+	Query: "SALTATOR COERULESCENS" ; Times: 1
+	Query: "Callipepla californica" ; Times: 1
+	Query: "Clark county:&#34;San Bernardino&#34;" ; Times: 1
+	Query: "cistothorus platensis" ; Times: 1
+	Query: "Icterus cayanensis tissue:1" ; Times: 1
+	Query: "certhidea" ; Times: 1
+	Query: "Polioptila californica californica" ; Times: 1
+	Query: "Nothura boraquira tissue:1" ; Times: 1
+	Query: "Colombia Aves" ; Times: 1
+	Query: "Todus todus tissue:1" ; Times: 1
+	Query: "eudyptes" ; Times: 1
+	Query: "colinus virginianus floridanus type:specimen year &gt;= 1920 year &lt;= 1960" ; Times: 1
+	Query: "Agelaius tricolor" ; Times: 1
+	Query: "megascops asio type:specimen tissue:1" ; Times: 1
+	Query: "specificepithet:domesticus genus:passer" ; Times: 1
+	Query: "Pnoepyga pusilla india type:specimen" ; Times: 1
+	Query: "guanajuato" ; Times: 3
+	Query: "Picoides arcticus year &gt;= 1980" ; Times: 1
+	Query: "genus:Cotinga mappable:1" ; Times: 1
+	Query: "Apodidae" ; Times: 1
+	Query: "genus:Megascops stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Picoides tridactylus year &gt;= 1980" ; Times: 1
+	Query: "Suiriri tissue:1" ; Times: 1
+	Query: "Calandrella country:&#34;India&#34;" ; Times: 1
+
+
+End of report.
