@@ -1,0 +1,248 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for November 2017, generated on 2018/10/09
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 245
+Number of records retrieved in searches: 1742
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: Canada ; Times: 61
+	Country: Singapore ; Times: 1
+	Country: Unknown ; Times: 10
+	Country: Mexico ; Times: 5
+	Country: India ; Times: 8
+	Country: Papua New Guinea ; Times: 2
+	Country: United States ; Times: 131
+	Country: China ; Times: 2
+	Country: United Kingdom ; Times: 16
+	Country: Russia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 55
+	Date: 2017-11-29 ; Times: 19
+	Date: 2017-11-26 ; Times: 11
+	Date: 2017-11-27 ; Times: 83
+	Date: 2017-11-24 ; Times: 9
+	Date: 2017-11-25 ; Times: 20
+	Date: 2017-11-30 ; Times: 48
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:flaviventer genus:Dacnis hastissue:0" ; Times: 1
+	Query: "Black-billed Peppershrike sex:male" ; Times: 1
+	Query: "108105" ; Times: 3
+	Query: "Scrub Greenlet sex:male" ; Times: 1
+	Query: "&#34;cayana cayana&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cayana cayana&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:1" ; Times: 1
+	Query: "Rufous-browed Peppershrike" ; Times: 2
+	Query: "specificepithet:psittacea genus:erythrura class:aves country:&#34;new caledonia&#34;" ; Times: 1
+	Query: "specificepithet:corax genus:Corvus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1919" ; Times: 1
+	Query: "92095" ; Times: 1
+	Query: "specificepithet:psittacea genus:erythrura class:aves" ; Times: 1
+	Query: "Dacnis venusta" ; Times: 1
+	Query: "hawk owl minnesota" ; Times: 1
+	Query: "specificepithet:cinctus genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "vntype:specimen genus:Corythaeola continent:Africa year &gt;= 1960 year &lt;= 2017 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "mangrove vireo sex:male" ; Times: 4
+	Query: "specificepithet:lafresnayii genus:Diglossa country:&#34;Colombia&#34; mappable:1" ; Times: 1
+	Query: "specificepithet:lecontei genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 2017" ; Times: 1
+	Query: "Snowy Owl" ; Times: 2
+	Query: "&#34;cyaneus carneipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:1" ; Times: 3
+	Query: "&#34;cyaneus carneipes&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 3
+	Query: "specificepithet:pustulatus class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "&#34;cyaneus eximius&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "coelestis order:Passeriformes" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves" ; Times: 3
+	Query: "specificepithet:pealii genus:erythrura class:aves" ; Times: 1
+	Query: "genus:Phainopepla class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "egg greenland" ; Times: 4
+	Query: "Swamp Prinia" ; Times: 3
+	Query: "vntype:specimen genus:Corythaeola continent:Africa basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "&#34;cyaneus cyaneus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "&#34;cyaneus cyaneus&#34; vntype:specimen specificepithet:cyaneus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "Cnemarchus erythropygius" ; Times: 1
+	Query: "genus:Megascops class:Aves stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "white-eyed vireo sex:male" ; Times: 1
+	Query: "Dacnis flaviventer" ; Times: 1
+	Query: "country:&#34;canada&#34; recordedby:forge" ; Times: 8
+	Query: "YPM Diglossa humeralis Santander" ; Times: 1
+	Query: "ypm 109222" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 1
+	Query: "monster" ; Times: 1
+	Query: "Psittacara" ; Times: 1
+	Query: "ashy-headed greenlet sex:male" ; Times: 1
+	Query: "Green Shrike-vireo sex:male" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "specificepithet:vociferans genus:Tyrannus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1890" ; Times: 1
+	Query: "alvarez del toro miguel" ; Times: 4
+	Query: "Yucatan Vireo sex:male" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "specificepithet:pictus class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "genus:Cotinga" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; year &gt;= 1870 year &lt;= 1900" ; Times: 4
+	Query: "specificepithet:celata Queen Charlotte" ; Times: 1
+	Query: "Dacnis venusta venusta" ; Times: 2
+	Query: "Tepui Vireo sex:male" ; Times: 1
+	Query: "witch" ; Times: 2
+	Query: "Falcated Duck" ; Times: 1
+	Query: "63090" ; Times: 2
+	Query: "Tersina viridis" ; Times: 1
+	Query: "albatrus" ; Times: 1
+	Query: "gray vireo sex:male" ; Times: 4
+	Query: "class:aves recordedby:mummery" ; Times: 2
+	Query: "genus:Eremophila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1889" ; Times: 1
+	Query: "cozumel vireo sex:male" ; Times: 1
+	Query: "&#34;cayana paraguayensis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "&#34;cayana glaucogularis&#34; vntype:specimen specificepithet:cayana genus:Dacnis hastissue:0" ; Times: 1
+	Query: "genus:Eremophila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1881" ; Times: 1
+	Query: "red kite" ; Times: 1
+	Query: "Christopher J. Clark 126" ; Times: 1
+	Query: "specificepithet:lineata genus:Dacnis hastissue:0" ; Times: 1
+	Query: "specificepithet:viridis occidentalis genus:Tersina hastissue:0" ; Times: 1
+	Query: "cyclopsitta diophthalma" ; Times: 2
+	Query: "35377" ; Times: 1
+	Query: "specificepithet:venusta venusta genus:Dacnis hastissue:0" ; Times: 1
+	Query: "45176" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "genus:Myrmornis" ; Times: 1
+	Query: "Black-whiskered Vireo sex:male" ; Times: 2
+	Query: "genus:Neopelma preparations:skeleton" ; Times: 1
+	Query: "Yellow-green Vireo sex:male" ; Times: 1
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "genus:Cyanocitta class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1915" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "class:AVES county:&#34;Monroe&#34; stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "Tersina viridis occidentalis" ; Times: 2
+	Query: "yellow-winged vireo sex:male" ; Times: 1
+	Query: "specificepithet:borealis genus:numenius" ; Times: 3
+	Query: "genus:Campylorhynchus class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "specificepithet:regia genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "White-eyed Vireo sex:male" ; Times: 6
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "genus:Megascops OR Otus stateprovince:&#34;Baja California&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "genus:Climacteris preparations:skeleton" ; Times: 1
+	Query: "specificepithet:macroura class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1916" ; Times: 1
+	Query: "specificepithet:tristis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1904" ; Times: 1
+	Query: "Haliaeetus albicilla greenland" ; Times: 2
+	Query: "class:AVES stateprovince:&#34;Florida&#34; recordedby:Atkins year &gt;= 1870 year &lt;= 1900" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "Camarhynchus heliobates" ; Times: 9
+	Query: "genus:Tyto class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1905" ; Times: 1
+	Query: "specificepithet:virens class:Aves county:&#34;San Diego&#34; year &gt;= 1769" ; Times: 1
+	Query: "Black-capped Vireo sex:male" ; Times: 1
+	Query: "specificepithet:caerulea genus:Polioptila class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1908" ; Times: 1
+	Query: "yellow-throated vireo sex:male" ; Times: 2
+	Query: "Brown-capped Vireo sex: male" ; Times: 1
+	Query: "Christopher J. Clark 144" ; Times: 1
+	Query: "specificepithet:Cirrhata genus:fratercula year &gt;= 1960 year &lt;= 1980" ; Times: 1
+	Query: "rufous-browed peppershrike sex:male" ; Times: 1
+	Query: "Falcated duck" ; Times: 2
+	Query: "specificepithet:cyaneovirens genus:erythrura class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:bellii genus:Vireo class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1918" ; Times: 1
+	Query: "Diglossa sittoides" ; Times: 1
+	Query: "genus:Cotinga preparations:skeleton" ; Times: 2
+	Query: "Brown-capped Vireo" ; Times: 1
+	Query: "47996" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Cacomantis merulinus vntype:specimen" ; Times: 1
+	Query: "Warbling Vireo sex:male" ; Times: 3
+	Query: "specificepithet:redivivum genus:Toxostoma class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1895" ; Times: 1
+	Query: "genus:Thryophilus hastissue:1" ; Times: 2
+	Query: "genus:Micropygia" ; Times: 2
+	Query: "specificepithet:forsteri genus:Sterna class:Aves county:&#34;San Diego&#34; stateprovince:&#34;California&#34; year &gt;= 1769 year &lt;= 1913" ; Times: 1
+	Query: "Dacnis egregia egregia" ; Times: 1
+	Query: "Lemon-chested Greenlet sex:male" ; Times: 1
+	Query: "guttatus stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "specificepithet:lewis class:Aves county:&#34;San Diego&#34; year &gt;= 1769 year &lt;= 1920" ; Times: 1
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Pteridophora alberti" ; Times: 1
+	Query: "Leucophaeus atricilla" ; Times: 1
+	Query: "snake stateprovince:&#34;new jersey&#34;" ; Times: 1
+	Query: "142160" ; Times: 1
+	Query: "Golden Vireo sex:male" ; Times: 1
+	Query: "genus:Corythaeola hastissue:1" ; Times: 1
+	Query: "Cacomantis sonneratii vntype:specimen" ; Times: 1
+	Query: "DENDROCOPOS ATRATUS" ; Times: 2
+	Query: "Haliaeetus albicilla egg" ; Times: 1
+	Query: "Scrub Greenlet" ; Times: 1
+	Query: "obscura class:Aves country:&#34;Colombia&#34;" ; Times: 1
+	Query: "04161" ; Times: 1
+	Query: "slaty vireo sex:male" ; Times: 2
+	Query: "Pteridophora alberti skeleton" ; Times: 2
+	Query: "&#34;lucidus isthmicus&#34; vntype:specimen specificepithet:lucidus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Philadelphia Vireo sex:male" ; Times: 1
+	Query: "plumbeous vireo sex:male" ; Times: 1
+	Query: "Red-eyed Vireo sex:male" ; Times: 12
+	Query: "Brown-capped Vireo sex:male" ; Times: 2
+	Query: "&#34;caeruleus caeruleus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "&#34;caeruleus caeruleus&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:1" ; Times: 1
+	Query: "specificepithet:gallus genus:Gallus year &gt;= 1835 year &lt;= 1900" ; Times: 1
+	Query: "&#34;caeruleus longirostris&#34; vntype:specimen specificepithet:caeruleus genus:Cyanerpes hastissue:0" ; Times: 1
+	Query: "Scelorchilus albicollis" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 37 (out of 1101 download events in this period)
+Total number of records downloaded: 854
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Brazil ; Times: 12
+	Country: Israel ; Times: 2
+	Country: United Kingdom ; Times: 10
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2017-11-28 ; Times: 5
+	Date: 2017-11-29 ; Times: 5
+	Date: 2017-11-26 ; Times: 10
+	Date: 2017-11-27 ; Times: 13
+	Date: 2017-11-24 ; Times: 1
+	Date: 2017-11-25 ; Times: 1
+	Date: 2017-11-30 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "zosterops japonicus" ; Times: 4
+	Query: "Cinclodes excelsior" ; Times: 1
+	Query: "greenland aves" ; Times: 1
+	Query: "genus:Myrmornis" ; Times: 2
+	Query: "genus:Thryophilus hastissue:1" ; Times: 1
+	Query: "Conirostrum cinereum" ; Times: 1
+	Query: "halcyon smyrnensis" ; Times: 2
+	Query: "genus:Lophorina" ; Times: 1
+	Query: "genus:Micropygia" ; Times: 1
+	Query: "Cinnycerthia unirufa" ; Times: 2
+	Query: "genus:Menura preparations:skeleton" ; Times: 1
+	Query: "Eriocnemis luciani" ; Times: 1
+	Query: "Coeligena lutetiae" ; Times: 1
+	Query: "genus:Buccanodon" ; Times: 1
+	Query: "genus:Cinclus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "specificepithet:cinctus genus:poecile class:aves basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Oxyruncus" ; Times: 1
+	Query: "surnia ulula minnesota" ; Times: 1
+	Query: "genus:Piprites" ; Times: 1
+	Query: "Myioborus melanocephalus" ; Times: 1
+	Query: "genus:Neopelma" ; Times: 1
+	Query: "Platysteira albifrons" ; Times: 1
+	Query: "Anisognathus igniventris" ; Times: 1
+	Query: "Xiphorhynchus obsoletus" ; Times: 1
+	Query: "Grallaria quitensis" ; Times: 1
+	Query: "Falco sparverius tropicalis" ; Times: 1
+	Query: "Falco sparverius paulus vntype:specimen" ; Times: 1
+	Query: "bison" ; Times: 1
+	Query: "Atlapetes pallidinucha" ; Times: 1
+	Query: "genus:Cotinga preparations:skeleton" ; Times: 1
+	Query: "Cnemarchus erythropygius" ; Times: 1
+
+
+End of report.
