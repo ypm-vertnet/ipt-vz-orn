@@ -1,0 +1,1517 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for April 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 3690
+Number of records retrieved in searches: 63325
+Number of different countries where searches have been originated: 30
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 73
+	Country: Canada ; Times: 13
+	Country: Qatar ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Unknown ; Times: 131
+	Country: Nepal ; Times: 4
+	Country: Costa Rica ; Times: 1
+	Country: France ; Times: 47
+	Country: Ireland ; Times: 11
+	Country: Argentina ; Times: 16
+	Country: Venezuela ; Times: 2
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 1
+	Country: Singapore ; Times: 3
+	Country: Germany ; Times: 23
+	Country: Belgium ; Times: 4
+	Country: Thailand ; Times: 3
+	Country: Hong Kong ; Times: 1
+	Country: Denmark ; Times: 5
+	Country: Turkey ; Times: 1
+	Country: United States ; Times: 310
+	Country: Sweden ; Times: 44
+	Country: Switzerland ; Times: 31
+	Country: New Zealand ; Times: 2
+	Country: Romania ; Times: 4
+	Country: Mexico ; Times: 7
+	Country: Cuba ; Times: 3
+	Country: India ; Times: 338
+	Country: United Kingdom ; Times: 2604
+	Country: Colombia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 904
+	Date: 2020-04-04 ; Times: 6
+	Date: 2020-04-23 ; Times: 27
+	Date: 2020-04-06 ; Times: 32
+	Date: 2020-04-22 ; Times: 26
+	Date: 2020-04-05 ; Times: 19
+	Date: 2020-04-20 ; Times: 88
+	Date: 2020-04-07 ; Times: 969
+	Date: 2020-04-26 ; Times: 12
+	Date: 2020-04-01 ; Times: 58
+	Date: 2020-04-24 ; Times: 29
+	Date: 2020-04-25 ; Times: 16
+	Date: 2020-04-28 ; Times: 26
+	Date: 2020-04-29 ; Times: 44
+	Date: 2020-04-08 ; Times: 238
+	Date: 2020-04-09 ; Times: 10
+	Date: 2020-04-27 ; Times: 28
+	Date: 2020-04-02 ; Times: 9
+	Date: 2020-04-03 ; Times: 398
+	Date: 2020-04-19 ; Times: 127
+	Date: 2020-04-18 ; Times: 106
+	Date: 2020-04-13 ; Times: 48
+	Date: 2020-04-12 ; Times: 6
+	Date: 2020-04-11 ; Times: 14
+	Date: 2020-04-10 ; Times: 11
+	Date: 2020-04-17 ; Times: 166
+	Date: 2020-04-16 ; Times: 53
+	Date: 2020-04-15 ; Times: 17
+	Date: 2020-04-14 ; Times: 159
+	Date: 2020-04-30 ; Times: 44
+
+List of queries that retrieved data from the resource: 
+	Query: "Actitis hypoleucos" ; Times: 6
+	Query: "Anser fabalis" ; Times: 5
+	Query: "Eurillas virens" ; Times: 4
+	Query: "netta 1889 egg" ; Times: 1
+	Query: "molt specificepithet:candei genus:manacus" ; Times: 1
+	Query: "genus:Schiffornis" ; Times: 1
+	Query: "Platalea leucorodia" ; Times: 2
+	Query: "Tarsiger indicus India" ; Times: 1
+	Query: "phoebastria albatrus" ; Times: 4
+	Query: "Anas acuta" ; Times: 13
+	Query: "Crossoptilon auritum" ; Times: 3
+	Query: "specificepithet:melanoleuca genus:lalage country:&#34;philippines&#34;" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 4
+	Query: "Aechmophorus occidentalis" ; Times: 3
+	Query: "Schoeniparus rufogularis india" ; Times: 1
+	Query: "Erithacus rubecula" ; Times: 4
+	Query: "andropadus nigriceps" ; Times: 1
+	Query: "Piranga leucoptera" ; Times: 5
+	Query: "Poecile montanus" ; Times: 4
+	Query: "Turdus chrysolaus" ; Times: 9
+	Query: "Leiothlypis celata" ; Times: 8
+	Query: "Delichon nipalense India" ; Times: 1
+	Query: "Fulica atra" ; Times: 3
+	Query: "zosterops heinrichi" ; Times: 4
+	Query: "Anous tenuirostris" ; Times: 6
+	Query: "Gymnomystax mexicanus" ; Times: 2
+	Query: "asio flammeus" ; Times: 1
+	Query: "Geotrygon violacea" ; Times: 3
+	Query: "Piranga bidentata" ; Times: 8
+	Query: "Amazilia violiceps" ; Times: 3
+	Query: "Hypsipetes amaurotis" ; Times: 4
+	Query: "Turdus naumanni" ; Times: 15
+	Query: "Schoeniparus dubius india" ; Times: 1
+	Query: "Archilochus colubris" ; Times: 2
+	Query: "Prinia rufescens Assam India" ; Times: 1
+	Query: "Phylloscopus tristis India" ; Times: 1
+	Query: "rallus striatus" ; Times: 2
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "specificepithet:dominica genus:Pluvialis country:&#34;Peru&#34;" ; Times: 1
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Aramus guarauna" ; Times: 4
+	Query: "Turdus eunomus" ; Times: 15
+	Query: "Cutia nipalensis india" ; Times: 1
+	Query: "thectocercus acuticaudatus" ; Times: 2
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Megalurus punctatus" ; Times: 3
+	Query: "Oenanthe albonigra" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 2
+	Query: "Aerodramus brevirostris" ; Times: 3
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "specificepithet:striata genus:coracina country:&#34;philippines&#34;" ; Times: 1
+	Query: "Strix leptogrammica india" ; Times: 1
+	Query: "Psittiparus gularis india" ; Times: 1
+	Query: "Prinia cinereocapilla India" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 3
+	Query: "harlow 1889 egg" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 9
+	Query: "Thalassarche melanophris" ; Times: 2
+	Query: "napothera bakeri" ; Times: 1
+	Query: "Stercorarius maccormicki" ; Times: 2
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "Ardea alba" ; Times: 9
+	Query: "Tringa glareola" ; Times: 6
+	Query: "Nothocrax urumutum" ; Times: 3
+	Query: "swamp deer" ; Times: 1
+	Query: "Leptocoma zeylonica India" ; Times: 1
+	Query: "YPM 101348" ; Times: 2
+	Query: "bicknelli vntype:specimen" ; Times: 2
+	Query: "Gyps fulvus" ; Times: 4
+	Query: "Apus barbatus" ; Times: 3
+	Query: "Hemicircus india" ; Times: 1
+	Query: "Napothera epilepidota Assam" ; Times: 1
+	Query: "Dives dives" ; Times: 2
+	Query: "class:Aves (30985)" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 5
+	Query: "Turdus plumbeus" ; Times: 9
+	Query: "Ninox superciliaris" ; Times: 1
+	Query: "Orochelidon murina" ; Times: 1
+	Query: "Chrysolophus pictus" ; Times: 3
+	Query: "Apus melba" ; Times: 7
+	Query: "Rainbow snake" ; Times: 2
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "specificepithet:turdina genus:Schiffornis basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Phalacrocorax varius" ; Times: 4
+	Query: "Ficedula zanthopygia" ; Times: 5
+	Query: "Iduna caligata India" ; Times: 1
+	Query: "Apus nipalensis" ; Times: 3
+	Query: "Phoenicurus hodgsoni India" ; Times: 1
+	Query: "monster" ; Times: 2
+	Query: "Scolopax rusticola" ; Times: 5
+	Query: "class:Aves stateprovince:Rio Grande do Sul" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 6
+	Query: "Streptopelia orientalis" ; Times: 3
+	Query: "Turdus hortulorum" ; Times: 15
+	Query: "Aix galericulata" ; Times: 2
+	Query: "alvarez del toro miguel" ; Times: 3
+	Query: "L. canus" ; Times: 6
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; lifestage:Juvenile" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Cecropis daurica" ; Times: 8
+	Query: "Certhia discolor india" ; Times: 1
+	Query: "Cyornis concretus Assam" ; Times: 1
+	Query: "Aptenodytes patagonicus" ; Times: 4
+	Query: "Turdus smithi" ; Times: 9
+	Query: "Geotrygon montana" ; Times: 3
+	Query: "Myiobius erythrurus hellmayri" ; Times: 1
+	Query: "Balaeniceps rex" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 7
+	Query: "guadalupe Wilson egg" ; Times: 1
+	Query: "specificepithet:undosus genus:calamonastes hasmass:1" ; Times: 1
+	Query: "Porphyrio alleni" ; Times: 3
+	Query: "Chrysomus ruficapillus" ; Times: 2
+	Query: "specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Tragopan temminckii" ; Times: 7
+	Query: "witch" ; Times: 1
+	Query: "Coturnix coromandelica" ; Times: 1
+	Query: "Amandava amandava India" ; Times: 1
+	Query: "Dicaeum erythrorhynchos India" ; Times: 1
+	Query: "Spizella pusilla montana egg" ; Times: 1
+	Query: "Apus horus" ; Times: 3
+	Query: "Amazilia tzacatl" ; Times: 3
+	Query: "Polystictus pectoralis" ; Times: 2
+	Query: "Pericrocotus ethologus" ; Times: 4
+	Query: "Raine 1903 Canada" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 2
+	Query: "Anthus richardi India" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "class:aves country:mozambique" ; Times: 1
+	Query: "Crossoptilon harmani" ; Times: 3
+	Query: "Drepanornis" ; Times: 2
+	Query: "Phylloscopus occipitalis" ; Times: 7
+	Query: "recordedby:w. w. price" ; Times: 2
+	Query: "Alcedo hercules india" ; Times: 1
+	Query: "111653" ; Times: 1
+	Query: "Dendrocopos darjellensis india" ; Times: 1
+	Query: "Phalacrocorax magellanicus" ; Times: 4
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "Zoothera dixoni india" ; Times: 1
+	Query: "Trochalopteron elliotii" ; Times: 3
+	Query: "Turdus nigrescens" ; Times: 9
+	Query: "Ardea goliath" ; Times: 1
+	Query: "Ardea purpurea" ; Times: 9
+	Query: "Elminia longicauda" ; Times: 4
+	Query: "Chrysominla strigula india" ; Times: 1
+	Query: "catalognumber:017142 institutioncode:YPM" ; Times: 2
+	Query: "Mulleripicus pulverulentus india" ; Times: 1
+	Query: "Cyanoderma ruficeps india" ; Times: 1
+	Query: "Eophona personata" ; Times: 8
+	Query: "Garrulax caerulatus india" ; Times: 1
+	Query: "Leptoptilos dubius" ; Times: 1
+	Query: "Cyanistes cyanus" ; Times: 1
+	Query: "specificepithet:severus genus:falco country:&#34;philippines&#34;" ; Times: 1
+	Query: "microbates perlatus" ; Times: 2
+	Query: "Chlorodrepanis flava" ; Times: 8
+	Query: "Paradigalla" ; Times: 1
+	Query: "locality:rabbit county:&#34;san bernardino&#34;" ; Times: 1
+	Query: "Garrulax virgatus india" ; Times: 1
+	Query: "Sitta nagaensis india" ; Times: 1
+	Query: "Haliaeetus pelagicus" ; Times: 7
+	Query: "Sporopipes frontalis" ; Times: 8
+	Query: "coracina ripleyi" ; Times: 1
+	Query: "Enicurus leschenaulti India" ; Times: 1
+	Query: "Oenanthe deserti India" ; Times: 1
+	Query: "Magumma parva" ; Times: 3
+	Query: "Amazilia rutila" ; Times: 7
+	Query: "Cairina moschata" ; Times: 8
+	Query: "Tringa erythropus" ; Times: 6
+	Query: "coturnix chinensis" ; Times: 3
+	Query: "Pitta brachyura india" ; Times: 1
+	Query: "Setophaga citrina" ; Times: 2
+	Query: "specificepithet:xanthonotus genus:oriolus country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:erythrops genus:Quelea hastissue:1" ; Times: 1
+	Query: "Amazilia viridigaster" ; Times: 3
+	Query: "Thectocercus acuticaudatus" ; Times: 2
+	Query: "&#34;Anas diazi&#34; lifestage:Adult sex:Male" ; Times: 1
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "Delichon urbica" ; Times: 3
+	Query: "Ketupa zeylonensis india" ; Times: 1
+	Query: "specificepithet:cassini genus:Malimbus hastissue:1" ; Times: 2
+	Query: "Lipaugus unirufus mexico" ; Times: 1
+	Query: "specificepithet:chloronotus genus:Orthotomus" ; Times: 1
+	Query: "Lophura edwardsi" ; Times: 3
+	Query: "specificepithet:cyanirostris genus:Knipolegus" ; Times: 1
+	Query: "specificepithet:griseocephalus genus:Dendropicos hasmass:1" ; Times: 6
+	Query: "Amazilia cyanocephala" ; Times: 3
+	Query: "Poospiza cabanisi" ; Times: 3
+	Query: "Phylloscopus sibilatrix" ; Times: 7
+	Query: "41044" ; Times: 2
+	Query: "specificepithet:bicolor genus:conirostrum" ; Times: 1
+	Query: "Syrmaticus reevesii" ; Times: 3
+	Query: "Anas diazi lifestage:Adult sex:Male" ; Times: 1
+	Query: "Houbaropsis bengalensis" ; Times: 1
+	Query: "Anthus hodgsoni" ; Times: 5
+	Query: "genus:Agapornis hastissue:1" ; Times: 2
+	Query: "pavo cristatus" ; Times: 13
+	Query: "Buteo jamaicensis harlani" ; Times: 3
+	Query: "Sicalis olivascens" ; Times: 5
+	Query: "Turdus kessleri" ; Times: 15
+	Query: "Abroscopus albogularis india" ; Times: 1
+	Query: "Calamospiza melanocorys" ; Times: 3
+	Query: "Pycnonotus atriceps" ; Times: 4
+	Query: "Graminicola bengalensis india" ; Times: 1
+	Query: "genus:Spizaetus country:&#34;Peru&#34;" ; Times: 1
+	Query: "Circus cyaneus" ; Times: 4
+	Query: "Buteo platypterus" ; Times: 7
+	Query: "Cyornis rubeculoides India" ; Times: 2
+	Query: "Lalage tricolor" ; Times: 2
+	Query: "canirallus" ; Times: 1
+	Query: "Eudocimus ruber" ; Times: 3
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "skeleton specificepithet:minor family:phoenicopteridae" ; Times: 1
+	Query: "Heterophasia melanoleuca" ; Times: 3
+	Query: "Chrysomus icterocephalus" ; Times: 2
+	Query: "Chionis" ; Times: 1
+	Query: "class:Aves stateprovince:Rio Grande" ; Times: 12
+	Query: "Garrulax rufogularis india" ; Times: 1
+	Query: "Lophonetta specularioides" ; Times: 6
+	Query: "Motacilla tschutschensis" ; Times: 5
+	Query: "yellow eared bulbul" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "Ploceus ocularis" ; Times: 8
+	Query: "Vanellus leucurus" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "Spodiopsar cineraceus" ; Times: 7
+	Query: "Tachycineta albiventer" ; Times: 7
+	Query: "Psittacula finschii india" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 6
+	Query: "34276" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 6
+	Query: "Phylloscopus occipitalis India" ; Times: 1
+	Query: "Phylloscopus inornatus" ; Times: 7
+	Query: "Phyllastrephus albigularis" ; Times: 4
+	Query: "Seicercus burkii" ; Times: 4
+	Query: "Alopochen aegyptiacus" ; Times: 5
+	Query: "Dinopium javanense india" ; Times: 1
+	Query: "Athene noctua somaliensis" ; Times: 1
+	Query: "Luscinia calliope" ; Times: 4
+	Query: "Dendrocopos mahrattensis india" ; Times: 1
+	Query: "Alcedo atthis" ; Times: 4
+	Query: "Rissa tridactyla" ; Times: 6
+	Query: "(49095)" ; Times: 1
+	Query: "Amazilia viridicauda" ; Times: 3
+	Query: "year &gt;= 1990 year &lt;= 2020 laterallus" ; Times: 1
+	Query: "Piranga olivacea" ; Times: 5
+	Query: "Aeronautes saxatalis" ; Times: 3
+	Query: "ypm 142709" ; Times: 3
+	Query: "Catoptrophorus vntype:specimen country:&#34;Costa Rica&#34; AND (inornatus)" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 3
+	Query: "Phylloscopus proregulus" ; Times: 7
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34;" ; Times: 1
+	Query: "Corvus cryptoleucus" ; Times: 9
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Amazilia amabilis" ; Times: 3
+	Query: "Niltava oatesi India" ; Times: 1
+	Query: "Cladorhynchus leucocephalus" ; Times: 2
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "Anas formosa" ; Times: 13
+	Query: "Heterophasia picaoides india" ; Times: 1
+	Query: "Certhidea olivacea mappable:1" ; Times: 1
+	Query: "Pheucticus ludovicianus" ; Times: 8
+	Query: "122876" ; Times: 1
+	Query: "Fringilla montifringilla" ; Times: 5
+	Query: "Coturnix japonica" ; Times: 5
+	Query: "Zenaida auriculata" ; Times: 3
+	Query: "Selasphorus rufus" ; Times: 3
+	Query: "pterodroma arminjoniana" ; Times: 1
+	Query: "black-chinned hummingbirds" ; Times: 1
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1897 year &lt;= 1897" ; Times: 1
+	Query: "Crossoptilon crossoptilon" ; Times: 3
+	Query: "Aquila rapax india" ; Times: 1
+	Query: "Ficedula hyperythra India" ; Times: 1
+	Query: "Aplonis panayensis india" ; Times: 1
+	Query: "Cyornis banyumas India" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 9
+	Query: "Locustella tacsanowskia India" ; Times: 1
+	Query: "Anas platyrhynchos lifestage:immature sex:male AND (NOT diazi)" ; Times: 1
+	Query: "Circus pygargus india" ; Times: 1
+	Query: "Aix sponsa" ; Times: 2
+	Query: "specificepithet:popelairii genus:Discosura country:&#34;Peru&#34;" ; Times: 1
+	Query: "Spiny babbler" ; Times: 2
+	Query: "Acridotheres cristatellus" ; Times: 2
+	Query: "soil animals" ; Times: 2
+	Query: "Sturnella militaris" ; Times: 2
+	Query: "tichodroma muraria india Uttar Pradesh" ; Times: 1
+	Query: "Atlapetes schistaceus" ; Times: 3
+	Query: "Grus antigone" ; Times: 8
+	Query: "Erythrogenys mcclellandi india" ; Times: 1
+	Query: "Corythornis leucogaster" ; Times: 4
+	Query: "Calliphlox amethystina" ; Times: 3
+	Query: "guttata stateprovince:&#34;new york&#34;" ; Times: 1
+	Query: "Mergus merganser" ; Times: 5
+	Query: "Fulvetta manipurensis india" ; Times: 1
+	Query: "Amazilia versicolor" ; Times: 3
+	Query: "Tyto alba affinis" ; Times: 1
+	Query: "Corvus macrorhynchos" ; Times: 9
+	Query: "habia alfaroana" ; Times: 1
+	Query: "cardinalis sinuatus peninsulae" ; Times: 1
+	Query: "Aegithalos caudatus" ; Times: 4
+	Query: "Oenanthe isabellina" ; Times: 9
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "Mergellus albellus" ; Times: 5
+	Query: "Phalacrocorax auritus" ; Times: 4
+	Query: "puffinus bannermani" ; Times: 1
+	Query: "Cypsiurus parvus" ; Times: 3
+	Query: "tichodroma muraria india" ; Times: 1
+	Query: "specificepithet:nigriceps genus:arizelocichla hasmass:1" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 10
+	Query: "Pteruthius melanotis India" ; Times: 1
+	Query: "Chroicocephalus brunnicephalus" ; Times: 6
+	Query: "Cochoa purpurea India" ; Times: 1
+	Query: "Amazilia beryllina" ; Times: 3
+	Query: "Pauxi pauxi" ; Times: 3
+	Query: "38543" ; Times: 1
+	Query: "celestial monarch" ; Times: 1
+	Query: "Motacilla alba" ; Times: 5
+	Query: "Rhea americana" ; Times: 3
+	Query: "Agelasticus cyanopus" ; Times: 2
+	Query: "Hirundapus caudacutus" ; Times: 2
+	Query: "Trochalopteron squamatum india" ; Times: 1
+	Query: "Ficedula hodgsoni India" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Empidonax traillii egg cochise arizona" ; Times: 1
+	Query: "India leucogenys" ; Times: 2
+	Query: "Gypaetus barbatus" ; Times: 1
+	Query: "Hippolais polyglotta" ; Times: 4
+	Query: "Buteo lagopus" ; Times: 6
+	Query: "Vestiaria coccinea" ; Times: 3
+	Query: "Geotrygon versicolor" ; Times: 3
+	Query: "Garrulus bispecularis India" ; Times: 1
+	Query: "Prinia crinigera India" ; Times: 1
+	Query: "Buteo hemilasius" ; Times: 6
+	Query: "Spelaeornis chocolatinus india" ; Times: 1
+	Query: "Tachycineta thalassina" ; Times: 4
+	Query: "catalognumber:017514 institutioncode:YPM" ; Times: 6
+	Query: "bicknelli" ; Times: 1
+	Query: "county:&#34;brevard&#34; recordedby:court" ; Times: 3
+	Query: "Piranga lutea" ; Times: 5
+	Query: "Agelaioides badius" ; Times: 2
+	Query: "Minla cyanouroptera" ; Times: 3
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Aceros nipalensis india" ; Times: 1
+	Query: "Euodice malabarica India" ; Times: 1
+	Query: "Fulvetta vinipectus india" ; Times: 1
+	Query: "Panurus biarmicus" ; Times: 7
+	Query: "Psittacula krameri mappable:1" ; Times: 1
+	Query: "23472" ; Times: 1
+	Query: "Certhia manipurensis india" ; Times: 1
+	Query: "Seicercus soror" ; Times: 7
+	Query: "Locustella thoracica India" ; Times: 1
+	Query: "Sylviparus modestus India" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "Motacilla cinerea" ; Times: 5
+	Query: "Lioparus chrysotis india" ; Times: 1
+	Query: "Hylocharis cyanus" ; Times: 7
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "Numenius phaeopus" ; Times: 4
+	Query: "Anthipes monileger India" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 5
+	Query: "Pnoepyga pusilla India" ; Times: 3
+	Query: "ypm 142773" ; Times: 2
+	Query: "specificepithet:griseocephalus genus:Dendropicos basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "139918 family:Apodidae institutioncode:YPM" ; Times: 1
+	Query: "Horornis fortipes" ; Times: 7
+	Query: "Halcyon pileata india" ; Times: 1
+	Query: "american avocet" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 2
+	Query: "Phasianus colchicus" ; Times: 3
+	Query: "Tinamus castaneiceps" ; Times: 1
+	Query: "Anas diazi" ; Times: 3
+	Query: "Gorsachius goisagi" ; Times: 9
+	Query: "Aethia cristatella" ; Times: 6
+	Query: "specificepithet:griseocephalus genus:Dendropicos (kilimensis) hasmass:1" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 7
+	Query: "Zoothera salimalii india" ; Times: 1
+	Query: "Gallinago nigripennis" ; Times: 6
+	Query: "PINK-HEADED DUCK" ; Times: 1
+	Query: "90115" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "Great Crested Flycatcher" ; Times: 1
+	Query: "Agapornis nigrigenis" ; Times: 1
+	Query: "Cyornis concretus India" ; Times: 1
+	Query: "IXOS mcclellandii India" ; Times: 1
+	Query: "Apus apus pekinensis" ; Times: 1
+	Query: "Ampeliceps coronatus india" ; Times: 1
+	Query: "Grus japonensis" ; Times: 4
+	Query: "Phoenicopterus ruber" ; Times: 6
+	Query: "Calonectris diomedea" ; Times: 3
+	Query: "Apus niansae" ; Times: 3
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "Ammodramus savannarum floridanus" ; Times: 1
+	Query: "sylvia marsabit" ; Times: 3
+	Query: "Todus angustirostris" ; Times: 4
+	Query: "Urocissa flavirostris India" ; Times: 1
+	Query: "Coragyps atratus" ; Times: 2
+	Query: "Apalis flavida" ; Times: 4
+	Query: "Ficedula strophiata India" ; Times: 2
+	Query: "stateprovince:&#34;baja california sur&#34; country:&#34;mexico&#34; year &gt;= 1896 year &lt;= 1897" ; Times: 4
+	Query: "colius rhodesiae" ; Times: 1
+	Query: "white-throated redstart India" ; Times: 1
+	Query: "penguins" ; Times: 1
+	Query: "Aethopyga ignicauda India" ; Times: 2
+	Query: "Anomalospiza imberbis" ; Times: 8
+	Query: "ypm 144969" ; Times: 3
+	Query: "platyrinchus nattereri" ; Times: 1
+	Query: "genus:rhinomyias country:&#34;philippines&#34;" ; Times: 2
+	Query: "Phylloscopus fuscatus" ; Times: 4
+	Query: "Circus melanoleucos" ; Times: 4
+	Query: "Columba palumbus" ; Times: 3
+	Query: "01474" ; Times: 1
+	Query: "Aythya fuligula" ; Times: 6
+	Query: "Catoptrophorus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 1
+	Query: "Heterophasia capistrata india" ; Times: 2
+	Query: "Phyllastrephus icterinus" ; Times: 4
+	Query: "Pluvialis apricaria" ; Times: 3
+	Query: "Amazilia viridifrons" ; Times: 3
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 4
+	Query: "Butorides striata" ; Times: 9
+	Query: "Lophura swinhoii" ; Times: 3
+	Query: "Tringa melanoleuca" ; Times: 5
+	Query: "Podiceps nigricollis" ; Times: 3
+	Query: "Anser indicus" ; Times: 5
+	Query: "Ficedula albicilla" ; Times: 9
+	Query: "Ceyx pictus" ; Times: 4
+	Query: "molt specificepithet:manacus genus:manacus" ; Times: 1
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington NOT British" ; Times: 1
+	Query: "Arborophila torqueola" ; Times: 3
+	Query: "Bubo nipalensis india" ; Times: 1
+	Query: "Athene brama" ; Times: 2
+	Query: "Cochoa viridis India" ; Times: 1
+	Query: "Limnodromus griseus hendersoni rowan" ; Times: 1
+	Query: "ypm 104425" ; Times: 3
+	Query: "Tachycineta leucopyga" ; Times: 7
+	Query: "Anser albifrons" ; Times: 10
+	Query: "Muscisaxicola fluviatilis" ; Times: 1
+	Query: "Loxioides bailleui" ; Times: 3
+	Query: "vntype:specimen genus:tersina class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Chamaepetes goudotii" ; Times: 3
+	Query: "Mexican Duck" ; Times: 1
+	Query: "Haematopus unicolor" ; Times: 2
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Ducula spilorrhoa" ; Times: 2
+	Query: "Sitta himalayensis india" ; Times: 2
+	Query: "Astrapia nigra" ; Times: 7
+	Query: "Apus pacificus" ; Times: 10
+	Query: "Chlorodrepanis virens" ; Times: 8
+	Query: "Arses telescopthalmus" ; Times: 1
+	Query: "Heterophasia pulchella india" ; Times: 1
+	Query: "Columba oenas" ; Times: 3
+	Query: "specificepithet:helenae genus:hypothymis country:&#34;philippines&#34;" ; Times: 2
+	Query: "white-tailed lapwing" ; Times: 1
+	Query: "puffinus assimilis kermadec" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 15
+	Query: "manacus candei molt" ; Times: 1
+	Query: "Piranga rubriceps" ; Times: 3
+	Query: "Pycnonotus leucogenys India" ; Times: 2
+	Query: "ypm 141384" ; Times: 3
+	Query: "Trochalopteron austeni india" ; Times: 1
+	Query: "Charadrius placidus" ; Times: 2
+	Query: "Geranospiza caerulescens" ; Times: 9
+	Query: "Turdus dissimilis India" ; Times: 1
+	Query: "Turdus pelios" ; Times: 9
+	Query: "Larus delawarensis" ; Times: 6
+	Query: "Napothera epilepidota india" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 2
+	Query: "144863" ; Times: 1
+	Query: "fieldnumber:32404" ; Times: 1
+	Query: "Plegadis ridgwayi" ; Times: 2
+	Query: "Merganetta armata" ; Times: 5
+	Query: "Calliope calliope India" ; Times: 1
+	Query: "pharomachrus antisianus" ; Times: 2
+	Query: "catalognumber:017046 institutioncode:YPM" ; Times: 1
+	Query: "Psittiparus bakeri india" ; Times: 1
+	Query: "Halcyon coromanda india" ; Times: 1
+	Query: "Brown hornbill" ; Times: 1
+	Query: "BLACK FRANCOLIN" ; Times: 2
+	Query: "Setophaga striata" ; Times: 5
+	Query: "calandrella blanfordi" ; Times: 3
+	Query: "pinus brutia" ; Times: 1
+	Query: "Schoeniparus cinereus india" ; Times: 1
+	Query: "catalognumber:017161 institutioncode:YPM" ; Times: 2
+	Query: "Chrysocolaptes festivus india" ; Times: 1
+	Query: "137251 family:Apodidae institutioncode:YPM" ; Times: 1
+	Query: "Numenius arquata India" ; Times: 1
+	Query: "140425" ; Times: 1
+	Query: "Hypsipetes philippinus" ; Times: 4
+	Query: "Phylloscopus forresti" ; Times: 4
+	Query: "Prinia atrogularis India" ; Times: 1
+	Query: "climacteris meridionalis" ; Times: 1
+	Query: "ypm 140405" ; Times: 2
+	Query: "Gallinula chloropus" ; Times: 5
+	Query: "Turdus obscurus" ; Times: 9
+	Query: "Piranga flava" ; Times: 5
+	Query: "myiarchus platyrhynchus" ; Times: 2
+	Query: "Gnorimopsar chopi" ; Times: 3
+	Query: "Ptyonoprogne rupestris India" ; Times: 1
+	Query: "catalognumber:017146 institutioncode:YPM" ; Times: 4
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 2
+	Query: "Xema sabini" ; Times: 6
+	Query: "Trochalopteron chrysopterum india" ; Times: 1
+	Query: "Aratinga maculata" ; Times: 1
+	Query: "Sula dactylatra" ; Times: 3
+	Query: "Gampsorhynchus rufulus india" ; Times: 1
+	Query: "Apus affinis" ; Times: 3
+	Query: "Anas falcata" ; Times: 13
+	Query: "Matsudaira Japan" ; Times: 1
+	Query: "Criniger flaveolus" ; Times: 4
+	Query: "Phalacrocorax carbo" ; Times: 4
+	Query: "Terpsiphone viridis" ; Times: 4
+	Query: "Amazilia brevirostris" ; Times: 3
+	Query: "Tichodroma muraria india" ; Times: 1
+	Query: "Columba rupestris" ; Times: 3
+	Query: "Hylophylax" ; Times: 1
+	Query: "Taccocua leschenaultii" ; Times: 3
+	Query: "Culicicapa ceylonensis" ; Times: 4
+	Query: "Baeopogon indicator" ; Times: 4
+	Query: "Barbatula barbatula" ; Times: 8
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Buteo japonicus" ; Times: 4
+	Query: "Ficedula albicollis" ; Times: 9
+	Query: "Lonchura malacca India" ; Times: 2
+	Query: "Leucopternis semiplumbeus" ; Times: 4
+	Query: "61477" ; Times: 1
+	Query: "Hirundo smithii India" ; Times: 1
+	Query: "Diglossa brunneiventris" ; Times: 1
+	Query: "Lophura nycthemera" ; Times: 3
+	Query: "Cinclus pallasii india" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 9
+	Query: "Piranga hepatica" ; Times: 5
+	Query: "terpsiphone ignea" ; Times: 2
+	Query: "ypm 140530" ; Times: 2
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "Prinia subflava" ; Times: 6
+	Query: "todirostrum virididorsale" ; Times: 1
+	Query: "Ortalis vetula" ; Times: 3
+	Query: "Larus crassirostris" ; Times: 6
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "Yuhina gularis india" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "Prinia flaviventris India" ; Times: 1
+	Query: "Rhipidura fuliginosa" ; Times: 4
+	Query: "Larus dominicanus" ; Times: 6
+	Query: "Hypsipetes propinquus" ; Times: 4
+	Query: "garrodia nereis" ; Times: 1
+	Query: "Tragopan blythii" ; Times: 2
+	Query: "Pinus brutia mappable:1" ; Times: 2
+	Query: "Aethopyga nipalensis India" ; Times: 2
+	Query: "Spinus pinus" ; Times: 3
+	Query: "Leucosticte arctoa" ; Times: 7
+	Query: "genus:vauriella country:&#34;philippines&#34;" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "Ortalis canicollis" ; Times: 3
+	Query: "Turdus rubrocanus India" ; Times: 1
+	Query: "Calandrella brachydactyla India" ; Times: 1
+	Query: "Nelson AND Goldman AND Island" ; Times: 1
+	Query: "Anthus similis India" ; Times: 1
+	Query: "Turdus ruficollis India" ; Times: 1
+	Query: "Buteo albonotatus" ; Times: 6
+	Query: "Alcippe poioicephala india" ; Times: 2
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Horornis flavolivacea india" ; Times: 1
+	Query: "Condit 1891" ; Times: 2
+	Query: "BLACK-HEADED CUCKOOSHRIKE India" ; Times: 1
+	Query: "Phylloscopus fuligiventer" ; Times: 4
+	Query: "Phalacrocorax urile" ; Times: 4
+	Query: "Perdicula asiatica" ; Times: 1
+	Query: "Calliope pectoralis India" ; Times: 1
+	Query: "Himatione sanguinea" ; Times: 2
+	Query: "Phylloscopus maculipennis India" ; Times: 1
+	Query: "Amblyospiza albifrons" ; Times: 8
+	Query: "Dendrocitta formosae" ; Times: 9
+	Query: "specificepithet:astrild genus:Estrilda hasmass:1" ; Times: 4
+	Query: "Phoenicurus schisticeps India" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 1
+	Query: "Amazilia edward" ; Times: 3
+	Query: "Puffinus gravis" ; Times: 3
+	Query: "Aythya ferina" ; Times: 11
+	Query: "(49096)" ; Times: 1
+	Query: "Lake Ring" ; Times: 1
+	Query: "specificepithet:certhioides genus:Tarphonomus" ; Times: 1
+	Query: "Criniger phaeocephalus" ; Times: 4
+	Query: "Doricha eliza" ; Times: 3
+	Query: "Aratinga acuticaudata" ; Times: 3
+	Query: "Perdicula manipurensis" ; Times: 1
+	Query: "Bambusicola fytchii" ; Times: 2
+	Query: "121600" ; Times: 2
+	Query: "Bycanistes brevis" ; Times: 4
+	Query: "houbaropsis bengalensis" ; Times: 1
+	Query: "56798" ; Times: 1
+	Query: "Haliaeetus albicilla" ; Times: 11
+	Query: "Zoothera aurea" ; Times: 14
+	Query: "Harpactes wardi" ; Times: 1
+	Query: "Heliopais personata" ; Times: 1
+	Query: "Emberiza rustica" ; Times: 8
+	Query: "Trochalopteron milnei" ; Times: 3
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "Zoothera dauma india" ; Times: 1
+	Query: "Narcissus" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+	Query: "muscicapa nigrorufa" ; Times: 1
+	Query: "Netta rufina" ; Times: 6
+	Query: "Ploceus bicolor" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 3
+	Query: "pelecanoides garnotii" ; Times: 6
+	Query: "Bubulcus ibis" ; Times: 11
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34; AND (NOT Luzon)" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 10
+	Query: "Laticilla cinerascens india" ; Times: 1
+	Query: "Muscicapa ferruginea India" ; Times: 1
+	Query: "pseudocolopteryx" ; Times: 2
+	Query: "stateprovince:&#34;MASSACHUSETTS&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Calidris canutus" ; Times: 3
+	Query: "Dryobates cathpharius india" ; Times: 1
+	Query: "Himantopus himantopus" ; Times: 2
+	Query: "Accipiter nisus" ; Times: 7
+	Query: "Tarsiger cyanurus" ; Times: 4
+	Query: "Anas diazi sex:male" ; Times: 1
+	Query: "Dendrocitta frontalis India" ; Times: 1
+	Query: "Cygnus olor" ; Times: 10
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Cory Island" ; Times: 1
+	Query: "Turdus rufiventris" ; Times: 15
+	Query: "Stercorarius longicaudus" ; Times: 6
+	Query: "Leiothrix lutea india" ; Times: 1
+	Query: "Corvus corone" ; Times: 9
+	Query: "Tyto alba hellmayri" ; Times: 1
+	Query: "Amazilia candida" ; Times: 3
+	Query: "Phaps chalcoptera" ; Times: 6
+	Query: "Anas strepera" ; Times: 13
+	Query: "Lymnocryptes minimus" ; Times: 3
+	Query: "specificepithet:racheliae genus:Malimbus hastissue:1" ; Times: 1
+	Query: "Sphenocichla roberti india" ; Times: 1
+	Query: "tufted duck" ; Times: 2
+	Query: "Ochthoeca superciliosa" ; Times: 1
+	Query: "asio flammeus india" ; Times: 2
+	Query: "Pelecanus occidentalis" ; Times: 7
+	Query: "Serinus canaria" ; Times: 3
+	Query: "Turdus ignobilis arthuri" ; Times: 1
+	Query: "slaty-backed flycatcher India" ; Times: 1
+	Query: "Anthus campestris India" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 5
+	Query: "Spelaeornis longicaudatus india" ; Times: 1
+	Query: "Branta bernicla" ; Times: 5
+	Query: "fieldnumber:29690" ; Times: 1
+	Query: "Arremon aurantiirostris" ; Times: 3
+	Query: "Campylopterus hemileucurus" ; Times: 3
+	Query: "Emberiza lathami India" ; Times: 1
+	Query: "grey owl" ; Times: 6
+	Query: "Tachycineta euchrysea" ; Times: 4
+	Query: "Corvus splendens" ; Times: 9
+	Query: "Recurvirostra americana" ; Times: 2
+	Query: "otis tarda mappable:1" ; Times: 1
+	Query: "Larus atricilla" ; Times: 6
+	Query: "Yuhina bakeri india" ; Times: 1
+	Query: "Phaetusa simplex" ; Times: 2
+	Query: "C. psittacula" ; Times: 6
+	Query: "specificepithet:obscurus genus:Myadestes stateprovince:&#34;Hawaii&#34;" ; Times: 1
+	Query: "Acridotheres ginginianus India" ; Times: 1
+	Query: "Pteroglossus beauharnaesii" ; Times: 3
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Epimachus bruijnii" ; Times: 6
+	Query: "Ciconia nigra" ; Times: 2
+	Query: "Buteo swainsoni" ; Times: 4
+	Query: "Cyanopica cyanus" ; Times: 8
+	Query: "Branta sandvicensis" ; Times: 5
+	Query: "Garrulax sannio india" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 5
+	Query: "Paradoxornis flavirostris india" ; Times: 1
+	Query: "bmnh 1901" ; Times: 1
+	Query: "genus:culicicapa country:&#34;philippines&#34;" ; Times: 5
+	Query: "Buteogallus anthracinus" ; Times: 4
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Nelson AND Goldman AND Island NOT Roo NOT Remington" ; Times: 1
+	Query: "Aegithalos iredalei india" ; Times: 2
+	Query: "Gecinulus grantia india" ; Times: 1
+	Query: "Pellorneum tickelli india" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 6
+	Query: "Tachybaptus novaehollandiae" ; Times: 9
+	Query: "Spilornis cheela" ; Times: 7
+	Query: "arborophila interstincta" ; Times: 1
+	Query: "Bubo scandiacus sex:female" ; Times: 2
+	Query: "Chrysolophus amherstiae" ; Times: 3
+	Query: "gypaetus" ; Times: 2
+	Query: "Anas crecca" ; Times: 13
+	Query: "Anhinga rufa" ; Times: 7
+	Query: "Terpsiphone atrocaudata" ; Times: 4
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:YPM" ; Times: 1
+	Query: "Suthora nipalensis india" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 6
+	Query: "Amaurornis flavirostra" ; Times: 2
+	Query: "Fulica americana" ; Times: 3
+	Query: "Great Crested Flycatcher Texas" ; Times: 1
+	Query: "dendroica castanea" ; Times: 2
+	Query: "Chloris spinoides India" ; Times: 1
+	Query: "Machlolophus spilonotus India" ; Times: 2
+	Query: "Dicaeum agile India" ; Times: 2
+	Query: "Aptenodytes forsteri" ; Times: 4
+	Query: "Dendrocopos hyperythrus india" ; Times: 1
+	Query: "Pitta cucullata Thailand" ; Times: 1
+	Query: "Limosa limosa India" ; Times: 1
+	Query: "netta rufina egg" ; Times: 1
+	Query: "Buteogallus urubitinga" ; Times: 4
+	Query: "Epimachus fastuosus" ; Times: 2
+	Query: "Gallinago nigripennis nigripennis" ; Times: 1
+	Query: "Hemispingus frontalis" ; Times: 2
+	Query: "Pelecanus thagus" ; Times: 3
+	Query: "Turdus iliacus" ; Times: 10
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Rupornis magnirostris" ; Times: 4
+	Query: "Poospiza lateralis" ; Times: 3
+	Query: "Red-and-yellow barbet" ; Times: 2
+	Query: "Petronia petronia" ; Times: 8
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "Phoenicurus frontalis India" ; Times: 1
+	Query: "Sylvia atricapilla" ; Times: 2
+	Query: "Buteogallus aequinoctialis" ; Times: 4
+	Query: "Larvivora brunnea India" ; Times: 1
+	Query: "Aythya americana" ; Times: 4
+	Query: "Climacteris picumnus" ; Times: 4
+	Query: "Tympanuchus pallidicinctus" ; Times: 1
+	Query: "Anas americana" ; Times: 11
+	Query: "Larus marinus" ; Times: 5
+	Query: "Passer ammodendri" ; Times: 8
+	Query: "specificepithet:galactotes genus:cisticola hasmass:1" ; Times: 1
+	Query: "specificepithet:westermanni country:&#34;philippines&#34;" ; Times: 1
+	Query: "Crax rubra" ; Times: 3
+	Query: "harlow egg" ; Times: 3
+	Query: "Aerodramus (Collocalia) brevirostris" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 13
+	Query: "ypm 145110" ; Times: 2
+	Query: "Phylloscopus collybita" ; Times: 4
+	Query: "Speculanas specularis" ; Times: 6
+	Query: "specificepithet:ruficollis genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "Rynchops niger" ; Times: 6
+	Query: "Alectoris barbara" ; Times: 6
+	Query: "Polystictus pectoralis brevipennis" ; Times: 1
+	Query: "Todus todus" ; Times: 3
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Pavo muticus" ; Times: 2
+	Query: "Petrochelidon fluvicola India" ; Times: 1
+	Query: "Phasianus versicolor" ; Times: 3
+	Query: "Lampropsar tanagrinus" ; Times: 3
+	Query: "swamp FRANCOLIN" ; Times: 1
+	Query: "Ceyx erithaca india" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 2
+	Query: "Emberiza fucata" ; Times: 8
+	Query: "Drepanornis albertisi" ; Times: 17
+	Query: "Anser anser" ; Times: 10
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "Dicaeum ignipectus India" ; Times: 2
+	Query: "Cyornis tickelliae India" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Kurakakaul aves" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 6
+	Query: "40612" ; Times: 1
+	Query: "Phylloscopus armandii" ; Times: 9
+	Query: "Syma torotoro" ; Times: 4
+	Query: "Criniger ndussumensis" ; Times: 1
+	Query: "A. cristatella" ; Times: 6
+	Query: "Buteogallus meridionalis" ; Times: 4
+	Query: "Ortalis guttata" ; Times: 3
+	Query: "Apus unicolor" ; Times: 3
+	Query: "pelecanoides georgicus" ; Times: 2
+	Query: "harpy eagle" ; Times: 1
+	Query: "36220" ; Times: 1
+	Query: "Trochalopteron erythrocephalum india" ; Times: 1
+	Query: "surniculus lugubris" ; Times: 1
+	Query: "vntype:specimen genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 5
+	Query: "Turdus unicolor India" ; Times: 1
+	Query: "specificepithet:hottentottus genus:dicrurus country:&#34;philippines&#34;" ; Times: 3
+	Query: "Sturnus vulgaris india" ; Times: 2
+	Query: "Hylophilus ochraceiceps" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 6
+	Query: "specificepithet:ruficauda country:&#34;philippines&#34;" ; Times: 1
+	Query: "Phalaropus tricolor" ; Times: 5
+	Query: "Fregata aquila" ; Times: 3
+	Query: "Sarothrura" ; Times: 1
+	Query: "Haliaeetus leucocephalus" ; Times: 8
+	Query: "specificepithet:ararauna genus:Ara hastissue:1" ; Times: 1
+	Query: "Emberiza bruniceps India" ; Times: 1
+	Query: "Akialoa obscura" ; Times: 3
+	Query: "Sterna acuticauda" ; Times: 1
+	Query: "Turdus albocinctus India" ; Times: 1
+	Query: "Zoothera marginata india" ; Times: 1
+	Query: "Chelidorhynx hypoxantha India" ; Times: 1
+	Query: "Acridotheres grandis India" ; Times: 1
+	Query: "Lonchura atricapilla India" ; Times: 2
+	Query: "Creagrus furcatus" ; Times: 6
+	Query: "chloropsis flavipennis" ; Times: 1
+	Query: "Chondrohierax" ; Times: 2
+	Query: "Tarsiger chrysaeus India" ; Times: 1
+	Query: "ypm 84373" ; Times: 1
+	Query: "Pseudoleistes virescens" ; Times: 3
+	Query: "Indicator xanthonotus india" ; Times: 1
+	Query: "Pelagodroma marina" ; Times: 4
+	Query: "Egretta intermedia" ; Times: 9
+	Query: "Anas penelope" ; Times: 11
+	Query: "Pagophila eburnea" ; Times: 6
+	Query: "Prinia rufescens India" ; Times: 2
+	Query: "Gallinago stenura" ; Times: 6
+	Query: "Garrulax cineraceus india" ; Times: 1
+	Query: "specificepithet:boltoni genus:aethopyga country:&#34;philippines&#34;" ; Times: 1
+	Query: "phoebetria palpebrata" ; Times: 1
+	Query: "Emberiza aureola India" ; Times: 1
+	Query: "Rhyticeros undulatus india" ; Times: 1
+	Query: "Garrulax sannio" ; Times: 3
+	Query: "Cyornis poliogenys India" ; Times: 1
+	Query: "102423" ; Times: 1
+	Query: "Ficedula tricolor India" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 6
+	Query: "Eudocimus albus" ; Times: 4
+	Query: "40578" ; Times: 2
+	Query: "Limnodromus scolopaceus" ; Times: 6
+	Query: "Dendronanthus indicus India" ; Times: 1
+	Query: "Aethia psittacula" ; Times: 6
+	Query: "Coccyzus erythropthalmus" ; Times: 2
+	Query: "Grammatoptila striatus india" ; Times: 1
+	Query: "cettia sepiaria" ; Times: 1
+	Query: "Pycnonotus taivanus" ; Times: 4
+	Query: "Accipiter trivirgatus india" ; Times: 1
+	Query: "Riparia riparia India" ; Times: 1
+	Query: "Ibidorhyncha struthersii" ; Times: 2
+	Query: "Alcedo argentata" ; Times: 1
+	Query: "Phoenicurus ochruros" ; Times: 4
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "Tachycineta leucorrhoa" ; Times: 7
+	Query: "vntype:specimen specificepithet:caeruleus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 2
+	Query: "specificepithet:basilanica genus:ficedula country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:adsimilis genus:dicrurus hasmass:1" ; Times: 1
+	Query: "chambers aves canyon egg" ; Times: 1
+	Query: "Stachyris oglei india" ; Times: 1
+	Query: "Anas diazi lifestage:Adult sex:Female" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 4
+	Query: "Gallinago stricklandii" ; Times: 4
+	Query: "Lophura ignita" ; Times: 3
+	Query: "locality:&#34;half island&#34; stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;north carolina&#34; recordedby:harllee" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 4
+	Query: "Syrmaticus ellioti" ; Times: 3
+	Query: "Himantopus mexicanus" ; Times: 2
+	Query: "urocolius massaicus" ; Times: 1
+	Query: "Ficedula superciliaris India" ; Times: 2
+	Query: "Garrulax merulinus india" ; Times: 1
+	Query: "Lanius vittatus India" ; Times: 1
+	Query: "Passer cinnamomeus India" ; Times: 1
+	Query: "Carpodacus erythrinus India" ; Times: 3
+	Query: "Phylloscopus magnirostris India" ; Times: 1
+	Query: "terpsiphone restricta" ; Times: 3
+	Query: "Ceyx argentatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:cyaneus genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 8
+	Query: "Microhierax caerulescens india" ; Times: 1
+	Query: "Siva cyanouroptera" ; Times: 3
+	Query: "Aegithalos concinnus india" ; Times: 2
+	Query: "Tilmatura dupontii" ; Times: 3
+	Query: "Apus apus" ; Times: 3
+	Query: "Mycerobas melanozanthos India" ; Times: 1
+	Query: "Garrulax gularis india" ; Times: 1
+	Query: "Dryobates pubescens fumidus" ; Times: 1
+	Query: "homeyeri vntype:specimen" ; Times: 1
+	Query: "Ploceus megarhynchus India" ; Times: 1
+	Query: "pachyptila desolata kerguelen" ; Times: 2
+	Query: "Buteo augur" ; Times: 4
+	Query: "Tyto alba guatemalae" ; Times: 1
+	Query: "Buteo brachyurus" ; Times: 4
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "genus:lophozosterops country:&#34;philippines&#34;" ; Times: 3
+	Query: "Nelson AND San MArtin" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 9
+	Query: "Pomatorhinus superciliaris india" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Conirostrum albifrons" ; Times: 3
+	Query: "Rynchops albicollis" ; Times: 1
+	Query: "specificepithet:inornatus genus:rhabdornis country:&#34;philippines&#34; AND (NOT Luzon NOT Negros NOT Panay)" ; Times: 1
+	Query: "USNM 141505" ; Times: 2
+	Query: "Trochalopteron virgatum india" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 4
+	Query: "Phylloscopus humei India" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "Phegornis mitchellii" ; Times: 4
+	Query: "genus:poliocephalus (skeleton)" ; Times: 5
+	Query: "calamonastes undosus" ; Times: 1
+	Query: "locality:half island stateprovince:&#34;south carolina&#34;" ; Times: 1
+	Query: "francolinus francolinus india" ; Times: 4
+	Query: "Laterallus jamaicensis jamaicensis" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 4
+	Query: "Ploceus benghalensis India" ; Times: 1
+	Query: "class:aves country:&#34;mexico&#34; recordedby:carpenter year &gt;= 1920 year &lt;= 1925" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "Garrulax cineraceus" ; Times: 15
+	Query: "Phylloscopus chloronotus India" ; Times: 1
+	Query: "Hypergerus atriceps" ; Times: 7
+	Query: "Oceanodroma furcata hastissue:1" ; Times: 1
+	Query: "Asio flammeus" ; Times: 2
+	Query: "great snipe" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 4
+	Query: "Steatornis caripensis" ; Times: 5
+	Query: "Phoenicurus erythrogastrus India" ; Times: 1
+	Query: "specificepithet:sericeus genus:orthotomus country:&#34;philippines&#34;" ; Times: 3
+	Query: "Limnodromus griseus hendersoni" ; Times: 1
+	Query: "Chlorophanes spiza" ; Times: 8
+	Query: "Crossoptilon mantchuricum" ; Times: 3
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "USNM 141478" ; Times: 3
+	Query: "Chleuasicus atrosuperciliaris india" ; Times: 1
+	Query: "Eurillas latirostris" ; Times: 4
+	Query: "molt genus:manacus" ; Times: 1
+	Query: "Anas clypeata" ; Times: 13
+	Query: "birds brazos county" ; Times: 1
+	Query: "Cormobates leucophaeus" ; Times: 4
+	Query: "Ardea cinerea" ; Times: 9
+	Query: "Tragopan satyra" ; Times: 4
+	Query: "Athene noctua" ; Times: 1
+	Query: "Sitta formosa india" ; Times: 1
+	Query: "yabsu papua new guinea" ; Times: 1
+	Query: "Bubo bubo india" ; Times: 2
+	Query: "specificepithet:nigerrimus genus:Ploceus hastissue:1" ; Times: 1
+	Query: "Arborophila atrogularis" ; Times: 1
+	Query: "Turdus helleri" ; Times: 9
+	Query: "specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Muscicapa sibirica India" ; Times: 1
+	Query: "oressinoma specificepithet:xanthogaster genus:euphonia" ; Times: 1
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "ypm 145145" ; Times: 2
+	Query: "Aethia pygmaea" ; Times: 6
+	Query: "lophostrix wedeli" ; Times: 1
+	Query: "Pakistan leucogenys" ; Times: 2
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Criniger calurus" ; Times: 3
+	Query: "Somateria mollissima" ; Times: 9
+	Query: "Pycnonotus jocosus" ; Times: 4
+	Query: "Anthus sylvanus India" ; Times: 1
+	Query: "yellow wagtail India" ; Times: 1
+	Query: "Cettia brunnifrons india" ; Times: 1
+	Query: "elf" ; Times: 3
+	Query: "manacus candei" ; Times: 3
+	Query: "caprimulgus maculicaudus" ; Times: 4
+	Query: "100852" ; Times: 2
+	Query: "Falco chicquera india" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Saxicola caprata India" ; Times: 3
+	Query: "Liocichla phoenicea india" ; Times: 2
+	Query: "Aphrodroma brevirostris" ; Times: 3
+	Query: "Eudyptula minor" ; Times: 7
+	Query: "Amazilia fimbriata" ; Times: 3
+	Query: "Apus pallidus" ; Times: 3
+	Query: "Myiomela leucura India" ; Times: 1
+	Query: "Pycnonotus flavescens India" ; Times: 1
+	Query: "tichodroma muraria India Uttar Pradesh" ; Times: 1
+	Query: "apalis porphyrolaema" ; Times: 1
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "30985" ; Times: 1
+	Query: "Tachymarptis aequatorialis" ; Times: 7
+	Query: "Dicaeum chrysorrheum India" ; Times: 1
+	Query: "Phalacrocorax aristotelis mappable:1" ; Times: 2
+	Query: "Aceros waldeni" ; Times: 4
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "Grus monacha" ; Times: 1
+	Query: "genus:eumyias country:&#34;philippines&#34;" ; Times: 2
+	Query: "genus:rollandia (skeleton)" ; Times: 2
+	Query: "surniculus dicruroides" ; Times: 2
+	Query: "WHITE-TAILED LAPWING Vanellus leucurus" ; Times: 1
+	Query: "specificepithet:albogularis genus:Contopus hastissue:1" ; Times: 2
+	Query: "Phalacrocorax sulcirostris" ; Times: 4
+	Query: "Syrmaticus humiae" ; Times: 3
+	Query: "lesser prairie chicken" ; Times: 4
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "Ixobrychus minutus" ; Times: 2
+	Query: "29346" ; Times: 1
+	Query: "country:&#34;mexico&#34; recordedby:l. miller" ; Times: 1
+	Query: "Neomorphus salvini" ; Times: 1
+	Query: "Circaetus gallicus" ; Times: 2
+	Query: "26884" ; Times: 2
+	Query: "90476" ; Times: 1
+	Query: "Garrulax albogularis india" ; Times: 1
+	Query: "white-bellied drongo India" ; Times: 1
+	Query: "Hydropsalis cayennensis" ; Times: 1
+	Query: "corvus enca" ; Times: 1
+	Query: "Progne chalybea" ; Times: 7
+	Query: "Paradigalla carunculata" ; Times: 5
+	Query: "Cygnus columbianus" ; Times: 5
+	Query: "F. domesticus" ; Times: 5
+	Query: "Vultur gryphus" ; Times: 11
+	Query: "Ardea insignis" ; Times: 10
+	Query: "Amazonetta brasiliensis" ; Times: 6
+	Query: "Junco hyemalis Colorado Chaffee County egg" ; Times: 1
+	Query: "junco alberta egg" ; Times: 1
+	Query: "Batrachostomus hodgsoni" ; Times: 1
+	Query: "Rhodopechys sanguineus" ; Times: 1
+	Query: "Gyps himalayensis" ; Times: 4
+	Query: "Zoothera monticola india" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "Leiothrix lutea" ; Times: 3
+	Query: "genus:calliope country:&#34;philippines&#34;" ; Times: 1
+	Query: "Quelea quelea" ; Times: 8
+	Query: "cinclus rufiventris" ; Times: 1
+	Query: "Leptocoma brasiliana India" ; Times: 1
+	Query: "Tachyeres brachypterus" ; Times: 6
+	Query: "Brachypteryx leucophrys India" ; Times: 1
+	Query: "Tachyeres leucocephalus" ; Times: 6
+	Query: "PALE-CAPPED PIGEON" ; Times: 3
+	Query: "Acrocephalus stentoreus India" ; Times: 1
+	Query: "cacomantis merulinus india" ; Times: 1
+	Query: "Larus vegae" ; Times: 3
+	Query: "22916" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 13
+	Query: "(10009)" ; Times: 1
+	Query: "Phylloscopus cantator India" ; Times: 1
+	Query: "oceanites oceanicus antarctica" ; Times: 1
+	Query: "Buteo solitarius" ; Times: 4
+	Query: "Arborophila rufogularis" ; Times: 6
+	Query: "Rhodospiza obsoleta" ; Times: 2
+	Query: "Emberiza melanocephala India" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 4
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Apus acuticauda" ; Times: 4
+	Query: "tichodroma muraria" ; Times: 1
+	Query: "Garrulax galbanus india" ; Times: 1
+	Query: "Delichon dasypus India" ; Times: 1
+	Query: "Chionis alba" ; Times: 2
+	Query: "Turdus merula" ; Times: 14
+	Query: "perdicula inglisi" ; Times: 2
+	Query: "Leucosticte brandti" ; Times: 8
+	Query: "Gallinago delicata" ; Times: 5
+	Query: "Turdus obscurus India" ; Times: 1
+	Query: "phyllastrephus xavieri" ; Times: 4
+	Query: "Monticola rufiventris India" ; Times: 2
+	Query: "Prinia sylvatica India" ; Times: 2
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "spotted crake" ; Times: 2
+	Query: "Buteo regalis" ; Times: 4
+	Query: "Sarkidiornis melanotos" ; Times: 11
+	Query: "ypm 140468" ; Times: 3
+	Query: "oriolus oriolus India" ; Times: 4
+	Query: "Sternula albifrons" ; Times: 3
+	Query: "140286 family:Apodidae institutioncode:YPM" ; Times: 1
+	Query: "Cephalopyrus flammiceps India" ; Times: 1
+	Query: "Spheniscus demersus" ; Times: 4
+	Query: "Heterophasia gracilis india" ; Times: 1
+	Query: "ypm 140467" ; Times: 2
+	Query: "Phoenicurus auroreus" ; Times: 9
+	Query: "YPM ORN 042898" ; Times: 3
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "Numenius phaeopus India" ; Times: 1
+	Query: "Vireo huttoni 1891" ; Times: 1
+	Query: "Enicurus maculatus India" ; Times: 2
+	Query: "Busarellus nigricollis" ; Times: 4
+	Query: "Phalacrocorax bougainvillii" ; Times: 4
+	Query: "francolinus usambarae" ; Times: 1
+	Query: "1958 aves mexico jalisco" ; Times: 1
+	Query: "Gallicolumba luzonica" ; Times: 2
+	Query: "vntype:specimen genus:Tersina class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Cypsiurus balasiensis" ; Times: 3
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Crithagra albogularis" ; Times: 3
+	Query: "Cisticola cantans" ; Times: 7
+	Query: "Pelecanus conspicillatus" ; Times: 4
+	Query: "Pitta sordida Thailand" ; Times: 2
+	Query: "Aegithalos leucogenys" ; Times: 6
+	Query: "pinarochroa" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 5
+	Query: "Phalacrocorax capillatus" ; Times: 4
+	Query: "Tringa semipalmatus vntype:specimen country:&#34;Costa Rica&#34; AND (inornatus)" ; Times: 1
+	Query: "Alectoris rufa" ; Times: 6
+	Query: "Ficedula sapphira India" ; Times: 1
+	Query: "Cyanoderma chrysaeum india" ; Times: 1
+	Query: "Ortalis cinereiceps" ; Times: 3
+	Query: "Chloris sinica" ; Times: 3
+	Query: "Saxicola jerdoni India" ; Times: 1
+	Query: "guadalupe Wilson 1885" ; Times: 1
+	Query: "Eupsittula pertinax" ; Times: 1
+	Query: "Alophoixus pallidus" ; Times: 4
+	Query: "mountain quail" ; Times: 2
+	Query: "specificepithet:xanthogaster genus:euphonia country:&#34;brazil&#34;" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 6
+	Query: "specificepithet:cinerea genus:Serpophaga country:&#34;Peru&#34;" ; Times: 1
+	Query: "Eremophila alpestris India" ; Times: 3
+	Query: "(18647)" ; Times: 2
+	Query: "Pycnonotus xanthorrhous" ; Times: 7
+	Query: "Thraupis episcopus" ; Times: 5
+	Query: "Tadorna tadorna" ; Times: 13
+	Query: "Liosceles erithacus" ; Times: 1
+	Query: "Pnoepyga albiventer India" ; Times: 2
+	Query: "Phylloscopus nitidus India" ; Times: 1
+	Query: "Cygnus melancoryphus" ; Times: 3
+	Query: "Emberiza flaviventris" ; Times: 3
+	Query: "Schoeniparus castaneceps india" ; Times: 2
+	Query: "Meleagris gallopavo" ; Times: 2
+	Query: "Anorrhinus austeni india" ; Times: 1
+	Query: "Carpodacus sipahi India" ; Times: 1
+	Query: "Coracina melaschistos" ; Times: 4
+	Query: "Pteruthius rufiventer India" ; Times: 1
+	Query: "vultur gryphus" ; Times: 3
+	Query: "ypm 140494" ; Times: 2
+	Query: "Dicaeum minullum India" ; Times: 1
+	Query: "Psittirostra psittacea" ; Times: 3
+	Query: "Ocyceros birostris india" ; Times: 1
+	Query: "Howell AND Baja" ; Times: 1
+	Query: "Muscicapa muttui India" ; Times: 1
+	Query: "Asarcornis scutulata" ; Times: 4
+	Query: "Piranga rubra" ; Times: 5
+	Query: "Icterus auratus" ; Times: 1
+	Query: "84344" ; Times: 1
+	Query: "Orkney egg" ; Times: 2
+	Query: "Phylloscopus coronatus" ; Times: 8
+	Query: "Anas carolinensis" ; Times: 10
+	Query: "Phalacrocorax capensis" ; Times: 4
+	Query: "Cinclidium frontale India" ; Times: 1
+	Query: "Prinia bairdii" ; Times: 8
+	Query: "Dicaeum trigonostigma" ; Times: 4
+	Query: "Paradoxornis guttaticollis india" ; Times: 1
+	Query: "Phylloscopus schwarzi" ; Times: 10
+	Query: "Abroscopus schisticeps india" ; Times: 1
+	Query: "Saltator similis" ; Times: 5
+	Query: "Turdus niveiceps" ; Times: 9
+	Query: "Hypsipetes leucocephalus" ; Times: 4
+	Query: "Passer montanus India" ; Times: 2
+	Query: "Pycnonotus finlaysoni" ; Times: 4
+	Query: "Lophura leucomelanos" ; Times: 3
+	Query: "Anas platyrhynchos lifestage:adult sex:female AND (NOT diazi)" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "Anthus godlewskii India" ; Times: 1
+	Query: "Amazilia yucatanensis" ; Times: 3
+	Query: "Urocissa erythrorhyncha India" ; Times: 1
+	Query: "least bittern minnesota" ; Times: 1
+	Query: "specificepithet:novaehollandiae genus:tachybaptus (skeleton)" ; Times: 1
+	Query: "Acanthis flammea" ; Times: 3
+	Query: "Hemicircus canente india" ; Times: 1
+	Query: "Saxicola insignis India" ; Times: 1
+	Query: "Apus caffer" ; Times: 3
+	Query: "Procellaria cinerea" ; Times: 9
+	Query: "Turdus atrogularis India" ; Times: 1
+	Query: "Emberiza leucocephalos" ; Times: 8
+	Query: "pyrrhuloxia" ; Times: 1
+	Query: "101040" ; Times: 1
+	Query: "genus:Cyanerpes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Snowy owl" ; Times: 2
+	Query: "specificepithet:griseocephalus genus:Dendropicos (ruwenzori) hasmass:1" ; Times: 1
+	Query: "Tarsiger cyanurus India" ; Times: 1
+	Query: "Pterodroma hasitata" ; Times: 3
+	Query: "Spheniscus humboldti" ; Times: 4
+	Query: "pheucticus melanocephalus ludovicianus" ; Times: 1
+	Query: "Buteo nitidus" ; Times: 4
+	Query: "Fregata magnificens" ; Times: 3
+	Query: "ramphocinclus" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Oceanodroma castro" ; Times: 4
+	Query: "Accipiter gentilis" ; Times: 4
+	Query: "Buteo rufinus" ; Times: 4
+	Query: "Aegithalos concinnus" ; Times: 4
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "astrapia nigra" ; Times: 3
+	Query: "Gracupica nigricollis" ; Times: 7
+	Query: "Criniger ochraceus" ; Times: 4
+	Query: "specificepithet:obscurus genus:Myadestes" ; Times: 1
+	Query: "celestial" ; Times: 1
+	Query: "knud" ; Times: 2
+	Query: "chloropsis palawanensis" ; Times: 3
+	Query: "Stercorarius skua" ; Times: 2
+	Query: "Sylvia curruca india" ; Times: 1
+	Query: "Ardea modesta" ; Times: 9
+	Query: "Seicercus affinis" ; Times: 4
+	Query: "40579" ; Times: 2
+	Query: "Anthus trivialis India" ; Times: 3
+	Query: "Emberiza pusilla" ; Times: 8
+	Query: "class:Aves stateprovince:&#34;Connecticut&#34; institutioncode:YPM" ; Times: 1
+	Query: "Spizixos semitorques" ; Times: 7
+	Query: "Taeniopygia guttata" ; Times: 8
+	Query: "Pomatorhinus ochraceiceps india" ; Times: 1
+	Query: "Eophona migratoria" ; Times: 8
+	Query: "Psittiparus ruficeps india" ; Times: 1
+	Query: "Minla ignotincta india" ; Times: 1
+	Query: "Horornis fortipes india" ; Times: 1
+	Query: "25093" ; Times: 1
+	Query: "Hirundapus giganteus" ; Times: 1
+	Query: "26886" ; Times: 2
+	Query: "country:&#34;mexico&#34; recordedby:miller year &gt;= 1896 year &lt;= 1897" ; Times: 2
+	Query: "Turdus nigriceps" ; Times: 9
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "Tachycineta bicolor" ; Times: 3
+	Query: "Calandrella acutirostris India" ; Times: 1
+	Query: "Tor tor" ; Times: 9
+	Query: "Pithecophaga jefferyi" ; Times: 1
+	Query: "Turdus arthuri" ; Times: 1
+	Query: "Tachycineta albilinea" ; Times: 7
+	Query: "grinnell florida" ; Times: 1
+	Query: "Tarsiger rufilatus India" ; Times: 2
+	Query: "Suthora nipalensis assam" ; Times: 1
+	Query: "Psittacula himalayana india" ; Times: 1
+	Query: "Spheniscus magellanicus" ; Times: 4
+	Query: "Melospiza melodia salt lake utah egg" ; Times: 1
+	Query: "Anhinga anhinga" ; Times: 2
+	Query: "A. pygmaea" ; Times: 6
+	Query: "Copsychus saularis" ; Times: 3
+	Query: "Plegadis chihi" ; Times: 3
+	Query: "(18642)" ; Times: 2
+	Query: "Garrulax perspicillatus" ; Times: 3
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Falco jugger india" ; Times: 1
+	Query: "Riparia diluta India" ; Times: 1
+	Query: "Hirundo concolor India" ; Times: 1
+	Query: "Pycnonotus sinensis" ; Times: 7
+	Query: "Emberiza fucata India" ; Times: 1
+	Query: "Ectopistes migratorius" ; Times: 3
+	Query: "Podiceps auritus" ; Times: 7
+	Query: "Gallus gallus" ; Times: 2
+	Query: "Buteo rufofuscus" ; Times: 4
+	Query: "Muscicapa ruficauda India" ; Times: 1
+	Query: "Buceros bicornis" ; Times: 2
+	Query: "Puffinus pacificus" ; Times: 3
+	Query: "Alcedo meninting country:&#34;India&#34;" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 7
+	Query: "amazilia lichtensteini" ; Times: 1
+	Query: "Aethopyga gouldiae India" ; Times: 2
+	Query: "Pomatorhinus ruficollis india" ; Times: 1
+	Query: "36314" ; Times: 1
+	Query: "zosterops kasaicus" ; Times: 1
+	Query: "Ploceus manyar India" ; Times: 1
+	Query: "Tringa semipalmata vntype:specimen country:&#34;Costa Rica&#34; AND (inornatus)" ; Times: 1
+	Query: "viridis 4086" ; Times: 1
+	Query: "Alectoris chukar" ; Times: 6
+	Query: "Rallus crepitans pallidus" ; Times: 1
+	Query: "specificepithet:obscurus genus:turdus country:&#34;philippines&#34;" ; Times: 1
+	Query: "Anas diazi sex:female" ; Times: 1
+	Query: "Rallus crepitans grossi" ; Times: 1
+	Query: "mummy" ; Times: 2
+	Query: "Enicurus scouleri India" ; Times: 1
+	Query: "Criniger chloronotus" ; Times: 2
+	Query: "Muscicapa dauurica India" ; Times: 1
+	Query: "Pastor roseus india" ; Times: 1
+	Query: "Carpodacus erythrinus" ; Times: 8
+	Query: "Cyornis unicolor India" ; Times: 1
+	Query: "Penelopina nigra" ; Times: 2
+	Query: "Athene cunicularia troglodytes" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 2
+	Query: "Tyto alba nigrescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 161 (out of 1171 download events in this period)
+Total number of records downloaded: 4709
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 22
+	Country: United States ; Times: 113
+	Country: Mexico ; Times: 1
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 2
+	Country: France ; Times: 8
+	Country: United Kingdom ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Belgium ; Times: 1
+	Country: New Zealand ; Times: 1
+	Country: Argentina ; Times: 9
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-04-21 ; Times: 19
+	Date: 2020-04-06 ; Times: 2
+	Date: 2020-04-22 ; Times: 13
+	Date: 2020-04-23 ; Times: 1
+	Date: 2020-04-20 ; Times: 9
+	Date: 2020-04-07 ; Times: 5
+	Date: 2020-04-26 ; Times: 3
+	Date: 2020-04-01 ; Times: 3
+	Date: 2020-04-02 ; Times: 5
+	Date: 2020-04-03 ; Times: 1
+	Date: 2020-04-28 ; Times: 2
+	Date: 2020-04-29 ; Times: 19
+	Date: 2020-04-08 ; Times: 3
+	Date: 2020-04-09 ; Times: 1
+	Date: 2020-04-27 ; Times: 12
+	Date: 2020-04-24 ; Times: 2
+	Date: 2020-04-25 ; Times: 4
+	Date: 2020-04-18 ; Times: 4
+	Date: 2020-04-13 ; Times: 4
+	Date: 2020-04-12 ; Times: 3
+	Date: 2020-04-11 ; Times: 3
+	Date: 2020-04-10 ; Times: 1
+	Date: 2020-04-17 ; Times: 12
+	Date: 2020-04-16 ; Times: 12
+	Date: 2020-04-15 ; Times: 9
+	Date: 2020-04-14 ; Times: 4
+	Date: 2020-04-30 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "Vultur gryphus" ; Times: 8
+	Query: "Streptopelia decaocto" ; Times: 1
+	Query: "molt specificepithet:candei genus:manacus" ; Times: 1
+	Query: "nyctibius griseus" ; Times: 1
+	Query: "Eupsittula pertinax" ; Times: 1
+	Query: "lesser prairie chicken" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Turdus ignobilis" ; Times: 1
+	Query: "Amazilia yucatanensis Texas" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 1
+	Query: "Galbula leucogastra" ; Times: 1
+	Query: "Tyto alba hellmayri" ; Times: 2
+	Query: "Lymnocryptes minimus" ; Times: 1
+	Query: "Gallinago gallinago" ; Times: 1
+	Query: "Rallus elegans" ; Times: 1
+	Query: "Turdus ignobilis arthuri" ; Times: 1
+	Query: "painted bunting vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ardea alba Texas" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Egretta thula Texas" ; Times: 1
+	Query: "Gallinago nemoricola" ; Times: 1
+	Query: "great snipe" ; Times: 1
+	Query: "Athene cunicularia floridana" ; Times: 1
+	Query: "celestial monarch" ; Times: 1
+	Query: "Athene cunicularia hypugaea" ; Times: 1
+	Query: "Esacus magnirostris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;himachal pradesh&#34; country:&#34;india&#34;" ; Times: 1
+	Query: "Ardea herodias Texas" ; Times: 1
+	Query: "Amazona albifrons" ; Times: 1
+	Query: "Hydropsalis cayennensis" ; Times: 1
+	Query: "Gymnogyps californianus" ; Times: 1
+	Query: "specificepithet:griseocephalus genus:Dendropicos (kilimensis) hasmass:1" ; Times: 1
+	Query: "Ixobrychus exilis Texas" ; Times: 1
+	Query: "Tyto alba insularis" ; Times: 1
+	Query: "specificepithet:dohertyi" ; Times: 1
+	Query: "specificepithet:arnotti" ; Times: 2
+	Query: "Gallinago megala" ; Times: 1
+	Query: "Polystictus pectoralis brevipennis" ; Times: 1
+	Query: "Gallinago paraguaiae" ; Times: 1
+	Query: "Gallinago solitaria" ; Times: 1
+	Query: "specificepithet:cardinalis genus:cardinalis institutioncode:YPM" ; Times: 1
+	Query: "Myiarchus crinitus Texas" ; Times: 1
+	Query: "Zonotrichia leucophrys Texas" ; Times: 1
+	Query: "Aratinga solstitialis" ; Times: 1
+	Query: "Rallus limicola" ; Times: 1
+	Query: "Tyto alba nigrescens" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Colaptes fernandinae" ; Times: 2
+	Query: "Pelecanus erythrorhynchos Texas" ; Times: 1
+	Query: "Elaenia ruficeps" ; Times: 1
+	Query: "family:Emberizidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:americana genus:Fulica preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Aphelocoma californica" ; Times: 1
+	Query: "Rallus aquaticus" ; Times: 1
+	Query: "Gallinago nobilis" ; Times: 1
+	Query: "specificepithet:virginianus genus:Bubo" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Pelecanus occidentalis Texas" ; Times: 2
+	Query: "Scolopax saturata" ; Times: 1
+	Query: "specificepithet:brunniceps genus:Myioborus" ; Times: 1
+	Query: "Polystictus pectoralis" ; Times: 1
+	Query: "Polytmus theresiae theresiae" ; Times: 1
+	Query: "Passerina amoena" ; Times: 1
+	Query: "vntype:specimen specificepithet:rustica genus:Hirundo preparations:eggs basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Neopelma chrysocephalum" ; Times: 1
+	Query: "specificepithet:nobilis genus:Moho" ; Times: 1
+	Query: "myadestes genibarbis" ; Times: 1
+	Query: "Molothrus ater obscurus" ; Times: 1
+	Query: "Athene cunicularia grallaria" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America lifestage:ADULT haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Aves Kashmir" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "Rallus obsoletus" ; Times: 1
+	Query: "Gallinago media" ; Times: 1
+	Query: "Campylorhynchus griseus" ; Times: 1
+	Query: "vntype:specimen genus:Bubo" ; Times: 1
+	Query: "Rallus indicus" ; Times: 1
+	Query: "Athene brama" ; Times: 1
+	Query: "Gallinago hardwickii" ; Times: 1
+	Query: "vultur gryphus" ; Times: 1
+	Query: "Gallinago jamesoni" ; Times: 1
+	Query: "Nyctanassa violacea Texas" ; Times: 1
+	Query: "Tyto alba pratincola" ; Times: 1
+	Query: "Sarothrura" ; Times: 1
+	Query: "Aves Jammu" ; Times: 1
+	Query: "golden eagle" ; Times: 1
+	Query: "Rallus longirostris" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Esacus recurvirostris" ; Times: 1
+	Query: "Tyto capensis" ; Times: 1
+	Query: "vntype:specimen specificepithet:douglasii genus:Callipepla" ; Times: 1
+	Query: "Bubo virginianus texas" ; Times: 1
+	Query: "Tyto alba tuidara" ; Times: 1
+	Query: "Aratinga maculata" ; Times: 1
+	Query: "class:Aves country:&#34;Sudan&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves hastissue:1" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "canirallus" ; Times: 1
+	Query: "specificepithet:griseocephalus genus:Dendropicos (ruwenzori) hasmass:1" ; Times: 1
+	Query: "Egretta tricolor Texas" ; Times: 1
+	Query: "Laterallus jamaicensis" ; Times: 1
+	Query: "Platalea ajaja Texas" ; Times: 1
+	Query: "Butorides virescens Texas" ; Times: 1
+	Query: "Tyto alba delicatula" ; Times: 1
+	Query: "vntype:specimen genus:Philortyx" ; Times: 1
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 1
+	Query: "specificepithet:macroura genus:Zenaida continent:North America lifestage:Adult haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Egretta rufescens Texas" ; Times: 1
+	Query: "Hylophilus brunneiceps" ; Times: 1
+	Query: "phyllastrephus icterinus" ; Times: 1
+	Query: "specificepithet:griseocephalus genus:Dendropicos hasmass:1" ; Times: 2
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "Rallus elegans elegans" ; Times: 1
+	Query: "Gallinago stricklandii" ; Times: 1
+	Query: "hypothymis coelestis" ; Times: 1
+	Query: "Tyto alba furcata" ; Times: 1
+	Query: "Rallus crepitans grossi" ; Times: 1
+	Query: "Rallus madagascariensis" ; Times: 1
+	Query: "Plegadis chihi Texas" ; Times: 1
+	Query: "Polytmus theresiae" ; Times: 1
+	Query: "Xenopipo atronitens" ; Times: 1
+	Query: "Coereba flaveola" ; Times: 1
+	Query: "Barn Owl hasmass:1" ; Times: 1
+	Query: "Gallinago stenura" ; Times: 1
+	Query: "Scolopax" ; Times: 1
+	Query: "Nycticorax nycticorax Texas" ; Times: 1
+	Query: "Tangara cayana" ; Times: 1
+	Query: "Euphonia plumbea" ; Times: 1
+	Query: "Tyrannus melancholicus mexico" ; Times: 1
+	Query: "Bubulcus ibis Texas" ; Times: 1
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Passerina cyanea" ; Times: 1
+	Query: "specificepithet:astrild genus:Estrilda hasmass:1" ; Times: 1
+	Query: "molt specificepithet:manacus genus:manacus" ; Times: 1
+	Query: "Burhinus bistriatus vocifer" ; Times: 1
+	Query: "Spizella passerina hasmass:1" ; Times: 1
+	Query: "Tyto tenebricosa" ; Times: 1
+	Query: "specificepithet:punctulata genus:Lonchura" ; Times: 1
+	Query: "Tyto alba guatemalae" ; Times: 1
+	Query: "Euphonia finschi" ; Times: 1
+	Query: "Cnemotriccus fuscatus" ; Times: 1
+	Query: "specificepithet:bernicla genus:Branta stateprovince:&#34;Alaska&#34; year &gt;= 1917 year &lt;= 1917" ; Times: 1
+	Query: "Egretta caerulea Texas" ; Times: 1
+	Query: "vntype:specimen class:Aves country:&#34;Guyana&#34;" ; Times: 1
+	Query: "Athene cunicularia troglodytes" ; Times: 1
+	Query: "Campylorhynchus griseus griseus" ; Times: 1
+	Query: "Eudocimus albus Texas" ; Times: 1
+
+
+End of report.
