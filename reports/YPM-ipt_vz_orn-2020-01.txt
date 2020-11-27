@@ -1,0 +1,718 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 774
+Number of records retrieved in searches: 6778
+Number of different countries where searches have been originated: 22
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 28
+	Country: Brazil ; Times: 32
+	Country: Italy ; Times: 1
+	Country: Unknown ; Times: 27
+	Country: France ; Times: 56
+	Country: Peru ; Times: 48
+	Country: Argentina ; Times: 3
+	Country: Ecuador ; Times: 3
+	Country: Australia ; Times: 6
+	Country: Cuba ; Times: 12
+	Country: Germany ; Times: 19
+	Country: Netherlands ; Times: 3
+	Country: Denmark ; Times: 14
+	Country: United States ; Times: 417
+	Country: Sweden ; Times: 13
+	Country: Guadeloupe ; Times: 4
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 9
+	Country: Singapore ; Times: 1
+	Country: India ; Times: 32
+	Country: United Kingdom ; Times: 44
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 39
+	Date: 2020-01-03 ; Times: 35
+	Date: 2020-01-02 ; Times: 33
+	Date: 2020-01-01 ; Times: 11
+	Date: 2020-01-07 ; Times: 7
+	Date: 2020-01-06 ; Times: 16
+	Date: 2020-01-05 ; Times: 13
+	Date: 2020-01-04 ; Times: 11
+	Date: 2020-01-21 ; Times: 21
+	Date: 2020-01-20 ; Times: 62
+	Date: 2020-01-09 ; Times: 23
+	Date: 2020-01-08 ; Times: 17
+	Date: 2020-01-25 ; Times: 7
+	Date: 2020-01-24 ; Times: 44
+	Date: 2020-01-27 ; Times: 35
+	Date: 2020-01-26 ; Times: 17
+	Date: 2020-01-29 ; Times: 30
+	Date: 2020-01-28 ; Times: 45
+	Date: 2020-01-18 ; Times: 8
+	Date: 2020-01-19 ; Times: 15
+	Date: 2020-01-23 ; Times: 32
+	Date: 2020-01-14 ; Times: 75
+	Date: 2020-01-15 ; Times: 12
+	Date: 2020-01-30 ; Times: 30
+	Date: 2020-01-17 ; Times: 15
+	Date: 2020-01-10 ; Times: 37
+	Date: 2020-01-11 ; Times: 2
+	Date: 2020-01-12 ; Times: 5
+	Date: 2020-01-13 ; Times: 28
+	Date: 2020-01-31 ; Times: 27
+	Date: 2020-01-16 ; Times: 22
+
+List of queries that retrieved data from the resource: 
+	Query: "cacicus flavicrissus" ; Times: 3
+	Query: "Nesotrochis debooyi" ; Times: 1
+	Query: "vntype:specimen specificepithet:ruficapilla genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "73465" ; Times: 1
+	Query: "73464" ; Times: 1
+	Query: "ypm 68392" ; Times: 1
+	Query: "streptopelia turtur" ; Times: 3
+	Query: "Tufted duck" ; Times: 1
+	Query: "Chondrohierax uncinatus" ; Times: 1
+	Query: "tetrastes secunda" ; Times: 1
+	Query: "Donacobius atricapilla vntype:specimen year &gt;= 1990 year &lt;= 2020 hassex:1" ; Times: 2
+	Query: "m-36276" ; Times: 1
+	Query: "39717" ; Times: 1
+	Query: "Ramphocoris" ; Times: 1
+	Query: "specificepithet:rufocrissalis genus:melidectes" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Vincent" ; Times: 2
+	Query: "short-eared owl" ; Times: 1
+	Query: "33744" ; Times: 1
+	Query: "YPM 141230" ; Times: 2
+	Query: "YPM 141232" ; Times: 1
+	Query: "specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "98368" ; Times: 1
+	Query: "aristotelis Phalacrocorax" ; Times: 1
+	Query: "salvadorina waigiuensis" ; Times: 1
+	Query: "dasyornis broadbenti" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "red knot" ; Times: 1
+	Query: "29888 institutioncode:YPM aves" ; Times: 1
+	Query: "Sitta neglecta" ; Times: 1
+	Query: "specificepithet:pectoralis genus:coracina country:&#34;kenya&#34;" ; Times: 1
+	Query: "skin-66297" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "vntype:specimen specificepithet:flavicollis genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "sagebrush sparrow" ; Times: 5
+	Query: "genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "&#34;James Bond&#34;" ; Times: 3
+	Query: "Grey-winged Blackbird" ; Times: 1
+	Query: "brotogeris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:braly basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "nestor notabilis" ; Times: 8
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; lifestage:Juvenile" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:dowell basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "bicolored hawk" ; Times: 2
+	Query: "neodrepanis" ; Times: 1
+	Query: "tetrao tschusii" ; Times: 1
+	Query: "witch" ; Times: 1
+	Query: "109716" ; Times: 1
+	Query: "Melanitta deglandi hastissue:1" ; Times: 1
+	Query: "Sinosuthora webbiana" ; Times: 1
+	Query: "Myiarchus cinerascens skel OR skeleton OR Skel OR Skeleton" ; Times: 2
+	Query: "Erythrocercus mccallii vntype:specimen" ; Times: 1
+	Query: "Baryphthengus martii" ; Times: 8
+	Query: "Acanthisitta chloris" ; Times: 1
+	Query: "catalognumber:134710" ; Times: 1
+	Query: "Erythrocercus africa vntype:specimen hastissue:1" ; Times: 2
+	Query: "vntype:specimen specificepithet:magnirostre genus:Malacopteron class:Aves hastissue:1" ; Times: 1
+	Query: "lanius egg maine" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Sao Paulo&#34; country:&#34;Brazil&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Otus sunia" ; Times: 1
+	Query: "Donacobius vntype:specimen year &gt;= 1990 hassex:1" ; Times: 1
+	Query: "Pied thrush" ; Times: 1
+	Query: "Phylloscopus inornatus vntype:specimen" ; Times: 1
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "48995" ; Times: 1
+	Query: "specificepithet:corax genus:corvus preparations:egg year &gt;= 1" ; Times: 1
+	Query: "rainbow snake" ; Times: 1
+	Query: "Synallaxis pudica" ; Times: 1
+	Query: "Common pochard" ; Times: 1
+	Query: "126807" ; Times: 1
+	Query: "Donacobius vntype:specimen year &gt;= 2000 hassex:1" ; Times: 1
+	Query: "Phaenicophaeus curvirostris" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:corless basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "eskimo curlew" ; Times: 7
+	Query: "Guanacaste aramides" ; Times: 1
+	Query: "Erythrocercus vntype:specimen hastissue:1" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Chapin" ; Times: 1
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "diomedea sanfordi" ; Times: 2
+	Query: "foulehaio" ; Times: 1
+	Query: "YPM 141231" ; Times: 1
+	Query: "014872" ; Times: 1
+	Query: "gbifdatasetid:854cf79e-f762-11e1-a439-00145eb45e9a" ; Times: 1
+	Query: "yellow eared bulbul" ; Times: 1
+	Query: "Burhinus capensis" ; Times: 2
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 9
+	Query: "pterodroma cahow vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Robjent" ; Times: 1
+	Query: "specificepithet:cantillans genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "genus:Psarocolius year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:henry havemeyer basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 3
+	Query: "54378" ; Times: 1
+	Query: "Orange-headed Thrush" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "Pied Thrush" ; Times: 1
+	Query: "vntype:specimen specificepithet:olivaceus genus: Rhinomyias class:Aves hastissue:1" ; Times: 1
+	Query: "genus:Lophotriorchis" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 2
+	Query: "parker kenya" ; Times: 1
+	Query: "fieldnumber:3758" ; Times: 1
+	Query: "vntype:specimen order:procellariiformes institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "148451" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "vntype:specimen genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 4
+	Query: "county:&#34;Delaware County&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Eyebrowed Thrush" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Heinrich" ; Times: 1
+	Query: "Myadestes genibarbis vntype:specimen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:clark basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dulus dominicus" ; Times: 1
+	Query: "Vireolanius pulchellus vntype:specimen country:&#34;Costa Rica&#34;" ; Times: 12
+	Query: "ypm 18907" ; Times: 1
+	Query: "marungensis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "genus:Cacicus hastissue:1" ; Times: 1
+	Query: "Donacobius vntype:specimen" ; Times: 1
+	Query: "specificepithet:melanolophus genus:gorsachius country:&#34;philippines&#34;" ; Times: 1
+	Query: "specificepithet:breweri genus:spizella preparations:egg" ; Times: 1
+	Query: "Greylag goose" ; Times: 1
+	Query: "pterodroma kermadec" ; Times: 4
+	Query: "109191" ; Times: 1
+	Query: "116269" ; Times: 1
+	Query: "39813" ; Times: 1
+	Query: "vntype:specimen specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Polioptila albiloris vntype:specimen stateprovince:&#34;Yucatan&#34;" ; Times: 1
+	Query: "Myiarchus tuberculifer skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "vntype:specimen specificepithet:sepiaria class:Aves hastissue:1" ; Times: 1
+	Query: "semple" ; Times: 1
+	Query: "105377" ; Times: 1
+	Query: "genus:Helicolestes" ; Times: 2
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Moses" ; Times: 1
+	Query: "lycocorax" ; Times: 2
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 3
+	Query: "pachycephala mindorensis" ; Times: 1
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Skin" ; Times: 1
+	Query: "atlapetes chiriqui" ; Times: 1
+	Query: "115966" ; Times: 1
+	Query: "specificepithet:crepitans genus:Rallus month &gt;= 5 month &lt;= 9 hastissue:1" ; Times: 1
+	Query: "Ciconia abdimii" ; Times: 3
+	Query: "Aethopyga gouldiae dabryii" ; Times: 2
+	Query: "genus:myrmecocichla country:&#34;angola&#34;" ; Times: 1
+	Query: "dryobates arizonae" ; Times: 1
+	Query: "vntype:specimen specificepithet:picta genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "12356" ; Times: 2
+	Query: "Baeza-Lago Agrio Road sibley" ; Times: 1
+	Query: "Sitta nagaensis" ; Times: 3
+	Query: "82941 institutioncode:YPM aves" ; Times: 1
+	Query: "(zapopan)" ; Times: 3
+	Query: "YPM 114673" ; Times: 1
+	Query: "Eupherusa egregia" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbratilis genus:Rhinomyias class:Aves hastissue:1" ; Times: 1
+	Query: "USNM 7021" ; Times: 1
+	Query: "Formicivora caudata" ; Times: 1
+	Query: "124065" ; Times: 2
+	Query: "grus antigone" ; Times: 2
+	Query: "Mallard Duck" ; Times: 2
+	Query: "Donacobius vntype:specimen hastissue:1" ; Times: 2
+	Query: "Oceanites oceanicus antarctica" ; Times: 1
+	Query: "Tyrannus couchii skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Havemeyer" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Beatty" ; Times: 1
+	Query: "phaeoptila" ; Times: 1
+	Query: "Sporophila crassirostris vntype:specimen" ; Times: 1
+	Query: "vntype:specimen genus:Prinia class:Aves hastissue:1" ; Times: 2
+	Query: "amazilia hoffmanni" ; Times: 1
+	Query: "115914" ; Times: 1
+	Query: "egg vntype:specimen (grus AND antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Psittacara wagleri" ; Times: 7
+	Query: "128596" ; Times: 1
+	Query: "Myiarchus tyrannulus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "vntype:specimen genus:Tricholestes class:Aves hastissue:1" ; Times: 1
+	Query: "catalognumber:100323 institutioncode:YPM" ; Times: 2
+	Query: "specificepithet:leucophrus genus:Cichlocolaptes" ; Times: 1
+	Query: "Silver-breasted broadbill" ; Times: 1
+	Query: "Tyrannus melancholicus skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "petechia banksi skel OR skeleton OR Skeleton OR Skel" ; Times: 1
+	Query: "vntype:specimen specificepithet:ochraceus genus:Alophoixus class:Aves hastissue:1" ; Times: 1
+	Query: "Icterus prosthemelas vntype:specimen country:&#34;Mexico&#34;" ; Times: 2
+	Query: "specificepithet:Kennicottii genus:Megascops stateprovince:&#34;British Columbia&#34; preparations:Egg" ; Times: 2
+	Query: "psilopsiagon" ; Times: 7
+	Query: "34814" ; Times: 1
+	Query: "Passenger Pigeon" ; Times: 3
+	Query: "YPM 8466" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 3
+	Query: "specificepithet:cantillans genus:mirafra" ; Times: 1
+	Query: "jocosus Pycnonotus" ; Times: 2
+	Query: "skin vntype:specimen specificepithet:quiscula genus:Quiscalus institutioncode:YPM" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "class:Aves locality:Palestine country:&#34;israel&#34;" ; Times: 1
+	Query: "grus rubicunda" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Haliaeetus pelagicus skeleton" ; Times: 1
+	Query: "125740" ; Times: 1
+	Query: "35114" ; Times: 2
+	Query: "oceanites oceanicus" ; Times: 2
+	Query: "vntype:specimen specificepithet:lucianii genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "YPM 27154" ; Times: 2
+	Query: "cape may warbler" ; Times: 2
+	Query: "Donacobiidae vntype:specimen hastissue:1" ; Times: 1
+	Query: "accipiter bicolor" ; Times: 1
+	Query: "Picus mentalis" ; Times: 1
+	Query: "Ara militaris" ; Times: 7
+	Query: "genus:ictinia stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Porphyrula martinica" ; Times: 2
+	Query: "62878" ; Times: 1
+	Query: "specificepithet:atrocaudata genus:Terpsiphone" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Reynolds" ; Times: 1
+	Query: "class:aves recordedby:havemeyer basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "62875" ; Times: 1
+	Query: "21820 institutioncode:YPM aves" ; Times: 2
+	Query: "54986" ; Times: 2
+	Query: "turdus poliocephalus mayonensis" ; Times: 1
+	Query: "periparus saramatii" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Clancey" ; Times: 1
+	Query: "vntype:specimen specificepithet:bifasciatus genus:psarocolius" ; Times: 2
+	Query: "kenya parker aves" ; Times: 1
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+	Query: "haematopus leucopodus" ; Times: 2
+	Query: "holotype class:aves continent:africa hastypestatus:1" ; Times: 6
+	Query: "012996" ; Times: 1
+	Query: "habia rubica" ; Times: 1
+	Query: "85834" ; Times: 1
+	Query: "egg new zealand ypm" ; Times: 1
+	Query: "vntype:specimen genus:Cacicus country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "specificepithet:bendirei genus:Toxostoma class:Aves stateprovince:&#34;New Mexico&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "aplonis affinis" ; Times: 1
+	Query: "Myadestes genibarbis" ; Times: 2
+	Query: "Thamnophilus amazonicus" ; Times: 5
+	Query: "Tyrannus cubensis" ; Times: 2
+	Query: "psaltriparus egg" ; Times: 1
+	Query: "parker 1956 kenya" ; Times: 1
+	Query: "100760" ; Times: 1
+	Query: "koklass" ; Times: 1
+	Query: "Merops persicus" ; Times: 3
+	Query: "97174" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius" ; Times: 1
+	Query: "Melanitta fusca hastissue:1" ; Times: 1
+	Query: "xanthotis philemon" ; Times: 2
+	Query: "18975" ; Times: 2
+	Query: "148446" ; Times: 1
+	Query: "vntype:specimen genus:Chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 3
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "Burhinus senegalensis" ; Times: 2
+	Query: "Seicercus whistleri vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:decumanus genus:psarocolius country:&#34;trinidad&#34;" ; Times: 1
+	Query: "neomixis sclateri" ; Times: 1
+	Query: "111121" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Hoesch" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:prill basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Black-breasted Thrush" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:finley basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "52543" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "ypm 63926" ; Times: 1
+	Query: "specificepithet:pectoralis genus:coracina" ; Times: 1
+	Query: "Trochalopteron cachinnans ypm" ; Times: 1
+	Query: "vntype:specimen specificepithet:leucotis genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "asthenes dorbignyi" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Meinertzhagen" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:carl richardson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Zonotrichia year &gt;= 2000 year &lt;= 2019 institutioncode:YPM" ; Times: 1
+	Query: "specificepithet:carolinus genus:Melanerpes preparations:skeleton" ; Times: 2
+	Query: "uria lomvia greenland" ; Times: 1
+	Query: "stateprovince:&#34;oregon&#34; recordedby:bendire basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "13990" ; Times: 2
+	Query: "Baeza-Lago Agrio Road" ; Times: 1
+	Query: "moho nobilis" ; Times: 1
+	Query: "haematotis" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "kenya parker aves 1956" ; Times: 2
+	Query: "143785" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;colombia&#34;" ; Times: 1
+	Query: "lyrurus tschusii" ; Times: 1
+	Query: "ruddy shelduck" ; Times: 5
+	Query: "specificepithet:pectoralis genus:coracina country:&#34;tanzania&#34;" ; Times: 1
+	Query: "genus:podargus class:aves country:&#34;new guinea&#34;" ; Times: 1
+	Query: "akialoa" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 2
+	Query: "black-bellied whistling-duck" ; Times: 1
+	Query: "specificepithet:rufus genus:Cursorius family:Glareolidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:cantwell basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Erythrocercus mccallii vntype:specimen hastissue:1" ; Times: 1
+	Query: "110205" ; Times: 1
+	Query: "british columbia 1929 egg" ; Times: 1
+	Query: "Dendrocopos kizuki" ; Times: 1
+	Query: "fulvous whistling duck" ; Times: 1
+	Query: "Nesoctites" ; Times: 3
+	Query: "class:Aves continent:Africa recordedby:Richard B. Upton" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:anthony basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "flint 1895 aves" ; Times: 1
+	Query: "egg vntype:specimen (antigone AND rubicunda) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:immer genus:Gavia class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "drepanornis bruijnii" ; Times: 3
+	Query: "Tyrannus savana skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "82943 institutioncode:YPM aves" ; Times: 1
+	Query: "chaetops" ; Times: 1
+	Query: "vireo atricapilla" ; Times: 1
+	Query: "common poorwill" ; Times: 2
+	Query: "Selasphorus torridus" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 1
+	Query: "petechia Venezuela" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:william flint basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Caprimulgus country:&#34;philippines&#34;" ; Times: 2
+	Query: "Cuculus thailand" ; Times: 1
+	Query: "vntype:specimen specificepithet:waigiuensis genus:Salvadorina" ; Times: 1
+	Query: "Streptopelia turtur" ; Times: 1
+	Query: "Pipra erythrocephala" ; Times: 1
+	Query: "Erythrocercus mccallii" ; Times: 1
+	Query: "Burhinus indicus" ; Times: 1
+	Query: "65940 institutioncode:YPM aves" ; Times: 1
+	Query: "british columbia 1930 egg" ; Times: 1
+	Query: "red-crested pochard" ; Times: 1
+	Query: "class:Aves fieldnumber:758" ; Times: 1
+	Query: "82923 institutioncode:YPM aves" ; Times: 1
+	Query: "Cranioleuca marcapatae" ; Times: 12
+	Query: "Polioptila albiventris vntype:specimen" ; Times: 1
+	Query: "catalognumber:146922 institutioncode:YPM" ; Times: 2
+	Query: "Cistothorus palustris jalisco" ; Times: 1
+	Query: "Lanius ludovicianus egg mississippi" ; Times: 1
+	Query: "lesser-whistling duck" ; Times: 2
+	Query: "Botaurus pinnatus" ; Times: 2
+	Query: "dulus" ; Times: 1
+	Query: "institutioncode:YPM" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 2
+	Query: "scientificname:Andigena hypoglauca " ; Times: 1
+	Query: "xanthotis madaraszi" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:streator basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Oryzoborus crassirostris vntype:specimen" ; Times: 1
+	Query: "short eared owl" ; Times: 3
+	Query: "Aegolius ridgwayi" ; Times: 1
+	Query: "140174" ; Times: 1
+	Query: "Hooded pitta" ; Times: 3
+	Query: "34953" ; Times: 1
+	Query: "Anthony AND Thryomanes" ; Times: 2
+	Query: "passerculus sandwichensis beldingi" ; Times: 1
+	Query: "Alameda County Cistothorus palustris egg" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:YPM" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:gabrielson basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Common merganser" ; Times: 2
+	Query: "8954 specificepithet:palustris genus:cistothorus" ; Times: 1
+	Query: "87894" ; Times: 1
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:charles doe basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:roseifrons genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "YPM 141229" ; Times: 1
+	Query: "Myiarchus ferox skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "larry brown" ; Times: 2
+	Query: "25179" ; Times: 1
+	Query: "Psittacara leucophthalmus" ; Times: 7
+	Query: "class:Aves continent:Africa recordedby:Lang" ; Times: 1
+	Query: "momotus lessonii year &gt;= 1980 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:bicolor genus:accipiter" ; Times: 4
+	Query: "elf" ; Times: 3
+	Query: "Dasyornis broadbenti" ; Times: 1
+	Query: "opisthocomus" ; Times: 2
+	Query: "genus:psaltriparus preparations:egg" ; Times: 5
+	Query: "Common blackbird" ; Times: 1
+	Query: "Grallaria hypoleuca" ; Times: 8
+	Query: "genus:Prosobonia" ; Times: 2
+	Query: "Burhinus oedicnemus" ; Times: 2
+	Query: "apteryx" ; Times: 1
+	Query: "genus:Caprimulgus family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "Vermivora bachmanii" ; Times: 12
+	Query: "Geositta cunicularia" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 8
+	Query: "102707" ; Times: 1
+	Query: "Cichlocolaptes leucophrus" ; Times: 2
+	Query: "116798" ; Times: 1
+	Query: "116799" ; Times: 1
+	Query: "thamnophilus amazonicus" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra country:&#34;kenya&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Someren" ; Times: 1
+	Query: "Drepanis" ; Times: 3
+	Query: "australis Gallirallus" ; Times: 1
+	Query: "Leptosittaca branickii" ; Times: 7
+	Query: "vntype:specimen specificepithet:sibirica class:Aves hastissue:1" ; Times: 1
+	Query: "ypm 135022" ; Times: 1
+	Query: "Geotrygon larva" ; Times: 1
+	Query: "Amazilia hoffmanni YPM" ; Times: 1
+	Query: "29890 institutioncode:YPM aves" ; Times: 1
+	Query: "vireo bellii kansas" ; Times: 1
+	Query: "Donacobius atricapilla year &gt;= 1990 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "parus saramatii" ; Times: 4
+	Query: "119592" ; Times: 1
+	Query: "Dusky Thrush" ; Times: 1
+	Query: "vntype:specimen genus:chlorophanes class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:albicauda genus:mirafra" ; Times: 2
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1800 year &lt;= 1930" ; Times: 1
+	Query: "YPM 141228" ; Times: 3
+	Query: "class:Aves continent:Africa recordedby:Sage" ; Times: 1
+	Query: "lanius egg saskatchewan" ; Times: 1
+	Query: "vntype:specimen specificepithet:amazonum genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "catalognumber:100911 institutioncode:YPM family:Furnariidae" ; Times: 2
+	Query: "mouhoti" ; Times: 3
+	Query: "blue footed booby" ; Times: 1
+	Query: "Columba squamosa" ; Times: 2
+	Query: "41501" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "ypm 9855" ; Times: 1
+	Query: "27833 aves" ; Times: 1
+	Query: "genus:Spizaetus hastissue:1" ; Times: 2
+	Query: "Erythrocercus mccallii vntype:specimen year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Aquila fasciata" ; Times: 1
+	Query: "boreal owl" ; Times: 1
+	Query: "recordedby:Ervin" ; Times: 1
+	Query: "kenya jackson aves 1956" ; Times: 1
+	Query: "specificepithet:decumanus genus:Psarocolius year &gt;= 1980 hastissue:1" ; Times: 1
+	Query: "parker kenya aves" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;peru&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:angustifrons genus:psarocolius country:&#34;bolivia&#34;" ; Times: 2
+	Query: "Aceros nipalensis Bengal" ; Times: 1
+	Query: "philydor suboles" ; Times: 1
+	Query: "specificepithet:similis genus:anthus country:&#34;kenya&#34;" ; Times: 1
+	Query: "Ascension fregata magnificens" ; Times: 1
+	Query: "Sarkidiornis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "momotus lessonii year &gt;= 1990 year &lt;= 2019" ; Times: 1
+	Query: "Donacobius atricapilla year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "Burhinus vermiculatus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Rand" ; Times: 1
+	Query: "specificepithet:tridactylus genus:Picoides hastissue:1" ; Times: 1
+	Query: "genus:Garrulus hastissue:1" ; Times: 13
+	Query: "philydor rufum" ; Times: 1
+	Query: "class:Aves country:&#34;Botswana&#34; continent:Africa recordedby:Richard B. Upton" ; Times: 1
+	Query: "richmondena" ; Times: 2
+	Query: "class:aves catalognumber:110000" ; Times: 1
+	Query: "Eulampis jugularis" ; Times: 7
+	Query: "Neochen" ; Times: 1
+	Query: "Edward Hodgson" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Ansorge" ; Times: 1
+	Query: "Myiarchus swainsoni skel OR skeleton OR Skel OR Skeleton" ; Times: 1
+	Query: "Patagioenas squamosa" ; Times: 2
+	Query: "bushtit egg" ; Times: 4
+	Query: "catalognumber:137038 institutioncode:YPM family:Furnariidae" ; Times: 4
+	Query: "saltator striatipectus" ; Times: 2
+	Query: "Montifringilla nivalis" ; Times: 1
+	Query: "Passenger pigeon" ; Times: 2
+	Query: "eutoxeres aquila" ; Times: 1
+	Query: "Donacobius vntype:specimen year &gt;= 2000" ; Times: 1
+	Query: "carolina parakeet" ; Times: 1
+	Query: "genus:Vanellus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "Stigmatura napensis" ; Times: 2
+	Query: "Donacobius atricapilla vntype:specimen year &gt;= 1990 year &lt;= 2020" ; Times: 1
+	Query: "vntype:specimen specificepithet:emma genus:Pyrrhura family:Psittacidae order:Psittaciformes class:Aves institutioncode:YPM" ; Times: 1
+	Query: "numenius borealis" ; Times: 4
+	Query: "specificepithet:crepitans genus:Rallus hastissue:1" ; Times: 1
+	Query: "McHenry County Cistothorus palustris" ; Times: 2
+	Query: "glaucidium radiatum" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes class:Aves country:&#34;Honduras&#34;" ; Times: 1
+	Query: "sclerurus caudacutus" ; Times: 8
+	Query: "specificepithet:eurhythmus genus:ixobrychus country:&#34;philippines&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:guira genus:Hemithraupis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Troglodytes rufociliatus vntype:specimen stateprovince:&#34;Chiapas&#34;" ; Times: 2
+	Query: "class:aves stateprovince:&#34;oregon&#34; recordedby:richardson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "White-collared Blackbird" ; Times: 1
+	Query: "claravis" ; Times: 1
+	Query: "Black Rail" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 132 (out of 1584 download events in this period)
+Total number of records downloaded: 22461
+Number of different countries: 13
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 3
+	Country: Brazil ; Times: 2
+	Country: Australia ; Times: 2
+	Country: Italy ; Times: 1
+	Country: Cuba ; Times: 1
+	Country: Denmark ; Times: 1
+	Country: Mexico ; Times: 15
+	Country: France ; Times: 35
+	Country: United States ; Times: 60
+	Country: Sweden ; Times: 2
+	Country: Germany ; Times: 5
+	Country: Unknown ; Times: 4
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 3
+	Date: 2020-01-03 ; Times: 2
+	Date: 2020-01-02 ; Times: 2
+	Date: 2020-01-07 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+	Date: 2020-01-21 ; Times: 4
+	Date: 2020-01-20 ; Times: 6
+	Date: 2020-01-23 ; Times: 7
+	Date: 2020-01-08 ; Times: 6
+	Date: 2020-01-25 ; Times: 6
+	Date: 2020-01-24 ; Times: 15
+	Date: 2020-01-27 ; Times: 15
+	Date: 2020-01-26 ; Times: 8
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-28 ; Times: 27
+	Date: 2020-01-18 ; Times: 1
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 3
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-17 ; Times: 3
+	Date: 2020-01-10 ; Times: 1
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 5
+	Date: 2020-01-31 ; Times: 4
+	Date: 2020-01-09 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "strix occidentalis" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 2011 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Lang" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Goodman" ; Times: 1
+	Query: "specificepithet:arnotti genus:Myrmecocichla family:Muscicapidae class:Aves continent:Africa" ; Times: 1
+	Query: "Ramphodon naevius" ; Times: 1
+	Query: "specificepithet:canorus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Vincent" ; Times: 1
+	Query: "genus:Dicrurus family:Dicruridae class:Aves continent:Africa" ; Times: 1
+	Query: "egg vntype:specimen (antigone) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:psaltriparus preparations:egg" ; Times: 1
+	Query: "genus:leucosticte preparations:egg" ; Times: 1
+	Query: "holotype class:aves" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Moses" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Hoesch" ; Times: 1
+	Query: "stateprovince:&#34;Tabasco&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Haemorhous mexicanus" ; Times: 1
+	Query: "pterodroma vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Burhinus oedicnemus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Allen" ; Times: 1
+	Query: "genus:myrmecocichla country:&#34;angola&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Irwin" ; Times: 1
+	Query: "specificepithet:capensis genus:Emberiza family:Emberizidae class:Aves continent:Africa" ; Times: 2
+	Query: "genus:Caprimulgus family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "holotype family:columbidae" ; Times: 1
+	Query: "pucrasia macrolopha" ; Times: 2
+	Query: "Vermivora bachmanii" ; Times: 1
+	Query: "enicognathus" ; Times: 1
+	Query: "Mycteria ibis" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Arizona&#34; year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "turdus mayonensis" ; Times: 1
+	Query: "touit" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Meinertzhagen" ; Times: 1
+	Query: "Mycteria americana" ; Times: 1
+	Query: "Zenaida aurita" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 2
+	Query: "turdus plumbeus" ; Times: 1
+	Query: "&#34;Charadrius placidus&#34; vntype:specimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:White" ; Times: 1
+	Query: "Cyanocorax caeruleus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Beatty" ; Times: 1
+	Query: "eupsittula pertinax" ; Times: 1
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:henslowii class:aves stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Campeche&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "pterodroma vntype:specimen preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Bates" ; Times: 1
+	Query: "class:aves country:Mexico" ; Times: 1
+	Query: "genus:Dendrocopos hastissue:1" ; Times: 1
+	Query: "Bubo virginianus" ; Times: 2
+	Query: "specificepithet:rufus genus:Cursorius family:Glareolidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "Burhinus superciliaris" ; Times: 1
+	Query: "specificepithet:asio genus:megascops institutioncode:YPM" ; Times: 1
+	Query: "psilopsiagon" ; Times: 1
+	Query: "strix varia" ; Times: 1
+	Query: "Seicercus vntype:specimen (whistleri OR burkii)" ; Times: 1
+	Query: "genus:Anthoscopus family:Remizidae class:Aves continent:Africa" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;California&#34; hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Someren" ; Times: 1
+	Query: "Tragopan melanocephalus" ; Times: 1
+	Query: "Ciconia episcopus" ; Times: 1
+	Query: "Vireo bellii arizonae" ; Times: 1
+	Query: "eskimo curlew" ; Times: 1
+	Query: "Burhinus bistriatus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Richard B. Upton" ; Times: 1
+	Query: "class:Aves hastypestatus:1" ; Times: 1
+	Query: "egg vntype:specimen (antigone AND rubicunda) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Ansorge" ; Times: 1
+	Query: "Mycteria leucocephala" ; Times: 1
+	Query: "drepanornis bruijnii" ; Times: 2
+	Query: "brotogeris jugularis" ; Times: 1
+	Query: "cubanensis" ; Times: 2
+	Query: "class:Aves continent:Africa recordedby:Archer" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Roberts" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year =2007 hastissue:1" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Chapin" ; Times: 1
+	Query: "cathartes burrovianus" ; Times: 2
+	Query: "Strix varia" ; Times: 1
+	Query: "aquila chrysaetos canadensis" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Rand" ; Times: 1
+	Query: "Cynanthus sordidus" ; Times: 1
+	Query: "class:Aves country:&#34;Botswana&#34; continent:Africa recordedby:Richard B. Upton" ; Times: 1
+	Query: "aves hastissue:1 country:mexico" ; Times: 1
+	Query: "vntype:specimen specificepithet:waigiuensis genus:Salvadorina" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Loveridge" ; Times: 1
+	Query: "stateprovince:&#34;Quintana Roo&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "yellow eared bulbul" ; Times: 1
+	Query: "specificepithet:americanus genus:Coccyzus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Robjent" ; Times: 1
+	Query: "Pyrilia haematotis" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Athene cunicularia" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves country:&#34;Botswana&#34; continent:Africa" ; Times: 1
+	Query: "class:Aves country:&#34;Mexico&#34; year &gt;= 2001 year &lt;= 2010 hastissue:1" ; Times: 1
+	Query: "Ciconia maguari" ; Times: 1
+	Query: "eulampis jugularis" ; Times: 1
+	Query: "saltator striatipectus" ; Times: 1
+	Query: "mimus polyglottos" ; Times: 2
+	Query: "Lophophorus impejanus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Clancey" ; Times: 1
+	Query: "class:aves county:&#34;humboldt&#34; recordedby:smith franklin" ; Times: 2
+	Query: "Xanthocephalus" ; Times: 1
+	Query: "tragopan melanocephalus" ; Times: 1
+	Query: "county:&#34;pierce&#34; preparations:egg" ; Times: 1
+	Query: "stateprovince:&#34;Oaxaca&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Glaucidium family:Strigidae class:Aves continent:Africa" ; Times: 1
+	Query: "specificepithet:tephrocotis genus:leucosticte month &gt;= 5 month &lt;= 9 haslifestage:1" ; Times: 1
+	Query: "Sturnus" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Glen" ; Times: 1
+	Query: "pionus menstruus" ; Times: 1
+	Query: "agamia agami" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Williams" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Heinrich" ; Times: 1
+	Query: "genus:Cursorius family:Glareolidae class:Aves continent:Africa" ; Times: 1
+	Query: "stateprovince:&#34;Yucatan&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Forbes-Watson" ; Times: 1
+	Query: "Tyrannus cubensis" ; Times: 1
+	Query: "genus:Xanthocephalus" ; Times: 2
+	Query: "class:Aves country:Mexico" ; Times: 1
+	Query: "class:Aves continent:Africa recordedby:Smithers" ; Times: 1
+	Query: "rainier" ; Times: 1
+	Query: "Thamnophilus amazonicus" ; Times: 1
+
+
+End of report.
