@@ -1,0 +1,1109 @@
+Report for Institution Code YPM, Resource ipt_vz_orn
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 1123
+Number of records retrieved in searches: 12007
+Number of different countries where searches have been originated: 25
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 45
+	Country: Brazil ; Times: 70
+	Country: Unknown ; Times: 61
+	Country: France ; Times: 45
+	Country: Peru ; Times: 10
+	Country: Argentina ; Times: 64
+	Country: Venezuela ; Times: 3
+	Country: Ecuador ; Times: 11
+	Country: Australia ; Times: 135
+	Country: Germany ; Times: 14
+	Country: Hong Kong ; Times: 1
+	Country: Netherlands ; Times: 22
+	Country: Denmark ; Times: 7
+	Country: Philippines ; Times: 4
+	Country: Finland ; Times: 2
+	Country: United States ; Times: 306
+	Country: Sweden ; Times: 2
+	Country: Switzerland ; Times: 6
+	Country: Russia ; Times: 1
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 101
+	Country: India ; Times: 23
+	Country: United Kingdom ; Times: 171
+	Country: Austria ; Times: 4
+	Country: Colombia ; Times: 14
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 78
+	Date: 2020-10-18 ; Times: 7
+	Date: 2020-10-19 ; Times: 9
+	Date: 2020-10-08 ; Times: 44
+	Date: 2020-10-12 ; Times: 55
+	Date: 2020-10-13 ; Times: 231
+	Date: 2020-10-10 ; Times: 41
+	Date: 2020-10-11 ; Times: 35
+	Date: 2020-10-16 ; Times: 11
+	Date: 2020-10-31 ; Times: 7
+	Date: 2020-10-14 ; Times: 17
+	Date: 2020-10-15 ; Times: 12
+	Date: 2020-10-03 ; Times: 18
+	Date: 2020-10-23 ; Times: 80
+	Date: 2020-10-22 ; Times: 58
+	Date: 2020-10-21 ; Times: 28
+	Date: 2020-10-20 ; Times: 42
+	Date: 2020-10-27 ; Times: 31
+	Date: 2020-10-26 ; Times: 23
+	Date: 2020-10-25 ; Times: 5
+	Date: 2020-10-24 ; Times: 15
+	Date: 2020-10-01 ; Times: 38
+	Date: 2020-10-30 ; Times: 51
+	Date: 2020-10-29 ; Times: 9
+	Date: 2020-10-28 ; Times: 24
+	Date: 2020-10-05 ; Times: 19
+	Date: 2020-10-04 ; Times: 7
+	Date: 2020-10-07 ; Times: 22
+	Date: 2020-10-17 ; Times: 16
+	Date: 2020-10-06 ; Times: 22
+	Date: 2020-10-02 ; Times: 68
+
+List of queries that retrieved data from the resource: 
+	Query: "alaska 1915 egg" ; Times: 1
+	Query: "Anser fabalis" ; Times: 1
+	Query: "franciscanus" ; Times: 1
+	Query: "specificepithet:luctuosa institutioncode:YPM" ; Times: 4
+	Query: "Sterna paradisaea" ; Times: 1
+	Query: "family:Pycnonotidae class:Aves preparations:Egg" ; Times: 2
+	Query: "scientificname:Threskiornis aethiopicus" ; Times: 1
+	Query: "Podilymbus podiceps" ; Times: 1
+	Query: "Falco deiroleucus" ; Times: 1
+	Query: "family:Acrocephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen genus:Nomonyx class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "family:Leiothrichidae class:aves preparations:egg" ; Times: 1
+	Query: "Mola mola mappable:1" ; Times: 1
+	Query: "Pagophila eburnea" ; Times: 1
+	Query: "specificepithet:monacha genus:Grus hastissue:1" ; Times: 1
+	Query: "Dendrocopos nanus" ; Times: 1
+	Query: "family:Paradoxornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Dinopium benghalense puncticolle" ; Times: 3
+	Query: "Turdus chrysolaus" ; Times: 1
+	Query: "family:Apodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Cairina moschata" ; Times: 1
+	Query: "genus:Rynchops basisofrecord:PreservedSpecimen" ; Times: 6
+	Query: "zosterops heinrichi" ; Times: 3
+	Query: "andigena" ; Times: 1
+	Query: "Anous tenuirostris" ; Times: 1
+	Query: "Collocalia isonota" ; Times: 2
+	Query: "specificepithet:monacha genus:Grus" ; Times: 1
+	Query: "127701" ; Times: 1
+	Query: "Campephilus principalis" ; Times: 2
+	Query: "family:Phylloscopidae class:Aves preparations:Egg" ; Times: 1
+	Query: "alcedo meninting" ; Times: 1
+	Query: "BRADYPTERUS THORACICUS INDIA" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "42514" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Stercorarius pomarinus" ; Times: 1
+	Query: "mappable:1 scientificname:Cyanoloxia brissonii" ; Times: 12
+	Query: "Chamaepetes unicolor" ; Times: 1
+	Query: "Porphyrio mantelli" ; Times: 1
+	Query: "Turdus ruficollis" ; Times: 1
+	Query: "family:Thamnophilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Thraupidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Apalis thoracica" ; Times: 2
+	Query: "andigena hypoglauca (Colombia)" ; Times: 1
+	Query: "family:Passeridae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Sturnidae class:aves preparations:egg" ; Times: 1
+	Query: "Margarops fuscatus" ; Times: 1
+	Query: "Turdus nigrescens" ; Times: 1
+	Query: "Lophornis ornatus ypm" ; Times: 1
+	Query: "sternula albifrons" ; Times: 1
+	Query: "family:Cinclidae class:Aves preparations:Egg" ; Times: 1
+	Query: "red-breasted sapsucker" ; Times: 1
+	Query: "mappable:1 scientificname:Erithacus rubecula" ; Times: 2
+	Query: "family:Alaudidae class:Aves preparations:Egg" ; Times: 2
+	Query: "casuarius" ; Times: 1
+	Query: "Pinguinus impennis" ; Times: 1
+	Query: "vntype:specimen specificepithet:superciliaris genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 3
+	Query: "chaetura Lawrence" ; Times: 2
+	Query: "white-winged dove" ; Times: 1
+	Query: "vntype:specimen genus:nomonyx class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "Turdus smithi" ; Times: 4
+	Query: "scientificname:Buceros rhinoceros" ; Times: 15
+	Query: "Porphyrio hochstetteri" ; Times: 1
+	Query: "specificepithet:syndactylus genus:bleda country:&#34;kenya&#34;" ; Times: 1
+	Query: "62511" ; Times: 1
+	Query: "Crax alberti" ; Times: 1
+	Query: "Houbaropsis bengalensis vntype:specimen" ; Times: 1
+	Query: "family:irenidae (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "specificepithet:aurifrons genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "Pluvialis squatarola" ; Times: 1
+	Query: "139736" ; Times: 1
+	Query: "vntype:specimen specificepithet:tabuensis family:Rallidae" ; Times: 2
+	Query: "Phalacrocorax magellanicus" ; Times: 1
+	Query: "Phalacrocorax pelagicus" ; Times: 1
+	Query: "recordedby:rasool" ; Times: 9
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "order:passeriformes continent:South America lifestage:adult institutioncode:YPM hasmass:1" ; Times: 1
+	Query: "Anastomus oscitans India" ; Times: 1
+	Query: "Anser indicus" ; Times: 1
+	Query: "class:Aves country:&#34;Australia&#34; preparations:Egg" ; Times: 1
+	Query: "Phalacrocorax bougainvillii" ; Times: 1
+	Query: "Buphagus" ; Times: 1
+	Query: "family:Sylviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Crax fasciolata" ; Times: 1
+	Query: "122944" ; Times: 1
+	Query: "family:Turnicidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:caroli genus:anthoscopus country:&#34;tanzania&#34;" ; Times: 1
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "family:Leiothrichidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Larus marinus" ; Times: 1
+	Query: "Saxicola insignis vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "Rallina eurizonoides" ; Times: 1
+	Query: "family:Apterygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990 NOT CLO" ; Times: 1
+	Query: "scientificname:Aix sponsa" ; Times: 32
+	Query: "scientificname:Dixiphia pipra" ; Times: 1
+	Query: "family:Oceanitidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phalacrocorax gaimardi" ; Times: 1
+	Query: "pavo cristatus" ; Times: 1
+	Query: "107717" ; Times: 1
+	Query: "107711" ; Times: 1
+	Query: "Turdus kessleri" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Ploceus megarhynchus vntype:specimen" ; Times: 1
+	Query: "Recurvirostra avosetta" ; Times: 1
+	Query: "family:Acanthizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phalacrocorax brasilianus" ; Times: 1
+	Query: "43733" ; Times: 1
+	Query: "Forbes-Watson" ; Times: 1
+	Query: "vntype:specimen genus:Gymnobucco" ; Times: 2
+	Query: "Agriornis albicauda" ; Times: 2
+	Query: "atlantic puffin" ; Times: 3
+	Query: "scientificname:Nothocrax urumutum" ; Times: 1
+	Query: "Himantopus mexicanus" ; Times: 1
+	Query: "beebe class:AVES year &gt;= 1890 year &lt;= 1920" ; Times: 1
+	Query: "gbifdatasetid:854cf79e-f762-11e1-a439-00145eb45e9a" ; Times: 2
+	Query: "Brachyramphus brevirostris" ; Times: 1
+	Query: "vntype:specimen specificepithet:gravis genus:Ardenna" ; Times: 1
+	Query: "Sphenocichla" ; Times: 1
+	Query: "Sternula antillarum" ; Times: 1
+	Query: "Calamonastes fasciolatus" ; Times: 2
+	Query: "Vanellus chilensis" ; Times: 1
+	Query: "Butastur indicus" ; Times: 1
+	Query: "scientificname:Crax rubra" ; Times: 1
+	Query: "Tyrannus dominicensis" ; Times: 1
+	Query: "scientificname:Oreophasis derbianus" ; Times: 1
+	Query: "specificepithet:scandiacus genus:Bubo hastissue:1" ; Times: 1
+	Query: "family:Dromaiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Xiphidiopicus basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "family:Aegithalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Cisticola fulvicapilla" ; Times: 2
+	Query: "Bonasa umbellus gray" ; Times: 1
+	Query: "scientificname:Pauxi unicornis" ; Times: 1
+	Query: "Bradypterus barratti" ; Times: 3
+	Query: "family:Certhiidae class:aves preparations:egg" ; Times: 1
+	Query: "mappable:1 scientificname:Herpetotheres cachinnans" ; Times: 2
+	Query: "Anas formosa" ; Times: 1
+	Query: "family:Phoenicopteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "quicama" ; Times: 1
+	Query: "vntype:specimen specificepithet:georgica genus:Anas class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Sarda sarda mappable:1" ; Times: 1
+	Query: "family:Artamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Jacanidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Psittacula eupatria" ; Times: 1
+	Query: "Newfoundland specificepithet:minimus genus:Catharus" ; Times: 1
+	Query: "Dinopium benghalense" ; Times: 2
+	Query: "blue eared kingfisher" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Surniculus dicruroides" ; Times: 2
+	Query: "YPM" ; Times: 1
+	Query: "scientificname:Chamaepetes goudotii" ; Times: 1
+	Query: "tangara annectens" ; Times: 2
+	Query: "procnias averano" ; Times: 1
+	Query: "Sterna sumatrana" ; Times: 1
+	Query: "southern lapwing" ; Times: 12
+	Query: "zoonavena" ; Times: 1
+	Query: "family:Cacatuidae class:Aves preparations:Egg" ; Times: 2
+	Query: "class:aves county:&#34;dutchess&#34; year &gt;= 1880 year &lt;= 1920 basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Haematopus ostralegus" ; Times: 2
+	Query: "37567" ; Times: 1
+	Query: "Phalacrocorax auritus" ; Times: 1
+	Query: "egg country:&#34;USA&#34; (chickadee) year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "Bubo zeylonensis india" ; Times: 1
+	Query: "“Austin Smith” Pacific" ; Times: 1
+	Query: "Gallicolumba jobiensis" ; Times: 1
+	Query: "Chroicocephalus brunnicephalus" ; Times: 1
+	Query: "Psilopogon franklinii" ; Times: 2
+	Query: "family:Phaethontidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Podargidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cisticolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Podicipedidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aerodramus bartschi" ; Times: 1
+	Query: "Phalacrocorax capensis" ; Times: 1
+	Query: "specificepithet:furcifer genus:Heliomaster class:aves" ; Times: 1
+	Query: "Zosterornis LUzon" ; Times: 1
+	Query: "prinia gracilis" ; Times: 2
+	Query: "family:Numididae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albifrons genus:Sternula" ; Times: 1
+	Query: "synallaxis inornata" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "family:Ploceidae class:aves preparations:egg" ; Times: 1
+	Query: "North American Black Bear" ; Times: 3
+	Query: "family:Diomedeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Hylocharis chrysura" ; Times: 1
+	Query: "scientificname:Pipile pipile" ; Times: 1
+	Query: "Laniarius atrococcineus" ; Times: 1
+	Query: "Basilinna xantusii" ; Times: 54
+	Query: "Turdus merula" ; Times: 1
+	Query: "vntype:specimen specificepithet:deiroleucus genus:Falco" ; Times: 1
+	Query: "47132" ; Times: 1
+	Query: "scientificname:Accipiter nisus" ; Times: 8
+	Query: "Haematopus palliatus" ; Times: 1
+	Query: "Circaetus gallicus" ; Times: 1
+	Query: "93638" ; Times: 1
+	Query: "malacocincla abbotti" ; Times: 1
+	Query: "family:Certhiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "family:Ptiliogonatidae class:Aves preparations:Egg" ; Times: 2
+	Query: "Aethia cristatella" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "Rhytipterna simplex" ; Times: 1
+	Query: "class:aves county:&#34;dutchess&#34; institutioncode:YPM basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Musophagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Abdulali" ; Times: 2
+	Query: "YPM VZ YPM ORN 141832" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "ypm Santurban" ; Times: 3
+	Query: "ognorhynchus colombia" ; Times: 1
+	Query: "Guanay Cormorant" ; Times: 1
+	Query: "family:Polioptilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Ortalis wagleri" ; Times: 1
+	Query: "cyanifrons colombia" ; Times: 1
+	Query: "class:aves stateprovince:&#34;new york&#34; recordedby:watson basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Bucorvus" ; Times: 2
+	Query: "family:Paradoxornithidae class:aves preparations:egg" ; Times: 1
+	Query: "Geospiza scandens" ; Times: 1
+	Query: "Turdus naumanni" ; Times: 1
+	Query: "family:Regulidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Furnariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Circus melanoleucos" ; Times: 1
+	Query: "Anas rubripes (Ontario )" ; Times: 2
+	Query: "monster" ; Times: 2
+	Query: "137702" ; Times: 1
+	Query: "Turdus hortulorum" ; Times: 1
+	Query: "scientificname:Mitu mitu" ; Times: 1
+	Query: "family:Estrildidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phalacrocorax penicillatus" ; Times: 1
+	Query: "family:Psittacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "spot-tailed nightjar oaxaca" ; Times: 1
+	Query: "Phalacrocorax varius" ; Times: 1
+	Query: "Phaethornis longuemareus" ; Times: 1
+	Query: "family:Fregatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "25126" ; Times: 1
+	Query: "family:Ciconiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Epimachus fastosus" ; Times: 1
+	Query: "geokichla cinerea" ; Times: 4
+	Query: "Anser albifrons" ; Times: 1
+	Query: "Rissa tridactyla" ; Times: 1
+	Query: "Cinnyris mariquensis" ; Times: 2
+	Query: "Haematopus unicolor" ; Times: 1
+	Query: "family:Regulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Turdus plebejus" ; Times: 1
+	Query: "81916" ; Times: 1
+	Query: "Sporophila lineola" ; Times: 2
+	Query: "family:Sulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Turdus philomelos" ; Times: 1
+	Query: "50854" ; Times: 1
+	Query: "Anas crecca" ; Times: 1
+	Query: "Turdus pelios" ; Times: 1
+	Query: "Larus delawarensis" ; Times: 1
+	Query: "kingdom:Plantae " ; Times: 1
+	Query: "Nannopsittaca vntype:specimen" ; Times: 1
+	Query: "Cymbilaimus lineatus" ; Times: 1
+	Query: "family:Passeridae class:aves preparations:egg" ; Times: 1
+	Query: "family:Ramphastidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Turdus plumbeus" ; Times: 1
+	Query: "Turdoides affinis" ; Times: 1
+	Query: "129208" ; Times: 2
+	Query: "apus niansae" ; Times: 4
+	Query: "mappable:1 scientificname:Sarda sarda" ; Times: 3
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "hemithraupis obidensis" ; Times: 2
+	Query: "family:Spheniscidae class:Aves preparations:Egg" ; Times: 4
+	Query: "Turdoides bicolor" ; Times: 1
+	Query: "family:Sittidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aerodramus inquietus" ; Times: 5
+	Query: "vntype:specimen genus:Foulehaio" ; Times: 3
+	Query: "Turdus obscurus" ; Times: 1
+	Query: "Camarhynchus pallidus" ; Times: 1
+	Query: "ardeotis nigriceps vntype:specimen" ; Times: 1
+	Query: "Xema sabini" ; Times: 1
+	Query: "family:Cinclosomatidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Anhimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Penelope purpurascens" ; Times: 1
+	Query: "Sphenocichla roberti" ; Times: 2
+	Query: "Anas falcata" ; Times: 1
+	Query: "Leptosomus discolor" ; Times: 1
+	Query: "Paramo de santander" ; Times: 1
+	Query: "Phalacrocorax carbo" ; Times: 1
+	Query: "Thalasseus sandvicensis" ; Times: 1
+	Query: "family:Gruidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Penelope superciliaris" ; Times: 1
+	Query: "family:Paradisaeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "gallirallus owstoni" ; Times: 1
+	Query: "Bradornis mariquensis" ; Times: 1
+	Query: "North American black bear" ; Times: 1
+	Query: "Gymnopithys bicolor" ; Times: 1
+	Query: "Cygnus cygnus" ; Times: 1
+	Query: "Carriker norte de santander" ; Times: 1
+	Query: "65634" ; Times: 1
+	Query: "campephilus imperialis" ; Times: 4
+	Query: "todirostrum virididorsale" ; Times: 1
+	Query: "43096" ; Times: 1
+	Query: "sterna argentina" ; Times: 1
+	Query: "family:Cinclidae class:aves preparations:egg" ; Times: 1
+	Query: "scientificname:Crax alberti" ; Times: 1
+	Query: "specificepithet:superciliaris genus:Burhinus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:atra family:Rallidae" ; Times: 1
+	Query: "family:Pipridae class:Aves preparations:Egg" ; Times: 1
+	Query: "LOCUSTELLA THORACICUS INDIA" ; Times: 1
+	Query: "family:Calcariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "schiffornis turdina" ; Times: 2
+	Query: "family:Burhinidae class:Aves preparations:Egg" ; Times: 1
+	Query: "JF 163" ; Times: 1
+	Query: "Trachyphonus vaillantii" ; Times: 1
+	Query: "dinopium benghalense" ; Times: 7
+	Query: "Uraeginthus angolensis" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "100590" ; Times: 2
+	Query: "Thalasseus acuflavidus" ; Times: 1
+	Query: "Phalacrocorax urile" ; Times: 1
+	Query: "family:Corcoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Bombycillidae class:Aves preparations:Egg" ; Times: 2
+	Query: "tropical birds" ; Times: 2
+	Query: "vntype:specimen specificepithet:virginianus genus:Bubo continent:South America" ; Times: 1
+	Query: "Pamplona colombia" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "scientificname:Pauxi pauxi" ; Times: 1
+	Query: "Cyanocorax yucatanicus" ; Times: 1
+	Query: "Zoothera aurea" ; Times: 1
+	Query: "Circus cinereus" ; Times: 4
+	Query: "egg vntype:specimen specificepithet:migratorius genus:turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "Porphyrio porphyrio" ; Times: 1
+	Query: "Morus bassanus" ; Times: 1
+	Query: "family:Casuariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "zosterops kasaicus" ; Times: 4
+	Query: "aerodramus unicolor" ; Times: 1
+	Query: "tephrodornis vernayi" ; Times: 1
+	Query: "Anas acuta" ; Times: 1
+	Query: "pelecanoides garnotii" ; Times: 1
+	Query: "Anser cygnoides" ; Times: 1
+	Query: "family:Estrildidae class:aves preparations:egg" ; Times: 2
+	Query: "Turdus eunomus" ; Times: 1
+	Query: "41813" ; Times: 2
+	Query: "genus:chloropsis (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "Himantopus himantopus" ; Times: 1
+	Query: "Canirallus oculeus" ; Times: 1
+	Query: "family:Anhingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Cygnus olor" ; Times: 1
+	Query: "chrysocolaptes festivus" ; Times: 4
+	Query: "Turdus rufiventris" ; Times: 1
+	Query: "Stercorarius longicaudus" ; Times: 1
+	Query: "spinus cucullatus" ; Times: 3
+	Query: "puna plover" ; Times: 1
+	Query: "genus:Coccyzus country:&#34;Dominican Republic&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:suavissima family:pipridae" ; Times: 1
+	Query: "Passerina rositae" ; Times: 1
+	Query: "Phaps chalcoptera" ; Times: 1
+	Query: "Anas strepera" ; Times: 1
+	Query: "specificepithet:flavifrons genus:Melanerpes basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Coccyzus minor" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 3
+	Query: "vntype:specimen genus:anas class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves stateprovince:&#34;florida&#34; sex:female basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "family:Ploceidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Buteo albicaudatus" ; Times: 1
+	Query: "Branta bernicla" ; Times: 1
+	Query: "primolius maracana" ; Times: 1
+	Query: "Poicephalus manyara" ; Times: 1
+	Query: "specificepithet:caerulescens genus:Setophaga class:Aves hastissue:1" ; Times: 3
+	Query: "66015" ; Times: 1
+	Query: "Larus atricilla" ; Times: 1
+	Query: "C. psittacula" ; Times: 2
+	Query: "family:Gaviidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Pachycephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Branta sandvicensis" ; Times: 1
+	Query: "Cygnus atratus" ; Times: 1
+	Query: "anthus furcatus" ; Times: 1
+	Query: "penguins" ; Times: 1
+	Query: "lesser frigatebird" ; Times: 1
+	Query: "family:Meropidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Thraupidae class:Aves preparations:egg" ; Times: 1
+	Query: "Turtur tympanistria" ; Times: 1
+	Query: "family:Alcedinidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sittidae class:aves preparations:egg" ; Times: 1
+	Query: "Anthracothorax viridigula" ; Times: 1
+	Query: "04622" ; Times: 1
+	Query: "family:Pandionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes year &gt;= 1980 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Sturnidae class:Aves preparations:Egg" ; Times: 1
+	Query: "terenura guianensis" ; Times: 1
+	Query: "Larus glaucoides" ; Times: 1
+	Query: "genus:Casuarius institutioncode:YPM" ; Times: 3
+	Query: "specificepithet:rufipennis genus:illadopsis country:&#34;kenya&#34;" ; Times: 1
+	Query: "hirundapus giganteus" ; Times: 3
+	Query: "vntype:specimen specificepithet:philippensis family:Rallidae hastissue:1" ; Times: 3
+	Query: "Barbatula barbatula" ; Times: 2
+	Query: "Megascops watsonii" ; Times: 2
+	Query: "Bubo scandiacus" ; Times: 3
+	Query: "Micropygia schomburgkii" ; Times: 4
+	Query: "Aptenodytes forsteri" ; Times: 25
+	Query: "family:Psophiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cathartidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Rallus crepitans stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:discors genus:Spatula continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Turdus iliacus" ; Times: 1
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Penelope montagnii" ; Times: 1
+	Query: "family:Cisticolidae class:aves preparations:egg" ; Times: 1
+	Query: "Buteo polyosoma" ; Times: 1
+	Query: "specificepithet:peregrinus genus:Falco preparations:egg" ; Times: 2
+	Query: "family:Otididae class:Aves preparations:Egg" ; Times: 1
+	Query: "Marmaronetta angustirostris" ; Times: 1
+	Query: "thoracica india" ; Times: 1
+	Query: "phylloscopus collybita india" ; Times: 1
+	Query: "Sylvietta rufescens" ; Times: 1
+	Query: "vntype:specimen specificepithet:bicolor family:Rallidae" ; Times: 1
+	Query: "Rynchops niger" ; Times: 1
+	Query: "genus:Rynchops" ; Times: 4
+	Query: "Bubo zeylonensis" ; Times: 1
+	Query: "23783" ; Times: 2
+	Query: "Camarhynchus psittacula" ; Times: 1
+	Query: "scientificname:Ortalis canicollis" ; Times: 1
+	Query: "103517" ; Times: 1
+	Query: "Anser anser" ; Times: 1
+	Query: "family:Psophodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Pipile cumanensis" ; Times: 1
+	Query: "genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "Zosterornis" ; Times: 1
+	Query: "Ciconia ciconia" ; Times: 1
+	Query: "Ptychoramphus aleuticus" ; Times: 1
+	Query: "53447" ; Times: 1
+	Query: "Phylloscopus armandii" ; Times: 1
+	Query: "Emberiza tahapisi" ; Times: 1
+	Query: "Stercorarius parasiticus" ; Times: 1
+	Query: "Stercorarius skua" ; Times: 1
+	Query: "Copsychus niger basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Willisornis poecilinotus" ; Times: 2
+	Query: "Larus crassirostris" ; Times: 1
+	Query: "hylophylax consobrinus" ; Times: 1
+	Query: "54851" ; Times: 1
+	Query: "Anas clypeata" ; Times: 1
+	Query: "36220" ; Times: 2
+	Query: "Saxicola maurus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "142864" ; Times: 2
+	Query: "specificepithet:caroli genus:anthoscopus" ; Times: 1
+	Query: "margarornis rubiginosus" ; Times: 1
+	Query: "Gampsorhynchus rufulus" ; Times: 3
+	Query: "Platyspiza crassirostris" ; Times: 1
+	Query: "family:Motacillidae class:aves preparations:egg" ; Times: 2
+	Query: "hypocnemis implicata" ; Times: 1
+	Query: "genus:Pipilo class:Aves year &gt;= 1981 year &lt;= 1988" ; Times: 2
+	Query: "saltator coerulescens vigorsii" ; Times: 1
+	Query: "genus:Agapornis hasmass:1" ; Times: 8
+	Query: "Pterodroma hasitata vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tadorna tadorna" ; Times: 1
+	Query: "family:Recurvirostridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Creagrus furcatus" ; Times: 2
+	Query: "family:Prunellidae class:aves preparations:egg" ; Times: 2
+	Query: "scientificname:Ortalis cinereiceps" ; Times: 1
+	Query: "family:Phylloscopidae class:aves preparations:egg" ; Times: 1
+	Query: "Anas poecilorhyncha" ; Times: 1
+	Query: "hyacinth macaw" ; Times: 2
+	Query: "family:Rheidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Gallus gallus" ; Times: 2
+	Query: "egg vntype:specimen specificepithet:migratorius genus:Turdus country:&#34;USA&#34; year &gt;= 1920 year &lt;= 2020 month &gt;= 1 month &lt;= 12" ; Times: 1
+	Query: "family:Cettiidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Meliphagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "guanay cormorant" ; Times: 2
+	Query: "family:Megalaimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Chroicocephalus ridibundus" ; Times: 2
+	Query: "Eudocimus albus" ; Times: 1
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Ortalis superciliaris" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona ochrocephala" ; Times: 8
+	Query: "Gymnopithys salvini" ; Times: 2
+	Query: "scientificname:Crax globulosa" ; Times: 1
+	Query: "vntype:specimen specificepithet:akool family:Rallidae" ; Times: 1
+	Query: "YPM VZ YPM ORN 142424" ; Times: 2
+	Query: "specificepithet:americana genus:Mareca continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Lophornis magnificus" ; Times: 1
+	Query: "family:Anseranatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Sterna striata" ; Times: 2
+	Query: "Chrysocolaptes stricklandi" ; Times: 7
+	Query: "Cercotrichas signata" ; Times: 2
+	Query: "scientificname:Ortalis poliocephala" ; Times: 1
+	Query: "osmaston 1904" ; Times: 1
+	Query: "specificepithet:pallidus genus:bradornis country:&#34;kenya&#34;" ; Times: 1
+	Query: "Gymnopithys rufigula" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves continent:south america basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Stercorariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "loriculus" ; Times: 1
+	Query: "specificepithet:noveboracensis genus:Coturnicops class:Aves stateprovince:&#34;Ontario&#34; country:&#34;Canada&#34; continent:North America basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Elaenia martinica" ; Times: 1
+	Query: "family:Calcariidae class:Aves preparations:egg" ; Times: 1
+	Query: "scientificname:Streptopelia decaocto" ; Times: 1
+	Query: "scientificname:Ortalis vetula" ; Times: 2
+	Query: "Pericrocotus erythropygius vntype:specimen" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 1
+	Query: "specificepithet:fasciolata country:&#34;philippines&#34;" ; Times: 1
+	Query: "anas superciliosa hastissue:1" ; Times: 1
+	Query: "family:Haematopodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Phalacrocorax aristotelis" ; Times: 1
+	Query: "racheliae" ; Times: 1
+	Query: "22692" ; Times: 1
+	Query: "family:Tinamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:pusilla genus:cardellina year &gt;= 2010 year &lt;= 2020" ; Times: 1
+	Query: "Gallus sonneratii" ; Times: 4
+	Query: "Aethia psittacula" ; Times: 1
+	Query: "collared plover" ; Times: 1
+	Query: "Porphyrio alleni" ; Times: 1
+	Query: "specificepithet:turdina genus:schiffornis" ; Times: 1
+	Query: "ara maracana" ; Times: 2
+	Query: "family:Cuculidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Pellorneum fuscocapillus" ; Times: 1
+	Query: "Morus serrator" ; Times: 2
+	Query: "leioptila annectens" ; Times: 1
+	Query: "Gymnopithys leucaspis" ; Times: 1
+	Query: "scientificname:Crax alector" ; Times: 1
+	Query: "genus:Rhodonessa" ; Times: 1
+	Query: "Chrysocolaptes festivus" ; Times: 1
+	Query: "Halcyon albiventris" ; Times: 1
+	Query: "Phylloscopus schwarzi" ; Times: 1
+	Query: "genus:Xiphidiopicus" ; Times: 1
+	Query: "specificepithet:eburnea genus:Pagophila year &gt;= 1889 year &lt;= 1900" ; Times: 1
+	Query: "scientificname:Chamaepetes unicolor" ; Times: 4
+	Query: "scientificname:Corvus albus" ; Times: 9
+	Query: "44356" ; Times: 2
+	Query: "Francolinus francolinus vntype:specimen country:&#34;India&#34;" ; Times: 1
+	Query: "Turdus helleri" ; Times: 1
+	Query: "family:Cracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Ammodramus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Turdus cardis" ; Times: 1
+	Query: "cinclus mexicanus year &gt; 1990" ; Times: 1
+	Query: "north american black bear" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "zebra sex:female hasmass:1" ; Times: 1
+	Query: "zosterops chloris" ; Times: 1
+	Query: "Somateria mollissima" ; Times: 1
+	Query: "scientificname:Penelope marail" ; Times: 1
+	Query: "Oreophasis derbianus" ; Times: 1
+	Query: "Phalacrocorax sulcirostris" ; Times: 1
+	Query: "elf" ; Times: 1
+	Query: "Rhodostethia rosea" ; Times: 1
+	Query: "basilinna xantusii" ; Times: 3
+	Query: "Cerorhinca monocerata" ; Times: 1
+	Query: "Phlegopsis erythroptera" ; Times: 1
+	Query: "family:Aramidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves country:&#34;cuba&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "vntype:specimen genus:Ortalis class:Aves country:&#34;paraguay&#34;" ; Times: 1
+	Query: "Eudyptula minor" ; Times: 1
+	Query: "Brachypteryx leucophris basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Graminicola bengalensis vntype:specimen" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "scientificname:Anser cygnoides" ; Times: 1
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "Meleagris gallopavo" ; Times: 1
+	Query: "scientificname:Tadorna ferruginea" ; Times: 1
+	Query: "hassex:1 hasmass:1 zebra" ; Times: 1
+	Query: "specificepithet:nitidula genus:mandingoa country:&#34;kenya&#34;" ; Times: 1
+	Query: "family:Bucerotidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Williams Tanzania 1964" ; Times: 1
+	Query: "mappable:1 scientificname:Picoides borealis" ; Times: 3
+	Query: "specificepithet:eburnea genus:Pagophila" ; Times: 1
+	Query: "specificepithet:ruber genus:Phoenicopterus stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:guttata genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "lepidothrix iris" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 3
+	Query: "Pharomachrus mocinno" ; Times: 1
+	Query: "Larus dominicanus" ; Times: 1
+	Query: "Cygnus columbianus" ; Times: 1
+	Query: "scientificname:Aburria aburri" ; Times: 1
+	Query: "YPM Santurban" ; Times: 3
+	Query: "gallirallus philippensis hastissue:1" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "Prinia burnesii vntype:specimen" ; Times: 1
+	Query: "saltator aurantiirostris" ; Times: 3
+	Query: "Willisornis year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "family:Threskiornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Telophorus sulfureopectus" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "Sula sula" ; Times: 1
+	Query: "Sporopipes squamifrons" ; Times: 1
+	Query: "scientificname:Mitu tomentosum" ; Times: 1
+	Query: "county:&#34;greenup&#34; stateprovince:&#34;Kentucky&#34;" ; Times: 3
+	Query: "vntype:specimen specificepithet:flavirostra family:Rallidae hastissue:1" ; Times: 1
+	Query: "BRADYPTERUS THORACICUS" ; Times: 1
+	Query: "ptiloprora occidentalis" ; Times: 1
+	Query: "golden-winged warbler" ; Times: 1
+	Query: "diademed sandpiper-plover" ; Times: 2
+	Query: "vntype:specimen specificepithet:turdina genus:schiffornis" ; Times: 1
+	Query: "100552" ; Times: 1
+	Query: "scientificname:Mitu tuberosum" ; Times: 1
+	Query: "family:Polioptilidae class:aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:nisus genus:Accipiter year &gt;= 1990" ; Times: 1
+	Query: "lesser scaup" ; Times: 1
+	Query: "Rallus crepitans vntype:specimen stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "mummy" ; Times: 1
+	Query: "picoides tridactylus vntype:specimen hastissue:1" ; Times: 1
+	Query: "catalognumber:124639" ; Times: 1
+	Query: "CM Apodidae" ; Times: 1
+	Query: "Porphyrio melanotus" ; Times: 1
+	Query: "Sterna dougallii" ; Times: 1
+	Query: "specificepithet:formicivorus genus:Melanerpes basisofrecord:PreservedSpecimen hastissue:1" ; Times: 2
+	Query: "Garrulax cineraceus" ; Times: 1
+	Query: "family:Eurypygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "gallirallus hastissue:1" ; Times: 1
+	Query: "scientificname:Penelope ortoni" ; Times: 1
+	Query: "genus:Ortalis class:Aves country:&#34;paraguay&#34;" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "institutioncode:ypm" ; Times: 1
+	Query: "Turdoides longirostris vntype:specimen" ; Times: 1
+	Query: "scientificname:Ortalis motmot" ; Times: 1
+	Query: "vntype:specimen specificepithet:motmot genus:Ortalis class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "Thalasseus bergii" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "family:Tytonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Fratercula corniculata" ; Times: 1
+	Query: "Phoenicoparrus andinus" ; Times: 1
+	Query: "20582" ; Times: 1
+	Query: "Collins 1888" ; Times: 2
+	Query: "Cladorhynchus leucocephalus" ; Times: 1
+	Query: "specificepithet:georgicus genus:Pelecanoides" ; Times: 1
+	Query: "Chalcophaps stephani" ; Times: 1
+	Query: "12803" ; Times: 1
+	Query: "family:Maluridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Epimachus fastosus fastosus" ; Times: 1
+	Query: "vntype:specimen specificepithet:serena family:pipridae" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:YPM hasmass:1" ; Times: 2
+	Query: "telacanthura" ; Times: 2
+	Query: "class:Aves stateprovince:&#34;New South Wales&#34; preparations:Egg" ; Times: 1
+	Query: "Thalasseus elegans" ; Times: 1
+	Query: "scientificname:Ortalis ruficauda" ; Times: 1
+	Query: "Callonetta leucophrys" ; Times: 1
+	Query: "specificepithet:oedicnemus genus:Burhinus hastissue:1" ; Times: 1
+	Query: "family:Trogonidae class:Aves preparations:Egg" ; Times: 2
+	Query: "Pithys" ; Times: 1
+	Query: "prinia polychroa" ; Times: 2
+	Query: "family:Odontophoridae class:Aves preparations:Egg" ; Times: 1
+	Query: "apus unicolor" ; Times: 2
+	Query: "megascops watsonii" ; Times: 7
+	Query: "mionectes palamblae" ; Times: 1
+	Query: "Anas carolinensis" ; Times: 1
+	Query: "Phalacrocorax capillatus" ; Times: 1
+	Query: "county:&#34;clay&#34; stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lepidothrix iris" ; Times: 3
+	Query: "Foulehaio" ; Times: 1
+	Query: "philydor suboles" ; Times: 2
+	Query: "33842" ; Times: 1
+	Query: "33841" ; Times: 2
+	Query: "Passer diffusus" ; Times: 1
+	Query: "Metabolus rugensis" ; Times: 1
+	Query: "scientificname:Penelope jacquacu" ; Times: 1
+	Query: "Dinopium psarodes" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "specificepithet:herodias genus:ardea class:aves county:&#34;monroe&#34; stateprovince:&#34;florida&#34; basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "vntype:specimen specificepithet:coeruleocapilla family:pipridae" ; Times: 1
+	Query: "Aethia pygmaea" ; Times: 1
+	Query: "snake kenya" ; Times: 1
+	Query: "vntype:specimen specificepithet:palmeri family:Rallidae" ; Times: 1
+	Query: "specificepithet:megala genus:gallinago country:&#34;philippines&#34;" ; Times: 1
+	Query: "philydor rufum" ; Times: 2
+	Query: "044816" ; Times: 1
+	Query: "Francolinus gularis vntype:specimen" ; Times: 1
+	Query: "arremon flavirostris" ; Times: 1
+	Query: "Recurvirostra americana" ; Times: 1
+	Query: "stachyris insuspectum" ; Times: 1
+	Query: "amandava formosa vntype:specimen" ; Times: 1
+	Query: "scientificname:Ortalis garrula" ; Times: 1
+	Query: "Chrysocolaptes erythrocephalus" ; Times: 2
+	Query: "99233" ; Times: 2
+	Query: "scientificname:Pipile jacutinga" ; Times: 1
+	Query: "red-naped sapsucker" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 2
+	Query: "uis" ; Times: 1
+	Query: "scientificname:Ortalis guttata" ; Times: 1
+	Query: "Filadelphia 1930" ; Times: 4
+	Query: "Tails" ; Times: 1
+	Query: "Black Duck Ontario" ; Times: 1
+	Query: "locality:quicama" ; Times: 2
+	Query: "family:Aegithalidae class:aves preparations:egg" ; Times: 1
+	Query: "Turdus pallidus" ; Times: 1
+	Query: "Turdus nigriceps" ; Times: 1
+	Query: "95097" ; Times: 2
+	Query: "family:Pelecanidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Motacillidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Acrocephalidae class:aves preparations:egg" ; Times: 1
+	Query: "Cyornis hainanus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:crepitans genus:Rallus" ; Times: 1
+	Query: "scientificname:Penelopina nigra" ; Times: 1
+	Query: "Cercotrichas paena basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Cotingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Xantus" ; Times: 1
+	Query: "family:Prunellidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sylviidae class:aves preparations:egg" ; Times: 1
+	Query: "family:dicaeidae (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "Mirafra sabota" ; Times: 1
+	Query: "spot-tailed nightjar" ; Times: 2
+	Query: "class:aves county:&#34;clay&#34; stateprovince:&#34;texas&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:fasciolata genus:locustella country:&#34;philippines&#34;" ; Times: 1
+	Query: "family:Calcariidae class:aves preparations:egg" ; Times: 1
+	Query: "saltatricula multicolor" ; Times: 5
+	Query: "Turdus niveiceps" ; Times: 1
+	Query: "mappable:1 scientificname:Amazona aestiva" ; Times: 11
+	Query: "roderick macfarlane" ; Times: 5
+	Query: "Rallus crepitans" ; Times: 1
+	Query: "Phaenostictus mcleannani" ; Times: 2
+	Query: "family:Rhipiduridae class:Aves preparations:Egg" ; Times: 1
+	Query: "Eumyias panayensis basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "09550" ; Times: 1
+	Query: "42953" ; Times: 1
+	Query: "Fregetta" ; Times: 1
+	Query: "scientificname:Penelope obscura" ; Times: 1
+	Query: "Geranospiza caerulescens" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 308 (out of 1521 download events in this period)
+Total number of records downloaded: 46180
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 18
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 5
+	Country: Colombia ; Times: 1
+	Country: Mexico ; Times: 31
+	Country: Hong Kong ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: India ; Times: 14
+	Country: France ; Times: 1
+	Country: United Kingdom ; Times: 2
+	Country: Australia ; Times: 171
+	Country: Peru ; Times: 1
+	Country: Denmark ; Times: 3
+	Country: Kenya ; Times: 1
+	Country: United States ; Times: 56
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 51
+	Date: 2020-10-19 ; Times: 1
+	Date: 2020-10-08 ; Times: 9
+	Date: 2020-10-12 ; Times: 44
+	Date: 2020-10-13 ; Times: 6
+	Date: 2020-10-10 ; Times: 30
+	Date: 2020-10-11 ; Times: 23
+	Date: 2020-10-30 ; Times: 5
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-15 ; Times: 10
+	Date: 2020-10-28 ; Times: 5
+	Date: 2020-10-03 ; Times: 10
+	Date: 2020-10-23 ; Times: 9
+	Date: 2020-10-22 ; Times: 12
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 30
+	Date: 2020-10-27 ; Times: 3
+	Date: 2020-10-26 ; Times: 6
+	Date: 2020-10-24 ; Times: 2
+	Date: 2020-10-29 ; Times: 2
+	Date: 2020-10-02 ; Times: 32
+	Date: 2020-10-05 ; Times: 4
+	Date: 2020-10-07 ; Times: 6
+	Date: 2020-10-31 ; Times: 3
+	Date: 2020-10-06 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "family:Motacillidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Parulidae class:Aves preparations:egg" ; Times: 1
+	Query: "specificepithet:affinis genus:Aythya continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Estrildidae class:aves preparations:egg" ; Times: 2
+	Query: "family:Cardinalidae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Phylloscopidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Cettiidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Pycnonotidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Thraupidae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Cracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Phaethontidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Meliphagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Anhingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Podargidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cisticolidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Dicruridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Podicipedidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Hydrobatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Emberizidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Anhimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:suavissima family:pipridae" ; Times: 1
+	Query: "specificepithet:caurinus genus:corvus stateprovince:&#34;Alaska&#34;" ; Times: 1
+	Query: "Passerina rositae" ; Times: 3
+	Query: "family:Cardinalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:tristis genus:Spinus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Apodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:albicollis genus:Zonotrichia continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Numididae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Apterygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alcidae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Aramidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Turdidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Laniidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus bogotensis" ; Times: 1
+	Query: "Pseudocolaptes boissonneautii" ; Times: 1
+	Query: "family:Scolopacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:minor genus:fregata" ; Times: 1
+	Query: "family:Anseranatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Trochilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Calothorax pulcher" ; Times: 1
+	Query: "family:Phylloscopidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Tinamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Melanerpes aurifrons country:&#34;México&#34;" ; Times: 1
+	Query: "Junco insularis" ; Times: 1
+	Query: "family:Bucerotidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Troglodytidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Tyrannidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Gaviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "order:passeriformes lifestage:adult institutioncode:YPM hasmass:1" ; Times: 1
+	Query: "family:Emberizidae class:Aves preparations:egg" ; Times: 1
+	Query: "specificepithet:striatus genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Phoenicoparrus jamesi" ; Times: 1
+	Query: "family:Pachycephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:spinosa genus:Jacana" ; Times: 1
+	Query: "family:Odontophoridae year &gt;= 1970 year &lt;= 2020 hastissue:1" ; Times: 1
+	Query: "family:Thamnophilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Carpodacus mexicanus amplus" ; Times: 1
+	Query: "family:Anatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Certhiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Thraupidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Egretta garzetta" ; Times: 1
+	Query: "vntype:specimen family:Lybiidae" ; Times: 1
+	Query: "Prinia burnesii vntype:specimen" ; Times: 1
+	Query: "family:Meropidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Turdidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Threskiornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:iris family:pipridae" ; Times: 1
+	Query: "family:Sittidae class:aves preparations:egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:nattereri family:pipridae" ; Times: 1
+	Query: "aves paraguay" ; Times: 1
+	Query: "family:Pandionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "andigena hypoglauca (Colombia)" ; Times: 1
+	Query: "family:Passeridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sturnidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Melanerpes country:&#34;México&#34;" ; Times: 2
+	Query: "anthus furcatus" ; Times: 1
+	Query: "specificepithet:canadensis genus:Branta continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Tympanuchus cupido stateprovince:&#34;Nebraska&#34;" ; Times: 1
+	Query: "Phoenicopterus ruber" ; Times: 1
+	Query: "Euptilotis neoxenus" ; Times: 1
+	Query: "family:Cinclidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Polioptilidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Calcariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Psophiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cathartidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Antigone canadensis" ; Times: 2
+	Query: "specificepithet:discors genus:Spatula continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Paradoxornithidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Remizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Accipitridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alaudidae class:Aves preparations:Egg" ; Times: 2
+	Query: "specificepithet:macroura genus:Zenaida continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "Colibri coruscans" ; Times: 1
+	Query: "family:Muscicapidae class:aves preparations:egg" ; Times: 1
+	Query: "genus:myrmecocichla" ; Times: 1
+	Query: "family:Eurypygidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Furnariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "white-winged dove" ; Times: 1
+	Query: "family:Muscicapidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Columbidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Prunellidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aves brazil" ; Times: 1
+	Query: "family:Hirundinidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Bombycillidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Estrildidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Monarchidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Turdoides longirostris vntype:specimen" ; Times: 1
+	Query: "family:Trogonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sylviidae class:aves preparations:egg" ; Times: 1
+	Query: "specificepithet:cooperii genus:Accipiter continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Mimidae class:aves preparations:egg" ; Times: 1
+	Query: "Saxicola jerdoni vntype:specimen" ; Times: 1
+	Query: "specificepithet:migratorius genus:Turdus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:irenidae (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "family:Tytonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Ciconiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:chloropsis (alcohol OR alc OR ethanol OR ETOH OR fluid OR wet OR whole)" ; Times: 1
+	Query: "family:Falconidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Ploceidae class:Aves preparations:Egg" ; Times: 1
+	Query: "campephilus principalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:coruscans genus:Colibri" ; Times: 1
+	Query: "family:Phasianidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:varia genus:strix" ; Times: 1
+	Query: "family:Charadriidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Certhiidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Psophodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Pericrocotus erythropygius vntype:specimen" ; Times: 1
+	Query: "family:Regulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Paradoxornithidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Maluridae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen order:Bucerotiformes" ; Times: 1
+	Query: "vntype:specimen specificepithet:cunicularia genus:athene" ; Times: 1
+	Query: "order:passeriformes continent:South America lifestage:adult institutioncode:YPM hasmass:1" ; Times: 1
+	Query: "specificepithet:fimbriata genus:Amazilia" ; Times: 2
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa preparations:skin hastissue:1" ; Times: 1
+	Query: "family:Corvidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Mimus polyglottos" ; Times: 1
+	Query: "Basilinna xantusii" ; Times: 16
+	Query: "family:Megapodiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:Aves country:&#34;Australia&#34; preparations:Egg" ; Times: 1
+	Query: "junco insularis" ; Times: 1
+	Query: "anthus lutescens" ; Times: 1
+	Query: "family:Ploceidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Acrocephalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sylviidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Turnicidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Emberizidae class:aves preparations:egg" ; Times: 2
+	Query: "Rhynchopsitta preparations:skeleton" ; Times: 1
+	Query: "family:Leiothrichidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Rallidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Psittacidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Passeridae class:aves preparations:egg" ; Times: 1
+	Query: "tachycineta bicolor hassex:1 hasmass:1" ; Times: 1
+	Query: "Saxicola insignis vntype:specimen" ; Times: 1
+	Query: "vntype:specimen specificepithet:umbellus genus:bonasa year &gt;= 1950 year &lt;= 2020 hassex:1 hastissue:1" ; Times: 1
+	Query: "family:Motacillidae class:aves preparations:egg" ; Times: 2
+	Query: "Houbaropsis bengalensis vntype:specimen" ; Times: 1
+	Query: "family:Odontophoridae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:minor genus:Parus" ; Times: 1
+	Query: "Amazona xantholora" ; Times: 1
+	Query: "family:Cinclosomatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:Aves stateprovince:&#34;Karnataka&#34; country:&#34;India&#34; year &gt;= 1750 year &lt;= 1970" ; Times: 1
+	Query: "specificepithet:calendula genus:Regulus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 2
+	Query: "family:Ramphastidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Procellariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "aves brasil" ; Times: 1
+	Query: "family:Oceanitidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Fringillidae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Rheidae class:Aves preparations:Egg" ; Times: 1
+	Query: "genus:Catharus hasmass:1" ; Times: 1
+	Query: "family:Strigidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:serena family:pipridae" ; Times: 1
+	Query: "ardeotis nigriceps vntype:specimen" ; Times: 2
+	Query: "Calcariidae hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:coeruleocapilla family:pipridae" ; Times: 1
+	Query: "Ploceus megarhynchus vntype:specimen" ; Times: 1
+	Query: "family:Megalaimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sturnidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Acanthizidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:Aves country:&#34;Paraguay&#34;" ; Times: 1
+	Query: "bald eagle" ; Times: 2
+	Query: "class:Aves country:&#34;Brazil&#34;" ; Times: 1
+	Query: "family:Otididae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen order:Coraciiformes" ; Times: 1
+	Query: "family:Ptiliogonatidae class:Aves preparations:Egg" ; Times: 2
+	Query: "family:Fringillidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Struthionidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:hyemalis genus:Junco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Regulidae class:aves preparations:egg" ; Times: 1
+	Query: "genus:Rallus stateprovince:&#34;Louisiana&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Ardeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Gruidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alcidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Alcedinidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sittidae class:Aves preparations:Egg" ; Times: 1
+	Query: "Francolinus gularis vntype:specimen" ; Times: 1
+	Query: "family:Paradisaeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Musophagidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Aegithalidae class:Aves preparations:Egg" ; Times: 1
+	Query: "amandava formosa vntype:specimen" ; Times: 1
+	Query: "family:Recurvirostridae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen specificepithet:coronata family:pipridae" ; Times: 1
+	Query: "family:Vireonidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:americana genus:Mareca continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Icteridae class:Aves preparations:egg" ; Times: 1
+	Query: "family:Prunellidae class:aves preparations:egg" ; Times: 2
+	Query: "Graminicola bengalensis vntype:specimen" ; Times: 1
+	Query: "specificepithet:hyacinthinus genus:Anodorhynchus" ; Times: 1
+	Query: "Sierra Madre Occidental" ; Times: 1
+	Query: "Rupicola peruvianus" ; Times: 1
+	Query: "aves bolivia" ; Times: 1
+	Query: "specificepithet:cardinalis genus:Cardinalis continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Mimidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Diomedeidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:sparverius genus:Falco continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "basilinna xantusii" ; Times: 1
+	Query: "family:Cinclidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Dromaiidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Jacanidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Polioptilidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:bicolor genus:Baeolophus bicolor continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Pipridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Stercorariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus correndera" ; Times: 1
+	Query: "family:Leiothrichidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Pelecanidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Troglodytidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Sulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Acrocephalidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Burhinidae class:Aves preparations:Egg" ; Times: 1
+	Query: "class:Aves country:&#34;Bolivia&#34;" ; Times: 1
+	Query: "prinia gracilis" ; Times: 1
+	Query: "Dromaiidae" ; Times: 1
+	Query: "family:Phoenicopteridae class:Aves preparations:Egg" ; Times: 1
+	Query: "(Diglossa) hastissue:1" ; Times: 1
+	Query: "family:Calcariidae class:Aves preparations:egg" ; Times: 1
+	Query: "passer domesticus oklahoma" ; Times: 1
+	Query: "family:Cuculidae class:Aves preparations:Egg" ; Times: 1
+	Query: "&#34;Black-throated Blue Warbler&#34; year &gt;= 1800 year &lt;= 1980" ; Times: 1
+	Query: "specificepithet:melodia genus:Melospiza continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Cotingidae class:Aves preparations:Egg" ; Times: 1
+	Query: "crypturellus obsoletus" ; Times: 2
+	Query: "family:Corcoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Phalacrocoracidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Haematopodidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Parulidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Fregatidae class:Aves preparations:Egg" ; Times: 1
+	Query: "vntype:specimen family:Ramphastidae" ; Times: 1
+	Query: "vntype:specimen family:Bucerotidae" ; Times: 1
+	Query: "genus:Odontophorus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "family:Laridae class:Aves preparations:Egg" ; Times: 1
+	Query: "daphne" ; Times: 1
+	Query: "family:Cisticolidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Picidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Calcariidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Aegithalidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Spheniscidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Fringillidae class:aves preparations:egg" ; Times: 1
+	Query: "family:Paridae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:sponsa genus:Aix continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Rhipiduridae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Cacatuidae class:Aves preparations:Egg" ; Times: 1
+	Query: "specificepithet:pubescens genus:Picoides continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Caprimulgidae class:Aves preparations:Egg" ; Times: 1
+	Query: "anthus hellmayri" ; Times: 1
+	Query: "specificepithet:aurocapilla genus:Seiurus continent:North America haslifestage:1 hassex:1 hasmass:1" ; Times: 1
+	Query: "family:Casuariidae class:Aves preparations:Egg" ; Times: 1
+	Query: "family:Artamidae class:Aves preparations:Egg" ; Times: 1
+	Query: "picoides tridactylus vntype:specimen hastissue:1" ; Times: 1
+	Query: "Caracara plancus" ; Times: 1
+
+
+End of report.
